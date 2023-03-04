@@ -1,0 +1,632 @@
+
+Chapter 3
+Renewable Energy Sources
+	3.1	Solar Energy
+The sun is a sphere of intensely hot gaseous matter. It has diameter of 1.39×109m and is about 1.5×1011m away from the earth. It rotates on its axis about once every four weeks as seen from earth However, it does not rotate as a solid body: the equator takes about 27 days and the polar regions take about 30 days for each rotation. It is a continuous fusion reactor. The temperature of the core is estimated to be around 107K. The energy created by the fusion reaction is transferred out to the surface in a succession of radiative and convective process and finally radiated into the space.
+   The sun radiates in all regions of the spectrum, from radio waves to gamma rays. Our eyes are sensitive to less than one octave of this, from 400 to 750 THz (750 to 400 nm), a region known, for obvious reasons, as visible. Although narrow, it contains about 45% of all radiated energy . At the distance of one astronomical unit, the power density of the solar radiation is about 1367 Wm2, a value called solar constant, which is not really constantit varies a little throughout the year, being largest in January when the earth is nearest the sun.
+Figure 3.1.1: Sun and Earth.
+   The expression power density is used to indicate the number of watts per square meter. This is also known as energy flux. We will use the expression spectral power density to indicate the power density per unit frequency interval or per unit wavelength interval.
+   The power density of solar radiation on the ground is smaller than that in space owing to atmospheric absorption. Radiation of frequencies above 1000 Thz (? <300 nm) is absorbed by the upper atmosphere causing photochemical reactions, producing photoionization, and generally heating up the air. However, this part of the spectrum contains only 1.3% of the solar constant. The ozone layer near 25 km altitude absorbs much of it. Ozone is amazingly opaque to ultraviolet. If the atmosphere were a layer of gas of uniform sea level density , it would be 8 km thick. The photovoltaic process converts solar radiation into useful electrical radiation. It can be considered the fuel for the electricity generation is the energy received from the sun in the form of radiation.
+25
+
+   At least 30% of sunlight is attenuated during its passage through the earths atmosphere.The main causes of such attenuation are:
+• Rayleigh scattering or scattering by molecules in the atmosphere.
+• Scattering by aerosols and dust particles.
+• Absorption by the atmosphere and its constituent gases.
+   The degree of attenuation is highly variable. The important parameter for the incident power under clear conditions is the length of light path through the atmosphere referred as Air Mass(AM). The total radiation at the earth’s surface is the sum of direct radiation and diffused radiation.
+3.1.1
+Solar Constant
+The radiation emitted by the sun and its spatial relationship to the earth result in a nearly fixed intensity of solar radiation outside the earth’s atmosphere. The solar constant is the energy from the sun per unit time, received on a unit area of surface perpendicular to the direction of propagation of the radiation at the earth’s mean distance from the sun outside the atmosphere. The World Radiation Center (WRC) has adopted a value of 1367 W/m2 as the solar constant.
+Irradiance
+Irradiance, I, is defined as the intensity of solar radiation per unit time on a unit surface area of the earth. The unit is taken as W/m2.
+Insolation
+Insolation is the total energy received from the sun in a day in a unit surface area on the earth. The unit of insolation is Wh/m2/perday For Nepal the yearly average insolation can be taken around 4500 to 5500 Wh/m2/perday.
+Peak Sun
+Peak sun is the number obtained by division of insolation by Wh/m2/perday. In most cases, the peak sun or the insolation is treated as a single parameter because they are interrelated by a constant coefficient.
+Air Mass
+Although radiation from the sun’s surface is reasonably constant, when reaching the Earth it is highly variable due to absorption and scattering in atmosphere. When skies are clear, the maximum radiation strikes the Earth’s surface when the sun is directly overhead, and sunlight has the shortest path length through the atmosphere. This path length is usually referred to as the Air Mass. Through which solar radiation must pass to reach the Earth’s surface. The condition when the sun is directly overhead, the distance through which the sun rays penetrate the atmosphere is shortest and is referred to as Air Mass 1 or AM1. AM1.5 (equivalent to a sun angle of 48.2 from overhead or 41.8 from horizontal plane) has become the standard for photovoltaic standards. The air mass can be estimated at any location using the following formula:
+
+	AM = p(1 + (s/h)2	(3.1)
+Where, s is the length of the shadows cast by a vertical post of height h.
+   For Photo Voltaic(PV) cell, it is important to face the array in an angle such that it permits the sunlight for maximum possible duration and intensity. The angle at which the module is inclined is called tilt angle. To determine the optimum tilt angle it will be necessary to locate the position of the sun from the given site on the earth. The position of a site on earth with respect to the sun is determined by two continuously changing angles, namely: the sun’s hour and declination angles, and by one fixed angle that specifies a site’s location on earth, namely the latitude.
+Declination Angle
+The sun’s declination angle is the angular position of the sun at its highest point in the sky with respect to the plane of equator. It depends on the momentary position of the earth in its revolution around the sun. Changes in the declination angle are caused by a simple fact: the earth’s axial tilt of 23.34? remains constant and in the same direction during the earth’s entire orbit around the sun. In the northern hemisphere, the declination angle reaches its most northern and positive peak of 23.45? on June 21st (the summer solstice) and drops to its most southerly and negative peak of ?23.45? on December 21-st (the winter solstice).
+Hour Angle
+?
+28 .
+(3.2)
+Figure 3.1.3: Apparent motion of Sun
+When Latitude is ? , Declination angle ? and hour angle is ws and solar altitude is hs then(see Figure
+3.1.4)
+sinhs = sin?sin? + cos?cos?cosws
+(3.3)
+sin?s = cos?sinws/coshs
+(3.4)
+Figure 3.1.4: Illustration of ?, ?, ws and hs
+Also,
+		(3.5)
+Where, Hg= Monthly average of daily global radiation on horizontal surface.
+Ho= Monthly average of daily global radiation on horizontal surface at same day.
+S=Monthly measured average sunshine per day.
+Smax= Monthly calculated average of day length and a and b are constant.
+	))	(3.6)
+Where, Isc is solar constant(1368Wm?2)
+ws is Sunset hour angle
+To obtain maximum solar radiation over the entire year in an area facing south(in northern hemisphere) tilt angle should be equal to the site’s latitude. The optimal tilt angle of a PV array at any given time equals the latitude angle minus the declination angle. The declination angle changes throughout the year. It can be calculated by the Equation 3.7.
+	Declination angle of sun? = 23.45Sin(360 × (284 + N)/365)	(3.7)
+Where, N is the day number in the year (N=1 for January 1 and N=365 for December 31).
+Global Radiation
+Global radiation is the sum of direct and diffuse solar radiation (i.e. aggregate radiation originating from the Sun) arriving at a level surface.
+Global Irradiance
+It is power density (power/area) of the global radiation arriving at a plane. Unit: W/m2
+Irradiation or Radiation energy(H)
+Energy density (energy/area) of the global radiation arriving at a plane within a certain time interval, calculated by integration of irradiance G over this time interval. This can be one month (mt), one day (d) or one hour (h). Units: kWh/m2 and MJ/m2
+Pyranometer
+An instrument for measuring global radiation (global irradiance G) on a level surface over the whole wavelength range between approximately 0.3 and 3mm. Pyranometer is based on the thermoelectric principle and they are highly accurate but expensive instruments so that they are mainly used by weather services.
+Reference cell
+A calibrated solar cell for measuring global radiation on a level surface. They are much cheaper than pyranometers. They only utilizes a portion of total incident insolation and is calibrated such that under standard conditions (standard spectrum AM1.5, where G =1 kW/m2). It exhibits the same insolation as a pyranometer. In practice there are discrepancies.
+   When solar radiation passes through the Earth’s atmosphere it is attenuated by reflection, absorption and scatter. Irradiance in horizontal plane of the Earth’s surface is weaker than extraterrestrial irradiance Global irradiance(G) on the horizontal plane of the Earth’s surface for sunlight that passes through the Earth’s atmosphere at 90 degree i.e. AM1 with clear skies is roughly 1 kW/m2. Global irradiance for solar radiation after traversing AM1.5 is still 835 W/m2. On a bright day with scattered clouds G can go as high as 1.3 KW/m2 (a phenomenon known as cloud enhancement). Sunlight scatter in the Earth’s atmosphere substantially attenuates direct sunlight, resulting in diffuse light that comes out of the sky from all directions. Solar radiation in some locations is diffuse for the most part.
+	3.1.2	Tracking System
+Since, fixed structure modules do not get good exposure over daylight. So, mounting on tracking structure, have high power gains in total daily output of power(30% or greater can be achieved). Manual tracking along east-west axis is not practical as it has to be changed manually from east to west at fixed interval. Therefore this type tracking is generally automatic. Trackers can be motor driven or solar powered themselves.
+   One of solar powered design involves two tubes of Feron and oil on either side of the modules. Each tube is partially shaded by mask. As the sun moves, one tube becomes more exposed than the other. The Feron expands and either pushes a piston of transfers oil to the other side which causes the structure to move to follow the sun.
+   Motor driven trackers also use two light sensors on either side of the module. Depending upon the difference in the outputs of two sensors, the motor drives the structure in either direction to follow the sun.
+Trackers can be
+• Single axis follow the sun along only one axis(east-west) or
+• Dual axis (east-west and tilt angle) for complete seasonal compensation.
+   Large PV systems have the modules on dual axis trackers, to maximize module output and minimize average costs. For small scale array/modules use of trackers is an economical issue. The gain provided by the tracker has always to be compared with the investment and maintenance cost of the tracker. However manual seasonal adjustment of Figure 3.1.5: Movement of earth on its own axis. tilt angle is advisable to all the PV installations.
+Solar Time
+Time based upon the apparent angular motion of sun across the sky with solar noon as the time the sun crosses the meridian. It does not coincide the local clock time. Two factors needed to obtain solar time from local time a)Constant correction to account the difference in longitude between observers meridian and the meridian in which the local time is based (eg. For Nepal Gaurishankar) b)Second Correction is the equation of time which takes into account of the earth rate of rotation which affect the time the sun crosses the meridian.
+	Solar time = Standard time + 4(Lst ? Lloc) + E	(3.8)
+Where, Lst = Longitude of Standard
+Lloc=Longitude of location
+
+Figure 3.1.6: Movement of earth around sun.
+
+3.1.3	Solar Thermal Energy(STE)
+The basic purpose of solar thermal energy is to collect solar radiation and convert into useful solar energy. The performance of STE depends on factors like availability of solar energy, ambient air temperature and thermal characteristic of solar system itself.
+   When we trace the history of STE, we can find it was used from start of life for drying food and other things. On 500AD, Romans used mica and crude glass to trap the sun’s heat at the same period Anansazi, Indian tribe of colorado used south facing canyon wall to stay warm. In 1760 Horace de Saussure foung room covered with glass gets hotter and in 1860 Auguste Mouchout work on ”Hot Box” first solar powered motor, which involves a glass enclosed iron cauldron connected to a steam engine with copper tube.
+   In 1885, Charles Tellier, flat plate collector filled ammonia instead of water in his work as ammonia has lower boiling point. In 1875, William Adams arranged flat mirrors on the one and focused on blackened stationary boiler with the ability to rotate to follow the sun could run 2.5 HP steam engine. In 1880 John Ericsson developed parabolic trough. In 1906, Frank Shuman double insulated the collectors, added reflectors and a tracking device to achieve higher temp which is used for 55HP irrigation Pump. Solar thermal system can be classified into two categories:
+1. Passive solar thermal system: A passive system does not use a mechanical device to distribute solar heat. An example of a passive system for space heating is a sunspace or solar greenhouse on the south side of the house. Although passive systems are simpler, they may be impractical for a variety of reasons. They can be used for
+(a) Solar Home design
+i. Direct Gain-sunlight directly enters the space it is intended to heat, and is stored and
+released in that area.
+ii. Indirect gain-TrombeWalls
+iii. Isolated Gain-sun rooms
+(b) Heating
+(c) Lighting
+2. Active solar thermal system
+	3.1.4	Solar Thermal Collector
+A collector designed to collect heat by absorbing sunlight, this term is generally applied to solar hot water panels but it can be generic term to denote more complex installations such as solar parabolic reflectors, solar trough and solar tower or simpler installations such as solar air heater. Complex collectors are used in solar power plants used to generate electricity by heating water to produce steam which drives a turbine connected to alternator. Collector types can be
+Flat Plate Collector
+They basically consist of dark plate absorber, a transparent cover that allows sunlight to pass through, heat transport fluid(e.g. air, water) to remove heat from absorber and heat insulated backing to avoid heat loss.
+   The absorber consists of a thin absorber sheet (of thermally stable polymers, aluminium, steel or copper, to which a matte black or selective coating is applied) often backed by a grid or coil of fluid tubing placed in an insulated casing with a glass or polycarbonate cover.
+Heat coming to the absorber plate = t?I
+Heat Loss from the collector = U × (TpTa)
+Heat transfer rate to the fluid in the collector(m
+Collector efficiency =
+Where, I = Solar Irradiance(Wm?2) t=Transmitivity of Glass ? =Absorbility of Plate
+Tp=Plate Temperature
+	Ta =Ambient Temperature	Figure 3.1.8: Flat plate collector.
+U= Overall Heat Loss Coefficient
+Concentrated Collector
+Concentrating, or focusing, collectors intercept direct radiation over a large area and focus it onto a small absorber area. These collectors can provide high temperatures more efficiently than flatplate collectors, since the absorption surface area is much smaller.
+Type of concentrating collector are
+1. Parabolic trough system: These solar collectors use mirrored parabolic troughs to focus the sun’s energy to a fluid-carrying receiver tube located at the focal point of a parabolic curved trough reflector. The energy from the sun sent to the tube heats oil flowing through the tube, and the heat energy is then used to generate electricity in a conventional steam generator.
+
+	(a) Trough Collector	(b) Parabolic Collector
+
+Figure 3.1.9: Concentrating collectors types.
+Generally large parabolic trough power plants are ”hybrids,” meaning they use fossil fuels to supplement the solar output during periods of low solar radiation. They are All aligned along a north south axis so they can track the sun from east to west during the day. Trough designs can incorporate thermal storage setting aside the heat transfer fluid in its hot phase-allowing for electricity generation several hours into the evening
+2. Parabolic dish: The dish-shaped parabolic mirrors as reflectors are used to concentrate and focus the sun’s rays onto a receiver, which is mounted above the dish at the dish center. Receiver absorbs the energy and transfers it to the engine. The ideal concentrator shape is parabolic, created either by a single reflective surface or multiple reflectors, or facets. A 250-kW plant composed of ten 25-kW dish/engine systems requires less than an acre of land.
+3. Power tower: Central receivers (or power towers) use thousands of individual sun-tracking mirrors called ”heliostats” to reflect solar energy onto a receiver located on top of a tall tower. The receiver collects the sun’s heat in a heat transfer fluid (molten salt) that flows through the receiver. The salt’s heat energy is then used to make steam to generate electricity in a conventional steam generator, located at the foot of the tower.
+4. Stationary concentrating collectors:
+	3.1.5	Solar Water Heater(SWH)
+It is the most common use of solar thermal technology for domestic water heating at low temperature (below	100?.
+Only after the energy crisis of 1973 prospects of alternative energy including solar were came to priority.
+   In Nepal, a SWH was installed which was locally made at Department of Mines and Geology. Other report points out that the first prototype SWH was manufactured in 1968 by late Rev. B. R.Saubolle and Asha Brothers in Kathmandu. In 1974 Balaju Yantra Shala(BYS) constructed its first SWH using a old electric heater tank and self made collector. With some improvement BYS supplied to Buda Nilkantha Boarding school,which was the first public use of Solar thermal system in Nepal.
+   In its simplest form it is a piece of black plastic pipe, filled with water, and laid in the sun for Figure 3.1.10: Solar water heater sectional view. the water to heat up. Simple solar water heaters usually comprise a series of pipes that are painted black, sitting inside an insulated box fronted with a glass panel(collector). The fluid to be heated passes through the collector and into a tank for storage. The fluid can be cycled through the tank several times to raise the heat of the fluid to the required temperature(Figure 3.1.10). Two common configurations are:
+Figure 3.1.11: Thermosyphon solar water.
+is that electricity is required to drive the pump. Often the fluid circulating in the collector will
+be treated with an anti-corrosive and /or anti-freeze chemical. In this case, a heat exchanger is required to transfer the heat to the consumers hot water supply.
+2. Thermosyphon: The thermosyphon uses the property hot water to rise above cold water. The tank placed above the top of the collector and as water is heated in the collector it rises and is replaced by cold water from the bottom of the tank. This cycle will continue until the temperature of the water in the tank is equal to that of the panel. Where there is a main water supply fresh cold water is fed into the system from the mains as hot water is drawn off for use(Figure 3.1.11).
+A one-way valve is usually fitted in the system to prevent the reverse occurring at night when the temperature drops.
+Open loop systems allow water to run through the solar panels and be stored in the storage tank to be used. Closed loop systems are where the water that circulates through the solar panel is separate from the water used. The system uses a heat exchanger. This means that anti freeze can be added to the water running through the panels which allows them to be used in cold climates.
+Evacuated Tube Flat Plate Collector(ETC)
+Heat loss to the environment inherent in flat plates is reduced as heat loss due to convection cannot cross a vacuum.
+It forms an efficient isolation mechanism to keep heat inside the collector pipes. Typically, the water piping in an ETC is surrounded by two concentric tubes of glass with a vacuum in between that admits heat from the sun (to heat the pipe) but which limits heat loss back to the environment. The inner tube is coated with a thermal absorbent. Life of the vacuum varies from collector to collector, anywhere from 5 years to 15 years. It is customary to place a reflecting surface behind the array.
+3.1.6	Solar Drier
+A estimate showed that a minimum of 107 million tons of food were lost in 1976 out of 750 million tones produced including durable and perishables!
+About 50% of world’s food and 36% of vegetables Figure 3.1.12: Evacuated tube flat plate Collector of the world are produced in developing countries solar heater.
+where there is enormous food loss during post harvest period, due to spillage contamination, attack by birds, rodents and insects! Even conservation of 50% loss can make the developing countries self sufficient.
+   If the food is not dried the following may happen
+1. Reduction in the germination rate of seed.
+2. Discolouration, which reduces value of foods for many purposes.
+3. Development of mustiness or other undesirable odours or flavours.
+4. Chemical changes that render food undesirable or unfit for processing.
+Figure 3.1.13: Cabinet solar dryer.
+5. Production of toxic products, known as mycotoxins, some of which can be harmful if consumed.
+6. Total spoilage and heating, which sometimes may continue to the point of spontaneous combustion.
+How Drying Helps us?
+1. Reduction of losses
+2. Avoid biological and biochemical processes during storage
+3. Prevents germination and growth of fungi and bacteria
+4. Conservation of nutritional value and taste
+5. Extension of life
+   Natural sun drying is simple and economic but there is no control over drying rate which can leads to crop overheating, discolouration, nutritional change. There will be no protection from rain, dust, birds also slow drying call back to no drying.
+   The advantages of controlled drying are control of temperature and humidity for drying which contributes to product quality, storage capability, hygiene improvement and reduction of wastage.
+   Drying is governed by the principle that for given place, for given amount of absolute humidity, relative humidity increases with decrease in temperature and vice-versa. Lower the relative humidity higher is the evaporative potential hence, as temperature increase, evaporation increase. Types of solar drier.
+1. Open Sun Drying
+2. Controlled Drying
+(a) Passive Mode(Natural Convection)
+i. Direct
+ii. Indirect
+iii. Mixed
+(b) Active Mode Forced Convection)
+	3.1.7	Solar Cooker
+Solar cookers are for cooking by Solar thermal power. They have two main categories: solar ovens and direct solar concentrators. Solar oven is basically a box with a glass cover. The box is lined with insulation and a reflective surface is applied to concentrate the heat onto the pots. The other approach is to reflect the suns rays onto a put, often with a parabolic dish. The pots can be painted black to help with heat absorption. Solar concentrators have parabolic like reflector surface focussing heat on focal point where food is kept for cooking.
+	3.1.8	Solar Thermal Power Plants
+The idea is to use concentrating collectors to produce and supply steam to heat engines. This section is concerned with generation of mechanical and electrical energy from solar energy by processes based mainly on concentrating collectors and heat engines.
+
+Figure 3.1.14: Block diagram of solar thermal power system plants.
+3.1.9	Solar Photovoltaic(PV) Cells
+Semiconductors like Silicon(Si), Germanium(Ge), Selenium(Se), Gallium arsenide(GaAs), gallium phosphide(GaP), Indium phosphide(InP), Cadmium Sulphide(CdS), Cadmium Telluride(CdTe) and Copper Indium diselenide(CuInSe2 or CIS). have electrical conductivity between insulator and conductors and key parameter called band gap energy.
+   Silicon has four valence electrons in its outermost shell. In order to establish a stable electron configuration (rare-gas configuration with eight electrons or octet state), each silicon atom along with four adjacent atoms form a covalent bond, where each atom controls an electron at each bond; thus a bond consists of two electrons. In a silicon crystal, eight electrons are arrayed around each silicon atom, which means that the desired electron configuration has been attained.
+   Although semiconductor conductivity at temperatures above the absolute zero point is considerably higher than the conductivity of insulators, it is very low. This conductivity can be substantially increased by adding suitable external atoms in a process known as semiconductor doping. Doping is a process involving targeted semiconductor contamination that is carried out in a controlled manner.
+   Junction between p and n conducting semiconductors which automatically produces a space charge zone and thus creating electric field. Electrons are diffused into the p-zone from the n-zone, where they fill holes. The positively charged donor atoms left behind produce a positive space charge in the n-zone, while the now negatively charged acceptor atoms engender a negative space charge in the p-zone. These space charges create an electric field in the boundary.
+   Solar Cell is basically a large diode with a barrier layer that is exposed to light. For many light quanta(photon) to arrive at a point near the barrier layer, the (usually n-Si) semiconductor zone facing the light must be ultra thin(e.g. 0.5 mm). The photon with energy >EG can be absorbed , thus allowing for creation of an electron hole pair The electric field E in the barrier layer quickly separates this electron hole pair before it can recombine. Since the charges have been separated, the space charge (and thus the electric field strength in the barrier layer) is reduced until it is no longer strong enough to separate electron hole pairs. It is at this point that the solar cell reaches its opencircuit voltage.
+   Idellly, the equivalent circuit consists of a light Figure 3.1.16: Solar cell structural section view. generated current source in parallel with the diode. In a little real scenario there is resistance in parallel and series. The series resistance (ideally zero) represents the resistance to current offered by the busbars, fingers, contacts and the cell’s bulk semiconductor material. The parallel resistance relate to the non-ideal nature of the pn junction and impurities near the cell’s edges that tend to provide a short circuit path around the junction.
+
+
+Figure 3.1.17: Solar cell, I-V characteristics.
+1. Monocrystalline: Mono-Si also serves as photovoltaic, light-absorbing material in the manufacture of solar cells. It consists of silicon in which the crystal lattice of the entire solid is continuous, unbroken to its edges, and free of any grain boundaries. Mono-Si can be prepared intrinsic, consisting only of exceedingly pure silicon, or doped, containing very small quantities of other elements added to change its semiconducting properties. Monocrystalline silicon is used in the manufacturing of high performance solar cells. They are expensive, efficient, have uniform appearance. Lab efficiencies of 25.0 percent for mono-Si cells are the highest in the commercial PV market ahead of polysilicon with 20.4 percent and all established thin-film technologies namely, CIGS cells (19.8%), CdTe cells (19.6%), and a-Si cells (13.4%).
+2. Polycrystalline: Polycrystalline silicon, also called polysilicon or poly-Si, is a high purity, polycrystalline form of silicon, used as a raw material by the solar photovoltaic and electronics industry. They are less expensive, have lower efficiency, appearance is not uniform in solar plate.
+3. Thin Film or Amorphous Solar Cell: Amorphous silicon (a-Si) is a non-crystalline, allotropic form of silicon and the most well-developed thin film technology to-date. Thin-film silicon is an alternative to conventional wafer (or bulk) crystalline silicon. They have lower efficiency but have lower cost.
+3.2	Hydro Power
+Water constantly moves through a vast global cycle, in which it evaporates from lakes and oceans, forms clouds, precipitates as rain or snow, then flows back to the ocean. The energy of this water cycle, which is driven by the sun, it tapped most efficiently with hydropower. Hydropower plants capture the energy of falling water to generate electricity. The turbine converts the kinetic energy of falling water into mechanical energy. Then a generator converts the mechanical energy from the turbine into electrical energy.
+
+Figure 3.2.1: Hydropower general structure.
+   A dam blocks the water, holds it in a reservoir. Pipes called the penstock bring water from the reservoir to the powerhouse. The drop in elevation in the pen stock is call the ”head.” The force created is the force need to create electricity. Higher volume of water and a higher force of the head create a greater amount of energy. The powerhouse contain the turbines. The turbines move from the force of the head as it flows down the penstock. The rotating turbines turn a shaft that drives generators that produce electricity. Water not used for producing energy is released over the spill way of the dam.
+g?HgQg
+Power Potential(P) =	(3.10) 1000
+Where, g? = Weight density of water = 9810Nm?2
+Hg= Level difference between intake and tailwater(m)
+Qs= Water flow rate at intake (m3s?1)
+   There may be some losses in penstock, turbine, generator, canal, drive, transmission loss etc. Thus efficiency calculation should consider all these losses. In terms of water usage hydropower may be of
+1. Run off River Type: This uses water within the range of the natural river flow. Power output depends upon season as there is no storage of water in reservoir.
+2. Resorvoir/Pondage Type: They have reservoir, that enables regulating the river flow and can supply electricity according to demand also head may later according to water level in reservoir.
+3. Pump storage type: It has an upper reservoir and lower reservoir. It generates power during peak demand and pumps up water during low demand, hence improves load factor.
+3.2.1	Classification of Hydropower
+In Terms of Capacity-Nepal’s Context
+SN
+Name
+Capacity(kW)
+1
+Pico Hydro
+Upto 5kW
+2
+Micro Hydro
+Upto 100kW
+3
+Mini Hydro
+>100kW to 1000kW
+4
+Small Hydro
+>1000kW to 10000kW
+5
+Medium Hydro
+>10000kW to 50000kW
+6
+Large Hydro
+>50000kW
+Table 3.2.1: Classification of hydropower in terms of plant capacity in Nepal
+In Terms of Available Head
+1. Ultra Low Head : Below 3m
+
+	(a) Run off river hydropower.	(b) Pondage hydropower
+
+(c) Pump storage hydropower.
+3.2.2
+A hydraulic turbine is a roto-dynamic fluid machine, which converts hydraulic energy into mechanical energy. Turbine convert energy in the form of falling water into rotating shaft power. The turbine have runner with identical blades or bucket mounted on it, flow guide mechanism or nozzle to direct the flow at required level and outer casting(housing). They are of following types.
+1. Impulse(High Head) turbines:
+2. Reaction(Low Head) turbines:
+In impulse turbine, pressure energy of water
+         Figure 3.2.3: Types of turbine. is completely converted into kinetic energy before hitting the turbine runner. There is no pressure difference between the inlet and outlet of turbine runner. In reaction turbine, there is pressure difference between inlet and outlet of turbine runner. The energy transformed due to decrease in pressure energy or pressure difference is known as reaction effect(Table 3.2.2).
+Pelton Turbine
+It is impulse type turbine, normally use for medium to high head. It can be mounted horizontally and vertically. The multi jet pelton increase flow are used at medium head. At least one jet of water strike the buckets at atmospheric pressure, where maximum jet diameter should be about 1/3 of bucket width.
+SN
+Impulse Turbine
+Reaction Turbine
+1
+High speed jet of water obtained from nozzle strike the runner bucket to rotate runner.
+Runner to be completely filled with water and uses pressure drop across turbine runner.
+2
+It is easy to fabricate.
+Difficult and expensive to fabricate.
+3
+It can tolerate sand.
+Water should be clean.
+4
+It is suitable for medium to high head and also efficient for wide range of flow but have low specific speed.
+It is suitable for low to medium head with poor part flow efficiency but with high specific speed.
+5
+There is no cavitation problem.
+Cavitations must be avoided.
+Table 3.2.2: Difference between Impulse and Reaction turbine.
+The major site having pelton turbine are:
+Kulekhani I	30 × 2MW
+Puwa Khola	3 × 2MW
+Sundarijal	300 × 2KW Pharping	250 × 2KW
+Khimti	12 × 5KW
+Chilime	11 × 2 MW
+Aadhikhola	1.7 × 3MW
+Piluwa	1.5 × 2MW
+Turgo Turbine
+It is an impulse turbine whose components are similar to the Pelton turbine. The only difference is that the jet strikes the plane of the runner on one side (usually at 20 degree) and exists on the other. In turgo turbine, water jet strikes simultaneously three vanes. Same as pelton turbine it can be installed horizontally and vertically but runner size are smaller
+than pelton tubine for same power output. They have higher specific speed and the discharged liquid do not interfere with incoming fluid. They can directly be connected to generator without intermediate costly speed increasing transmission.
+   Some disadvantages or negative aspects are the fabrications of runner and vanes are difficult because of their complex shape also vanes are more fragile than pelton buckets.
+Crossflow Turbine
+It is impulse turbine also known as Banki, Mitchell and ossberger turbine with drum shaped runner. The rectangular nozzle forms the jet, strikes full length of the runner. The flow of water can be increased with runner length and water strikes the blade twice. The partition valve allows part flow and a draught can increase the effective head.
+It can mounted horizontally.	The reaction tur-	Figure 3.2.5: Turgo Turbine.
+bines considered are: Francis, Propeller and Kaplan Turbine.
+
+Figure 3.2.6: Crossflow Turbine.
+Francis Turbine
+A Francis	turbine	has	a	runner	with
+vanes,	usually	nine	or
+G/Vs and the runner which is called reaction pressure and is responsible for the motion of the runner. Water release from a draft tube submersed in water for easy release and reuse of exit water energy.
+Propeller Turbine
+Propellor turbine has high rotational speed than francis turbine thus shaft(generally vertical) can be coupled without speed increasing device(gears). It is less expensive and easy to construct and suitable for repair and maintenance. It requires small generator and applicable for low head and high Figure 3.2.7: Francis Turbine. discharge.
+   Water enters the runner in the axial direction and leaves axially. The pressure at the inlet of the blade is larger than at the exit of the blades. Energy transfer is due to the reaction effect of pressure differences.
+   The main advantages are low cost, small contact and small number of blades thus less friction. Also Kaplan and propeller turbine can be mounted in any angular position but generally mounted in vertical position.
+   Disadvantages are less part load efficiency, absence of adjustable blades and loading on the blades are large due to few number of blades.
+Kaplan Turbine
+Prof. Kaplan (Germany, 1916) invented an adjustable blade propeller turbine. The Kaplan turbine is an axial-flow reaction water turbine that has adjustable blades. They are now widely used throughout the world in high-flow, low-head power production. It is equivalent to propeller turbine at full load. Its part load efficiency is good. In Kaplan turbine the runner blades are adjustable and can be rotated about pivots fixed to boss of the runner.
+   Advantage of Kaplan turbine are compact size for same power, good part load efficiency, low frictional loss and good efficiency for high flow and low head.
+   Disadvantages are large loading on blades due to few number of blades, not suitable for high head and low flow. It is very expensive to design, manufacture and install. There are cavitation problem.
+
+	(a) Propeller Turbine .	(b) Kaplan Turbine.
+Figure 3.2.8: Propeller and Kaplan Turbines.
+
+Figure 3.2.9: Turbine efficiency at different part flow conditions.
+3.2.3	Importance of Micro Hydro Power Project: Nepal’s Context
+It is renewable energy source and make use of locally available water resources with per KW cost very low compared to bigger power plants. Nepal has hilly and isolated settlement with abundance of water resources. Rural areas do not have national grid connection, thus such hydro power can be effective for electrification of rural and remote areas. Since hydropower is eco-friendly, this can lead to heath improvement, sustainable development.
+   Some limitations are hydropower are site specific, long distance of transmission as houses are separated in remote areas and power demand is limited.
+
+3.3. WIND ENERGY
+
+Figure 3.2.10: Major components of Micro Hydropower plant.
+
+Figure 3.2.11: Major components of Micro Hydropower plant contructional wise.
+	3.3	Wind Energy
+Wind is the movement of air caused by pressure differences within the atmosphere. This pressure differences exert a force that causes air masses to move from a region of high pressure to one of low pressure. That movement of air is referred as wind. Such pressure differences are caused primarily by uneven heating effects of the sun on the Earth’s surface.
+   Since ancient times, people have harnessed the winds energy. Over 5,000 years ago, the ancient Egyptians used wind to sail ships on the Nile River. Later, people built windmills to grind wheat and other grains. The earliest known windmills were in Persia (Iran). As late as the 1920s, Americans used small windmills to generate electricity in rural areas without electric service. In the early 1980s wind energy really took off in California, partly because of state policies that encouraged renewable energy sources.
+	3.3.1	Wind Generation
+Wind is simple air in motion. It is caused by the uneven heating of the earth’s surface by the sun. Since the earth’s surface is made of very different types of land and water, it absorbs the sun’s heat at different rates.
+   During the day,the air above the land heats up more quickly than the air over water. The warm air over the land expands and rises, and the heavier,cooler air rushes in to take its place, creating winds. At night, the winds are reversed because the air cools more rapidly overland than over water. In the same way,the large atmospheric winds that circle the earth are created because the land near the earth’s equator is heated more by the sun than the land near the North and South Poles. Today, wind energy is mainly used to generate electricity. Wind is called a renewable energy source because the wind will blow as long as the sun shines.
+                                         Figure 3.3.1: Global wind energy installed capacity. The measurement of wind speeds is usually done using cup anemometer which has vertical axis and three cups which capture the wind and rotates. The number of revolutions per minute is registered electronically. Because of boundary layer effects at the earth’s surface, the wind speed increases with altitude according to
+(3.11)
+Where, v1 and v2 are the wind speed at altitude h respectively, a is ground surface friction coefficient.
+   The first wind energy generator of 20KW capacity(10KW each) was installed in mountainous area of Nepal(Kagbeni) in 1989 as demonstration project. However, within the three month period, blade and tower of the wind generator were broken. The main reason reported was structural failure to withstand the gusty wind speed(source: WECS, 2002).
+   A wind turbine is a rotating machine which converts the kinetic energy in wind into mechanical energy. If the mechanical energy is used directly by machinery, such as a pump or grinding stones, the machine is usually called a windmill but if converted to electricity, the machine is called a wind generator, wind turbine, wind power unit etc.
+The wind power can be calculated as
+		(3.12)
+	Power from a Wind Turbine Rotor =	(3.13)
+Where, Pwind = the specific wind power
+Vav = The average wind speed(m/s)
+ A = Wind rotor cross sectional area(m2) is air pressure(Pa), R is the specific gas constant(287JKg?1K?1).
+Cp = power coefficient, percentage of power in the wind that is converted into mechanical energy. Wind Turbines may be of following types according to the axis of rotation of blades.
+1. Horizontal axis wind turbine(HAWT): The rotor axis is kept horizontal and aligned parallel in the direction of the wind stream.
+2. Vertical axis wind turbine(VAWT): The rotor axis is vertical and fixed, and remains perpendicular to the wind stream.
+Main Components of Wind Turbine
+1. Hub : Rotors attached to low speed shaft
+3.3. WIND ENERGY
+
+Figure 3.3.2: Types of wind turbines.
+2. Gearbox : Needed to increase rotational speed ratio to that required by generator, 20-50 rpm to 1000-1500 rpm
+3. Clutch :Used to engage/disengage gear box to generator
+4. Brakes : Used in emergency/maintenance periods
+5. Yaw drive mechanism : Operated by the electronic controller which senses the wind direction using he wind vane, Normally, the turbine will yaw only a few degrees at a time, when the wind changes its direction
+6. Cooling Unit: Cooling needed for generator may be air or liquid cooled
+7. Tower: Tubular or lattice
+Control Systems in Wind Turbine
+The main purpose of wind turbine control systems is to manage the safe, automatic, continuous operation of the turbine. This reduces operating costs, provides consistent dynamic response and improved product quality and helps to ensure safety. This operation is usually designed to maximize annual energy capture from the wind while minimizing turbine loads.
+   Control systems are typically divided, functionally, if not physically, into three separate parts: (1) a controller that controls numerous wind turbines in a wind farm, (2) a supervisory controller for each individual turbine and, (3) if necessary, separate dynamic controllers for various turbine subsystems in each turbine. These separate controllers operate hierarchically with interlocking control loops.
+
+Figure 3.3.3: Wind turbine control systems.
+
+   The supervisory controller switches between turbine operating states(power production, low wind shutdown, etc.), monitors wind and fault conditions such as high loads and limit conditions, starts and stops the turbine in aa orderly fashion, and provides control inputs to the turbine dynamic controllers, for example, the desired speed ration or rpm.
+   In contrast, dynamic controllers for various turbine components make continuous high speed adjustments to turbine actuators and components as they react to high speed changes in operating conditions. It is used to control systems in which larger system dynamics affect the outcome of control actions. Dynamic controller will manage only specific subsystem of the turbine, leaving control of other subsystems to other dynamic controllers and coordination of various dynamic controllers and other operations to supervisory control systems. They are used to adjust blade pitch to reduce drive train torques, to control power flow in a power electronic converter or to control the position of actuator.
+Wind Farms
+A wind farm or wind park is a group of wind turbines in the same location used to produce electricity. A large wind farm may consist of several hundred individual wind turbines and cover an extended area of hundreds of square miles, but the land between the turbines may be used for agricultural or other purposes. Many of the largest operational onshore wind farms are located in China and the United States. For example, the largest wind farm in the world, Gansu Wind Farm in China has a capacity of over 6,000 MW of power in 2012 with a goal of 20,000 MW by 2020. The Alta Wind Energy Center in California, United States is the largest onshore wind farm outside of China, with a capacity of 1,020
+MW.
+   As a general rule, economic wind generators require wind speed of 16 km/h (10 mph) or greater to construct wind farm. An ideal location would have a near constant flow of non-turbulent wind throughout the year, with a minimum likelihood of sudden powerful bursts of wind. An important factor of turbine siting is also access to local demand or transmission capacity.
+   Individual turbines are interconnected with a medium voltage (usually 34.5 kV) power collection system and communications network. At a substation, this medium-voltage electrical current is increased in voltage with a transformer for connection to the high voltage transmission system. Construction of a land-based wind farm requires installation of the collector system and substation, and possibly access roads to each turbine site.
+3.3.2	Advantages of Wind Energy
+1. The wind is free and with modern technology it can be captured efficiently.
+2. Once the wind turbine is built the energy it produces does not cause green house gases or other pollutants.
+3. Although wind turbines can be very tall each takes up only a small plot of land. This means that the land below can still be used. This is especially the case in agricultural areas as farming can still continue.
+4. Many people find wind farms an interesting feature of the landscape.
+5. Remote areas that are not connected to the electricity power grid can use wind turbines to produce their own supply.
+6. Wind turbines have a role to play in both the developed and third world.
+7. Wind turbines are available in a range of sizes which means a vast range of people and businesses can use them. Single households to small towns and villages can make good use of range of wind turbines available today.
+3.3.3	Disadvantages of Wind Energy
+1. The strength of the wind is not constant and it varies from zero to storm force. This means that wind turbines do not produce the same amount of electricity all the time. There will be times when they produce no electricity at all.
+Many people feel that the countryside should be left untouched, without these large structures being built. The landscape should left in its natural form for everyone to enjoy.
+3.4. GEOTHERMAL ENERGY
+3. Wind turbines are noisy. Each one can generate the same level of noise as a family car travelling at 70 mph.
+4. Birds and bats are affected if wind farm or turbine are constructed on their way.
+5. When wind turbines are being manufactured some pollution is produced. Therefore wind power does produce some pollution.
+6. Large wind farms are needed to provide entire communities with enough electricity.
+	3.4	Geothermal Energy
+Geothermal energy is the heat from the Earth. It’s clean and sustainable. Resources of geothermal energy range from the shallow ground to hot water and hot rock found a few miles beneath the Earth’s surface, and down even deeper to the extremely high temperatures of molten rock called magma. Almost everywhere, the shallow ground or upper 10 feet of the Earth’s surface maintains a nearly constant temperature between 50 and 60F (10 and 16C). Geothemal waters are broadly classified into
+• High-temperature (above 150?): It can be used for electricity generation.
+• Low-temperature (20? to 150?): Low temperature geothermal energy can be used for direct heating for resendial, industrial and commercial applications.
+Geothermal Reservoir/Resources
+1. Hydro thermal Convective System
+(a) Hot Water fields
+(b) Wet steam field
+(c) Dry steam field
+2. Geo-pressured resources 3. Hot Dry Rock(HDR) resource
+4. Magma resource.
+Geothermal Plant Technologies
+Three power plant technologies are being used to convert hydrothermal fluids to produce electricity:
+1. Dry steam plants:
+2. Flashed steam plants:
+3. Binary cycle plants:
+	3.4.1	Geothermal Heat Pumps
+A geothermal heat pump or ground source heat pump (GSHP) is a central heating and/or cooling system that transfers heat to or from the ground.
+   It uses the earth as a heat source (in the winter) or a heat sink (in the summer). This design takes advantage of the moderate temperatures in the ground to boost efficiency and reduce the operational costs of heating and cooling systems, and may be combined with solar heating to form a geosolar system with even greater efficiency.
+   Setup costs are higher than for conventional systems, but the difference is usually returned in energy savings in 3 to 10 years, and even shorter lengths of time with federal, state and utility tax credits and incentives. Geothermal heat pump systems are reasonably warranted by manufacturers, and their working life is estimated at 25 years for inside components and 50+ years for the ground loop.
+
+Figure 3.4.1: Dry steam geothermal plant.
+3.4.2
+Some advantages are:
+1. First and foremost, geothermal energy is renewable, meaning that as long as we don’t pump too much cold water into the earth -cooling off the hot rocks- the energy will just keep on coming!
+2. Secondly, geothermal energy doesn’t produce pollution, and at the same time, it doesn’t contribute to the greenhouse effect!
+3. The power stations for geothermal energy don’t take up a whole bunch of room, and because of this, they tend to have less of an impact on the surrounding environment.
+4. Because geothermal energy is energy in and of itself, no outside sources of fuel are needed to keep the power houses running.
+5. And, even better, geothermal efficiency offers an even more exciting benefit to the frugal home owner - once you’ve built the geothermal power station, the energy is nearly, well, free! While it may require a little energy to actually run the pump, you can tap into the energy that is already being produced to handle this task.
+6. Geothermal power plants provide steady state and predictable baseload power.
+7. They are reliable and work for 98% of time.
+Some disadvantages are:
+1. Many of the best potential resources are located in remote or rural areas, often on federal or state lands.
+Developing projects on federal or state lands can be a challenge. The leasing process can be very cumbersome, especially when a project might conflict with other land uses.
+3.4. GEOTHERMAL ENERGY
+
+Figure 3.4.3: Binary cycle geothermal plant.
+
+expensive.
+4. Using best geothermal resources for electricity production may require an expansion or upgrade of the transmission system.
+5. The success rate for discovering geothermal resources in new, untapped areas is approximately 20%. In areas where wells already are producing, the chance of locating more wells increases to about 80%.
+6. The productivity of geothermal wells decline over time. As a result, it is crucial that developers manage the geothermal resource efficiently.
+7. Dense fog on local atmosphere, radio active material escaping.
+	3.4.3	Applications
+1. Generation of electric power
+2. Industrial Process heat
+3. Food processing
+4. Space heating for building
+5. Bathing facilities
+3.4.4	Geothermal Energy in Nepal
+Efforts were made in Nepal during 1980-1986 to investigate the geothermal springs. Identified about more than 28 geothermal springs in different parts of Nepal . Total potential of geothermal energy resource is not yet known in Nepal. Many of thermal springs are located on the northern colder parts where access to hydroelectricity is very rare. Preliminary study results ; subsurface temperatures, of geothermal are in the range of 85 to 115?C.
+   These temperatures below 150?C is unsuitable for electricity generation. But low temperature water can be used for a number of economic activities. e.g. fish farming, swimming pools, bio-degradation of waste, fermentation, mushroom growing, animal husbandry, greenhouses, irrigation, space heating, drying of stock fish, vegetables, and various farm products and other purposes-soil warming, and space heating. But all these application are to be popularized yet in Nepal.
+Bhu-
+3.5	Biomass and Bioenergy
+The word Biomass is a very comprehensive term comprising of all forms of matter derived from biological activities and are present either on the surface of the soil or at different depths of water, lakes, streams, river, seas, ocean etc. The material of plants and animal is called biomass. It is organic carbon based material that reacts with oxygen in combustion and natural metabolic processes to release heat. The initial material may be transformed by chemical and biological processes to produce intermediate biofuels, such as methane gas, ethanol liquid or charcoal solid. The initial energy of biomass-oxygen system is captured from solar radiation in photosynthesis process.
+   Biomass production varies with local conditions, and is about twice as greater per unit surface area on land than at sea. The industrial use of biomass energy may be large (e.g. sugar-cane). The domestic use of biofuel in wood, dung and plant residues for cooking of prime importance for about 50% of the world’s population. Around 43% of the energy used by the third world country is derived from biomass. Nearly, 2.4 billion people are totally reliant on biomass fuels for their energy needs. During photosynthesis, the Sun’s energy converts water and carbon dioxide into organic matter. Yet only 14% of the world’s energy comes from biomass. If biomass is to be considered renewable, growth must at least keep pace with use. It is disastrous that forest and firewood consumption is significantly outpacing growth in ever increasing areas of the world.
+3.5.1	Types Of Biomass
+1. Forest waste saw dust, leaves, twigs, Shrubs, residues of herbs and herbal products
+Agricultural residues -rice husk, rice straw, rice bran, wheat husk, wheat straw, wheat bran, maize cobs, maize stalks, sugarcane leaves,
+
+
+Figure 3.5.1: Biomass Classification
+3. Industrial waste/residues - sugarcane baggasse, coffee husk, tobacco waste, tea waste Herbal residues
+3.5.2	Conversion of Biomass to Biofuel
+A biofuel is a type of fuel whose energy is derived from biological carbon fixation. Biofuels include fuels derived from biomass conversion, as well as solid biomass, liquid fuels and various biogases Biofuels are gaining increased public and scientific attention, driven by factors such as oil price hikes and the need for increased energy security.
+   Bioethanol is an alcohol made by fermentation, mostly from carbohydrates produced in sugar or starch crops such as corn or sugarcane. Cellulosic biomass, derived from non-food sources, such as trees and grasses, is also being developed as a feedstock for ethanol production. Ethanol can be used as a fuel for vehicles in its pure form, but it is usually used as a gasoline additive to increase octane and improve vehicle emissions. Bioethanol is widely used in the USA and in Brazil
+   Biodiesel is made from vegetable oils and animal fats. Biodiesel can be used as a fuel for vehicles in its pure form, but it is usually used as a diesel additive to reduce levels of particulates, carbon monoxide, and hydrocarbons from diesel powered vehicles. Biodiesel is produced from oils or fats using trans-esterification and is the most common biofuel in Europe.
+   Most transportation fuels are liquids, because vehicles usually require high energy density, as occurs in liquids and solids. High power density can be provided most inexpensively by an internal combustion engine; these engines require clean-burning fuels, to keep the engine clean and minimize air pollution.
+   The fuels that are easiest to burn cleanly are typically liquids and gases. Thus, liquids (and gases that can be stored in liquid form) meet the requirements of being both portable and clean-burning. Also, liquids and gases can be pumped, which means handling is easily mechanized, and thus less laborious. There are basically four major routes for the conversion of biomass to energy and other useful products. 1. Thermo Chemical Conversion process
+(a) Direct Combustion: Direct combustion for immediate heat. Dry homogeneous input is preferred.
+(b) Pyrolysis:This is general term for all processes whereby organic material is heated or partially combusted to produce secondary fuels and chemical products. The input may be wood, biomass residues, municipal waste. It is a physical and chemical decomposition of organic matter brought about by heating in the absence of air. The products of pyrolysis are char, liquid distillates and gas .
+(c) Gasification: It is a process in which solid fuels are broken down by the use of heat with a restricted supply of air to produce combustible gases which can be used as a fuel for internal combustion engines. The gas known as produce gas is a mixture of : CO - 15-29%, H2 - 5-15%, CO2 - 5-15%, N2 - 50-65%, CH4 - few %
+(d) Liquefaction: It is a high temp and high pressure catalytic process,which converts biomass to fuel oil.
+2. Bio-chemeical Conversion Process
+
+Figure 3.5.3: Ethanol Production Process
+(b) Anaerobic digestion: In the absence of free oxygen, certain micro organisms can obtain their own energy supply by reacting with carbon compounds of medium reduction level to produce CO2 and fully reduced carbon fuel methane CH4
+3. Physical Conversion Process: Physical Conversion techniques are aimed at physically altering the form of biomass. For example: a) the size reduction of biomass by chipping, pulverizing b) drying to
+
+Figure 3.5.4: Biomass example: Sugarcane Agro Industry
+reduce water c) Screening d) densification or briquetting. The main purpose is to prepare biomass suitable for combustion .
+Biomass briquette is the densification of loose biomass materials (agricultural residues, forestry wastes, animal wastes etc.) to produce compact solid composites of different sizes called briquettes. Densification is the general process of compressing the raw materials to a certain shape or form using a mould and pressure.
+Briquette is applied to:
+• Improve fuel characteristics
+• Combustion efficiency
+• Waste utilization
+• Easy handling
+• Minimize wastage
+• Transportation
+• Storage
+
+Figure 3.5.5: Briquetting Types
+Application of briquette:
+• Space heating of residence, lodges and restaurants
+• Open Fire Space
+• Wool Dyeing Potential Uses
+• Tea processing
+• Water heating using waste chimney heat
+• Cardamom drying
+• Vegetable and mushroom drying
+• Tobacco curing
+• Drying of silk cocoons
+4. Agro-chemical Conversion Process
+Bioalcohols
+Biologically produced alcohols, most commonly ethanol, and less commonly propanol and butanol, are produced by the action of microorganisms and enzymes through the fermentation of sugars or starches,or cellulose. Biobutanol is often claimed to provide a direct replacement for gasoline, because it can be used directly in a gasoline engine
+   Ethanol fuel is the most common biofuel worldwide, particularly in Brazil. Alcohol fuels are produced by fermentation of sugars derived from wheat, corn, sugar beets, sugar cane, molasses and any sugar or starch from which alcoholic beverages can be made (such as potato and fruit waste, etc.). The ethanol production methods used are enzyme digestion (to release sugars from stored starches), fermentation of the sugars, distillation and drying. The distillation process requires significant energy input for heat (often unsustainable natural gas fossil fuel, but cellulosic biomass such as bagasse, the waste left after sugar cane is pressed to extract its juice, can also be used more sustainably).
+   Ethanol can be used in petrol engines as a replacement for gasoline; it can be mixed with gasoline to any percentage. Most existing car petrol engines can run on blends of up to 15% bioethanol with petroleum/gasoline. Ethanol has a smaller energy density than that of gasoline; this means it takes more fuel (volume and mass) to produce the same amount of work. An advantage of ethanol CH3CH2OH is that it has a higher octane rating than ethanol-free gasoline available at roadside gas stations, which allows an increase of an engine’s compression ratio for increased thermal efficiency. In high altitude (thin air) locations, some states mandate a mix of gasoline and ethanol as a winter oxidizer to reduce atmospheric pollution emissions.
+   Ethanol is also used to fuel bioethanol fireplaces. As they do not require a chimney and are ”flueless”, bioethanol fires are extremely useful for newly built homes and apartments without a flue. The downside to these fireplaces is their heat output is slightly less than electric heat or gas fires.
+   Even dry ethanol has roughly one-third lower energy content per unit of volume compared to gasoline, so larger (therefore heavier) fuel tanks are required to travel the same distance, or more fuel stops are required. With large current unsustainable, un scalable subsidies, ethanol fuel still costs much more per distance travelled than current high gasoline prices in the United States.
+   Methanol is currently produced from natural gas, a non renewable fossil fuel. It can also be produced from biomass as biomethanol. The methanol economy is an alternative to the hydrogen economy, compared to today’s hydrogen production from natural gas.
+   Butanol (C4H9OH) is formed by ABE fermentation (acetone, butanol, ethanol) and experimental modifications of the process show potentially high net energy gains with butanol as the only liquid product. Butanol will produce more energy and allegedly can be burned ”straight” in existing gasoline engines (without modification to the engine or car), and is less corrosive and less water-soluble than ethanol, and could be distributed via existing infrastructures.
+Biodiesel
+In some countries, biodiesel is less expensive than conventional diesel. Biodiesel is the most common biofuel in Europe. It is produced from oils or fats using transesterification and is a liquid similar in composition to fossil/mineral diesel. Chemically, it consists mostly of fatty acid methyl (or ethyl) esters. Feedstocks for biodiesel include animal fats, vegetable oils, soy, rapeseed, jatropha, mahua, mustard, flax, sunflower, palm oil, hemp, field pennycress,Pongamia pinnata and algae.
+   Pure biodiesel (B100) is the lowest-emission diesel fuel. Although liquefied petroleum gas and hydrogen have cleaner combustion, they are used to fuel much less efficient petrol engines and are not as widely available. Biodiesel can be used in any diesel engine when mixed with mineral diesel. In some countries, manufacturers cover their diesel engines under warranty for B100 use.
+   Biodiesel is also safe to handle and transport because it is as biodegradable as sugar, one-tenth as toxic as table salt, and has a high flash point of about 300?F (148?C) compared to petroleum diesel fuel, which has a flash point of 125?F (52?C).
+Vegetable Oil
+Straight unmodified edible vegetable oil is generally not used as fuel, but lower-quality oil can and has been used for this purpose. Used vegetable oil is increasingly being processed into biodiesel, or (more rarely) cleaned of water and particulates and used as a fuel.
+   Oils and fats can be hydrogenated to give a diesel substitute. The resulting product is a straightchain hydrocarbon with a high cetane(?) number, low in aromatics and sulphur and does not contain oxygen. Hydrogenated oils can be blended with diesel in all proportions. They have several advantages over biodiesel, including good performance at low temperatures, no storage stability problems and no susceptibility to microbial attack.
+Biogas
+A physical structure where methane gas (i.e. biogas) is produced by anaerobic digestion of organic matter. Anaerobic digestion takes place by the action of methanogenic bacteria, which thrive in an environment that lacks air (oxygen) but has favourable temperature. Also known as a bio-digester, bioreactor or anaerobic reactor. Methane have properties like: Burns with higher temperature than kerosene, fuel wood, dung cake, coal etc; an odourless gas ; Burns with a blue flame like LPG; No smoke is produced during its burning; Non poisonous during burningIn principle a biogas plant should have three essential components:
+• Digestion Chamber: Chamber where anaerobic condition is ensured and organic matter is digested by methanogenic bacteria and it should be air tight.
+• Inlet: to feed organic matter into digestion chamber.
+• Outlet: to remove digested matter, i.e., slurry
+   Biogas may consists of mixtures of Methane (CH4) 50% to 60%, Carbon dioxide (CO2) 30% to 40%, Hydrogen (H2) 5% to 10%, Nitrogen (N2) 1 % to 2%, Water vapour- About 0.3%, Hydrogen Sulphide (H2S) in traces. Benefits:
+• Saving of Fuelwood and Kerosene: Biogas replaces the use of fuelwood, Prevents deforestation and saves time
+• Health Improvement: Being smokeless biogas reduces respiratory and eye infection in women and children, Toilet connection to Biogas Plants improve sanitation and environment, Reduces water borne diseases -diarrhoea, dysentery, Replacing kerosene by biogas lamps, improves in-house pollution
+• Saving of Time: Cooking with biogas saves time for firewood collection, Lesser time for cooking compared to firewood, Possibility of using saved time in income generating activities, recreation, childcare and social activities
+• Availability of High Quality Manure: Biogas slurry (Bio-slurry) is an excellent organic fertilizer
+• E. Reduction of Womens Workload, Study showed that women can save nearly, 2.8 hours a day due to biogas installation
+• Environmental Benefits: Improvement in in-house pollution, management of animal dung and human faeces, Improved sanitation and surroundings
+• National and Global Perspective: Nationally Reduction in deforestation; better soil management, conserving soil nutrient, saving expense on fossil fuel, Global Perspective: Reduction in Greenhouse gas emission as one plant reduces 4.6 tones of CO2 emission per year thus 530,000 tones of CO2 emission per year by the total installed plants.
+3.5.3	Syngas
+Syngas, a mixture of carbon monoxide, hydrogen and other hydrocarbons, is produced by partial combustion of biomass, that is, combustion with an amount of oxygen that is not sufficient to convert the biomass completely to carbon dioxide and water. Before partial combustion, the biomass is dried, and sometimes pyrolyzed. The resulting gas mixture, syngas, is more efficient than direct combustion of the original biofuel; more of the energy contained in the fuel is extracted.
+   Syngas may be burned directly in internal combustion engines, turbines or high-temperature fuel cells. The wood gas generator, a wood-fueled gasification reactor, can be connected to an internal combustion engine.
+   Syngas can be used to produce methanol, DME and hydrogen, or converted to produce a diesel substitute, or a mixture of alcohols that can be blended into gasoline.
+   Gasification normally relies on temperatures greater than 700C. Lower temperature gasification is desirable when co-producing biochar, but results in syngas polluted with tar.
+Solid Biofuels
+Examples include wood, sawdust, grass trimmings, domestic refuse, charcoal, agricultural waste, nonfood energy crops, and dried manure. When raw biomass is already in a suitable form (such as firewood), it can burn directly in a stove or furnace to provide heat or raise steam. When raw biomass is in an inconvenient form (such as sawdust, wood chips, grass, urban waste wood, agricultural residues), the typical process is to densify the biomass. This process includes grinding the raw biomass to an appropriate particulate size (which is then concentrated into a fuel product. The current processes produce wood pellets, cubes, or pucks. The pellet process is most common in Europe, and is typically a pure wood product. The other types of densification are larger in size compared to a pellet, and are compatible with a broad range of input feedstocks. The resulting densified fuel is easier to transport and feed into thermal generation systems, such as boilers.
+   One of the advantages of solid biomass fuel is that it is often a byproduct, residue or waste-product of other processes, such as farming, animal husbandry and forestry. In theory, this means fuel and food production do not compete for resources, although this is not always the case. A problem with the combustion of raw biomass is that it emits considerable amounts of pollutants, such as particulates and polycyclic aromatic hydrocarbons. Even modern pellet boilers generate much more pollutants than oil or natural gas boilers. Pellets made from agricultural residues are usually worse than wood pellets, producing much larger emissions of dioxins and chlorophenols. Taking this into consideration, the global warming potential (GWP), which is a combination of CO2, methane (CH4), and nitrous oxide (N2O) emissions, and energy balance of the system need to be examined using a life cycle assessment. This takes into account the upstream processes which remain constant after CO2 sequestration, as well as the steps required for additional power generation. Firing biomass instead of coal led to a 148 % reduction in GWP. A derivative of solid biofuel is biochar, which is produced by biomass pyrolysis. Biochar made from agricultural waste can substitute for wood charcoal.
+Second-generation (advanced) biofuels
+Second-generation biofuels are produced from sustainable feedstock. Sustainability of a feedstock is defined, among others, by availability of the feedstock, impact on GHGemissions, and impact on biodiversity and land use. Many second-generation biofuels are under development such as Cellulosic ethanol, Algae fuel., biohydrogen, biomethanol, DMF, BioDME, FischerTropsch diesel (green diesel), biohydrogen diesel, mixed alcohols and wood diesel. Cellulosic ethanol production uses nonfood crops or inedible waste products and does not divert food away from the animal or human food chain. The recent discovery of the fungus Gliocladium roseum points toward the production of so-called myco-diesel from cellulose. Scientists working with the New Zealand company Lanzatech have developed a technology to use industrial waste gases, such as carbon monoxide from steel mills, as a feedstock for a microbial fermentation process to produce ethanol. In October 2011, Virgin Atlantic announced it was joining with Lanzatech to commission a demonstration plant in Shanghai that would produce an aviation fuel from waste gases from steel production. Scientists working in Minnesota have developed co-cultures of Shewanella and Synechococcus that produce long-chain hydrocarbons directly from water, carbon dioxide, and sunlight.
+
+3.6. HYDROGEN ENERGY
+3.6	Hydrogen Energy
+The hydrogen atom is composed of one proton and one electron, making it the lightest element in the universe. It is also the most abundant element in the universe, making up more than 90% of all known matter. The abundance of hydrogen on earth, minimal environmental consequences of its use and the need to replace fossil fuels, makes it the ideal fuel of the future. It is colourless, odourless, tasteless and non toxic Hydrogen exists as a gas at atmospheric temperatures and pressures. A stable molecule because of its high bond strength, hydrogen becomes reactive at elevated temperatures or with the aid of catalysts. When cooled to its boiling point of ?423?F ?253?C, hydrogen becomes a liquid that is approximately 93 percent lighter than water.
+   All other gases, except helium, become solids at this temperature. Hydrogen is flammable and burns in air with a pale blue, almost invisible flame.
+   In its gaseous form, hydrogen dissipates quickly. These unique properties call for strict safety measures in hydrogen use and storage.
+   Hydrogen has been identified as a potential energy carrier in many low GHG energy scenarios. However, the technology to produce, distribute and use hydrogen in a cost effective, low GHG manner is not yet developed.
+   Hydrogen has the potential to run a fuel-cell engine with greater efficiency over an internal combustion engine. The same amount of hydrogen will take a fuel-cell car at least twice as far as a car running on gasoline.
+   Hydrogen can be produced from fossil fuels or from water splitting. When hydrogen is derived from hydrocarbons (fossil fuels), the chemical energy to be stored in the hydrogen is already present in the primary fuel. The key challenges to this form of production lie in controlling the chemical reactions and the extraction of hydrogen. Production from fossil fuels in a low GHG scenario will also require CO2 capture and sequestration. Conversely, extraction of hydrogen from water requires that energy be supplied from an external resource, but does not present the challenge of unwanted emissions at the point of conversion.
+   Hydrogen’s appeal as an energy carrier is limited by its ability to be efficiently stored. Many energy conversion systems that would use hydrogen must operate intermittently and thereby require a reservoir of hydrogen. This reservoir must be of reasonable size and weight, and cannot waste a significant fraction of stored energy in the filling and venting processes.
+   The two most likely candidates for the conversion of energy stored in hydrogen to useful work are internal combustion engines and fuel cells. Today’s engine technology could be adapted for use with hydrogen at efficiencies comparable to hydrocarbon fueled engines, while advanced engine technology could push the boundaries of efficiency even further. Fuel cells hold the promise of higher efficiency than traditional engines, as well as other engineering trade-off that might make for quieter and possibly more reliable prime movers. Replacing fossil-fuel based vehicles and electric power plants with those powered by hydrogen fuel cells may affect global and regional climate, stratospheric ozone, and air pollution.
+Production
+There are several methods for producing or extracting hydrogen. Steam reforming is a well-established technology that allows hydrogen production from hydrocarbons and water. Steam-methane reformation currently produces about 95 percent of the hydrogen used in the United States.
+   Another conventional technique is electrolysis, which applies electrical current to decompose water into hydrogen and oxygen molecules. The electricity for electrolysis can come from any of the three energy sources.
+   The cost of hydrogen production is an important issue. Hydrogen produced by steam reformation costs approximately three times the cost of natural gas per unit of energy produced. This means that if natural gas costs $6/million BTU, then hydrogen will be $18/million BTU. Also, producing hydrogen from electrolysis with electricity at 5 cents/kWh will cost $28/million BTU slightly less than two times the cost of hydrogen from natural gas. Note that the cost of hydrogen production from electricity is a linear function of electricity costs, so electricity at 10 cents/kWh means that hydrogen will cost $56/million BTU.
+Storage
+In the case of on-board storage of hydrogen for vehicular applications, automobile manufacturers require lightweight, compact, safe, and cost-effective storage plus the ability to achieve a driving range of at
+
+Figure 3.6.1: Hydrogen Production
+least 300 miles. The 300-mile driving range requires 5-10 kg of usable hydrogen depending upon the size of the vehicle. Although various hydrogen storage technologies are presently available, none completely satisfies all of the auto industry requirements. In fact, finding a solution to the hydrogen storage problem is considered by many to be the foremost challenge for the hydrogen economy.
+Hydrogen can be stored in three ways:
+• As a compressed gas in high-pressure tanks.
+• As a liquid in dewars or tanks (stored at ?253?C).
+• As a solid by either absorbing or reacting with metals or chemical compounds or storing in an alternative chemical form.
+   Storage of hydrogen in chemical compounds offers a much wider range of possibilities to meet the transportation requirements, but no single material investigated to date exhibits all the necessary properties. At present, only three systems for on-board hydrogen storage are close to commercialization. They are compressed gas at high pressures (5,000 to 10,000 psi in composite cylinders), liquid hydrogen which requires a cryogenic temperature of ?253?C, and materials-based storage in solids which involves the use of metal hydrides, carbon-based materials/high surface area sorbents, and/or chemical hydrogen storage.
+   The current status of various storage technologies in terms of weight, volume and costs is given in Table 3.6.1.
+Storage Technologies
+Weight(kwh/kg)
+Volume
+(kwh/L)
+Cost
+($/kwh)
+Chemical Hydrides
+1.6
+1.4
+8
+Complex Metal Hydrides
+0.8
+0.6
+16
+Liquid Hydrogen
+2.0
+1.6
+6
+10,000-psi Gas
+1.9
+1.3
+16
+DOE Goals (2015)
+3.0
+2.7
+2
+Table 3.6.1: Status of various storage technologies.
+Delivery
+Safety and handling are the two main issues with hydrogen delivery and use. Because hydrogen is such a light gas, it escapes readily, making its transportation and handling more difficult than natural gas. Hydrogen also has a wider flammability range than natural gas in air, making it potentially more
+3.6. HYDROGEN ENERGY
+hazardous. And when hydrogen burns there is no colour - the flame is invisible. Improved sensing devices will need to be developed and building codes adjusted to address these challenges.
+Safety
+The detection of explosive conditions in hydrogen applications is important for both safety and economic reasons. Cost-effective hydrogen sensor technologies that deliver detection selectivity and sensitivity, dependability and durability, stability and reproducibility, resistance to chemical degradation and real-time response are needed. An examination of the commercially available point-contact hydrogen sensors indicates the majority of these sensors fall into four main categories: catalytic combustion, electrochemical, semi-conducting oxide sensors and thermal conductivity detectors. All of these sensors depend on the interaction of hydrogen with palladium (Pd) or Pd-based alloys.
+   Vehicle applications require the development of new sensors with capabilities beyond those of commercially available systems. Areas of most interest include micro-machining and micro-fabrication technology to fabricate miniaturized sensors. In addition, new techniques that allow control and interrogation of each sensor and provide self-calibrating capability are needed.
+3.6.1	Advantages and Disadvantages
+Advantages:
+• When hydrogen is burned, the only emission it makes is water vapor, so a key advantage of hydrogen is that when burned, carbon dioxide CO is not produced.
+• Clearly, hydrogen is less of a pollutant in the air because it omits little tail pipe pollution.
+• Hydrogen has the potential to run a fuel-cell engine with greater efficiency over an internal combustion engine.
+• The same amount of hydrogen will take a fuel-cell car at least twice as far as a car running on gasoline.
+Disadvantages:
+1. Currently, it still costs a considerable amount of money to run a hydrogen vehicle because it takes a large amount of energy to liquefy the fuel.
+2. Research shows that cars could store hydrogen in high pressure tanks like those used for compressed natural gas. It would need to be packed tightly into a car’s tank in order to avoid countless trips to the filling station every few miles.
+3.6.2	Applications
+• Hydrogen is used extensively today to make ammonia, methanol, gasoline, heating oil, and rocket fuel. It is also used to make fertilizers, glass, refined metals, vitamins, cosmetics, semiconductor circuits, soaps, lubricants, cleaners, and even margarine and peanut butter. Hydrogen can fuel today’s internal combustion engine vehicles.
+• Hydrogen can fuel tomorrow’s fuel-cell vehicles.
+• Hydrogen can replace today’s natural gas for heating and cooling homes and powering hot water heaters.
+• Existing wind and hydroelectric plants can produce hydrogen to store energy during off-peak hours.
+• Hydrogen production from hydrocarbons can also produce carbon, which in some forms has ten times the strength of steel. With more research, this carbon could be used for automobile bodies and structural members
+3.7	Fuel Cells
+(Taken from http://americanhistory.si.edu/fuelcells/basics.htm) A fuel cell is a device that generates electricity by a chemical reaction. Every fuel cell has two electrodes, one positive and one negative, called, respectively, the anode and cathode. The reactions that produce electricity take place at the electrodes.
+   Every fuel cell also has an electrolyte, which carries electrically charged particles from one electrode to the other, and a catalyst, which speeds the reactions at the electrodes.
+   Hydrogen is the basic fuel, but fuel cells also require oxygen. One great appeal of fuel cells is that they generate electricity with very little pollutionmuch of the hydrogen and oxygen used in generating electricity ultimately combine to form a harmless byproduct, namely water.
+One detail of terminology: a single fuel cell generates a tiny amount of direct current (DC) electricity.
+In practice, many fuel cells are usually assembled into a stack. Cell or stack, the principles are the same.
+3.7.1	Principle of Operation
+The purpose of a fuel cell is to produce an electrical current that can be directed outside the cell to do work, such as powering an electric motor or illuminating a light bulb or a city. Because of the way electricity behaves, this current returns to the fuel cell, completing an electrical circuit. he chemical reactions that produce this current are the key to how a fuel cell works.
+   There are several kinds of fuel cells, and each operates a bit differently. But in general terms, hydrogen atoms enter a fuel cell at the anode where a chemical reaction strips them of their electrons. The hydrogen atoms are now ”ionized,” and carry a positive electrical charge. The negatively charged electrons provide the current through wires to do work. If alternating current (AC) is needed, the DC output of the fuel cell must be routed through a conversion device called an inverter.
+   Oxygen enters the fuel cell at the cathode and, in some cell types (like the one illustrated above), it there combines with electrons returning from the electrical circuit and hydrogen ions that have traveled through the electrolyte from the anode. In other cell types the oxygen picks up electrons and then travels through the electrolyte to the anode, where it combines with hydrogen ions.
+   The electrolyte plays a key role. It must permit only the appropriate ions to pass between the anode and cathode. If free electrons or other substances could travel through the electrolyte, they would disrupt the chemical reaction.
+   Whether they combine at anode or cathode, together hydrogen and oxygen form water, which drains from the cell. As long as a fuel cell is supplied with hydrogen and oxygen, it will generate electricity.
+   Even better, since fuel cells create electricity chemically, rather than by combustion, they are	Figure 3.7.1: Fuel cell operations.
+not subject to the thermodynamic laws that limit a conventional power plant (see ”Carnot Limit” in
+the glossary). Therefore, fuel cells are more efficient in extracting energy from a fuel. Waste heat from some cells can also be harnessed, boosting system efficiency still further.
+   The type of fuel also depends on the electrolyte. Some cells need pure hydrogen, and therefore demand extra equipment such as a ”reformer” to purify the fuel. Other cells can tolerate some impurities, but might need higher temperatures to run efficiently. Liquid electrolytes circulate in some cells, which requires pumps. The type of electrolyte also dictates a cell’s operating temperature”molten” carbonate cells run hot, just as the name implies.
+   Fuel cell technology is twice as efficient as combustion in turning carbon fuel to energy. Hydrogen, the simplest chemical element (one proton and one electron), is plentiful and exceptionally clean as a fuel. Hydrogen makes up 90 percent of the universe and is the third most abundant element on the earth’s surface. Such a wealth of fuel would provide an almost unlimited pool of clean energy at relatively low cost. But there is a hitch.
+3.7. FUEL CELLS
+   Each type of fuel cell has advantages and drawbacks compared to the others, and none is yet cheap and efficient enough to widely replace traditional ways of generating power, such coal-fired, hydroelectric, or even nuclear power plants.
+The following section describes the five main types of fuel cells.
+3.7.2	Types of Fuel Cells
+Alkali
+Alkali fuel cells operate on compressed hydrogen and oxygen. They generally use a solution of potassium hydroxide (chemically, KOH) in water as their electrolyte. Efficiency is about 70 percent, and operating temperature is 150 to 200 degrees C, (about 300 to 400 degrees F). Cell output ranges from 300 watts (W) to 5 kilowatts (kW). Alkali cells were used in Apollo spacecraft to provide both electricity and drinking water. They require pure hydrogen fuel, however, and their platinum electrode catalysts are expensive. And like any container filled with liquid, they can leak.
+
+Molten Carbonate
+Molten Carbonate fuel cells (MCFC) use high-temperature compounds of salt (like sodium or magnesium) carbonates (chemically, CO3) as the electrolyte. Efficiency ranges from 60 to 80 percent, and operating temperature is about 650 degrees C (1,200 degrees F). Units with output up to 2 megawatts (MW) have been constructed, and designs exist for units up to 100 MW. The high temperature limits damage from carbon monoxide ”poisoning” of the cell and waste heat can be recycled to make additional electricity. Their nickel electrode-catalysts are inexpensive compared to the platinum used in other cells. But the high temperature also limits the materials and safe uses of MCFCsthey would probably be too hot for home use. Also, carbonate ions from the electrolyte are used up in the reactions, making it necessary to inject carbon dioxide to compensate.
+Phosphoric Acid
+Phosphoric Acid fuel cells (PAFC) use phosphoric acid as the electrolyte. Efficiency ranges from 40 to 80 percent, and operating temperature is between 150 to 200 degrees C (about 300 to 400 degrees F). Existing phosphoric acid cells have outputs up to 200 kW, and 11 MW units have been tested. PAFCs tolerate a carbon monoxide concentration of about 1.5 percent, which broadens the choice of fuels they can use. If gasoline is used, the sulfur must be removed. Platinum electrode-catalysts are needed, and internal parts must be able to withstand the corrosive acid.
+Proton Exchange Membrane (PEM)
+Proton Exchange Membrane (PEM) fuel cells work with a polymer electrolyte in the form of a thin, permeable sheet. Efficiency is about 40 to 50 percent, and operating temperature is about 80 degrees C
+
+Figure 3.7.3: Molten Carbonate
+
+Figure 3.7.4: Phosphoric Acid
+(about 175?F). Cell outputs generally range from 50 to 250 kW. The solid, flexible electrolyte will not leak or crack, and these cells operate at a low enough temperature to make them suitable for homes and cars. But their fuels must be purified, and a platinum catalyst is used on both sides of the membrane, raising costs.
+Solid Oxide
+Solid Oxide fuel cells (SOFC) use a hard, ceramic compound of metal (like calcium or zirconium) oxides (chemically, O2) as electrolyte. Efficiency is about 60 percent, and operating temperatures are about 1,000 degrees C (about 1,800 degrees F). Cells output is up to 100 kW. At such high temperatures a reformer is not required to extract hydrogen from the fuel, and waste heat can be recycled to make additional electricity. However, the high temperature limits applications of SOFC units and they tend to be rather large. While solid electrolytes cannot leak, they can crack.
+   Two possible design configurations for SOFCs have emerged: a planar design and a tubular design. In the planar design, the components are assembled in flat stacks, with air and fuel flowing through channels built into the cathode and anode. In the tubular design, components are assembled in the form of a hollow tube, with the cell constructed in layers around a tubular cathode; air flows through the inside of the tube and fuel flows around the exterior.
+3.7.3	Material selection for Fuel Cells
+Although the operating concept of FC is rather simple, the selection of materials for the individual components presents enormous challenges. Each material must have the electrical properties required
+3.7. FUEL CELLS
+
+Figure 3.7.5: Solid Oxide
+
+Figure 3.7.6: Planar Solid Oxide
+to perform its function in the cell. There must be enough chemical and structural stability to endure fabrication and operation at high temperatures. The fuel cell needs to run at high temperatures in order to achieve sufficiently high current densities and power output. Reactivity and inter-diffusion between the components must be as low as possible. The thermal expansion coefficients of the components must be as close to one another as possible in order to minimize thermal stresses which could lead to cracking and mechanical failure. The air side of the cell must operate in an oxidizing atmosphere and the fuel side must operate in a reducing atmosphere. The temperature and atmosphere requirements drive the materials selection for all the other components.
+Cathode
+The cathode must meet all the above requirements and be porous in order to allow oxygen molecules to reach the electrode/electrolyte interface. In some designs (e.g. tubular) the cathode contributes over 90% of the cell’s weight and therefore provides structural support for the cell
+Anode
+The anode (the fuel electrode) must meet most of the same requirements as the cathode for electrical conductivity, thermal expansion compatibility and porosity, and must function in a reducing atmosphere. The reducing conditions combined with electrical conductivity requirements make metals attractive candidate materials.
+
+Figure 3.7.7: Tubular Solid Oxide
+Electrolyte
+Once the molecular oxygen has been converted to oxygen ions it must migrate through the electrolyte to the fuel side of the cell. In order for such migration to occur, the electrolyte must possess a high ionic conductivity and no electrical conductivity. It must be fully dense to prevent short circuiting of reacting gases through it and it should also be as thin as possible to minimize resistive losses in the cell. As with the other materials, it must be chemically, thermally, and structurally stable across a wide temperature range.
+Interconnect
+Just as an internal combustion engine relies on several cylinders to provide enough power to be useful, so too must fuel cells be used in combination in order to generate enough voltage and current. This means that the cells need to be connected together and a mechanism for collection of electrical current needs to be provided, hence the need for interconnects. The interconnect functions as the electrical contact to the cathode while protecting it from the reducing atmosphere of the anode.
+   The high operating temperature of the cells combined with the severe environments means that interconnects must meet the most stringent requirements of all the cell components: 100% electrical conductivity, no porosity (to avoid mixing of fuel and oxygen), thermal expansion compatibility, and inertness with respect to the other fuel cell components. It will be exposed simultaneously to the reducing environment of the anode and the oxidizing atmosphere of the cathode.

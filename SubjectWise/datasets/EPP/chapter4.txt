@@ -1,0 +1,509 @@
+Chapter 4 Contract Management 
+
+Flow Diagram of Procurement Process 
+ 
+
+Methods of execution references for-  Works/Goods 1) Direct purchase 
+• Minimum three quotation from standing list is required if purchase is above 25000 
+• Estimate up to 500000 for construction work (revised)/Estimate up to 300000 for goods 
+• Estimate up to 1500000 for domestic products for one time in FY 
+2) Sealed Quotations 
+• Estimate upto 2 million for construction work (revised)/Estimate up to 1 million for goods 
+• 15 days notice in national or local newspaper 
+• 3 minimum three quotations are required 
+• 45 days bid validity and 75 days bid security validity 
+• 7 days notice for agreement /No withdraw and no modifications 
+• Contract only within or below the estimate amount 
+3) NCB (Bid/Tender) 
+• 30days notice in national newspaper/website 
+• minimum one responsive bid 
+• 90(upto 10 crore)/120(10 crore above) days bid validity and 120/150 days bid security validity 
+• 15days notice for agreement 
+• Onetime  withdraw or modifications 
+• Single of joint venture(maxm three and not less than 25% share) 
+• Selection notice for 7 days 
+• Contract can award if bid amount is not substantially higher than the approved estimate 
+4) ICB (Bid/Tender) 
+• 45days notice in national English newspaper of international journal/website 
+• minimum one responsive bid/Single or joint ventures 
+5) User’s committee / beneficiary committee 
+? Including all cost /Up to 6 million /Up to  one third of estimate – mobilization 
+Comparison between Sealed Quotation and National Competitive Bidding  - NCB (Tender/Bid) 
+S.N 
+Subject matters 
+Sealed Quotation 
+NCB (Tender/Bid) 
+1 
+Estimate Range 
+?20,00,000.00 for goods & works 
+>20,00,000.00 for goods & works  
+2 
+Public Bid Notice Duration 
+15 Days 
+30 Days 
+3 
+Bid Validity period 
+45 Days 
+90 Days for ? 100,000,000.00 
+120 Days for > 100,000,000.00 
+4 
+Bid Security (2 to 3% of estimate amount) period 
+75 Days 
+120 Days for ? 10,000,000.00 
+150 Days for > 10,000,000.00 
+5 
+Minimum no. of bids 
+Three 
+One responsive is enough 
+6 
+Opportunity of withdrawal or Modification 
+Not allowed 
+One time one action only either withdrawal or modification 
+7 
+Mode of approval of bid 
+Bid amount must be < estimate amount 
+Substantially not > estimate amount 
+8 
+ Notice of Intention to  approve 
+Optional (not compulsory) 
+Must publish – 7 days duration 
+9 
+Duration for contract signing 
+7 days 
+15 days 
+10 
+Bid to be approved within 
+15 days (from last date of submission) 
+30 days (from last date of submission) 
+11 
+Calling of pre bid meeting 
+No provision 
+If so, 15 days before bid submission date 
+12 
+Re notice 
+7 Days if 3 bids are not submitted 
+No provision (Amend- 15 /7days notice) 
+13 
+Provision of extension of bid validity 
+No provision 
+Can be requested to contractor/supplier for extension bid validity period 
+14 
+Qualification criteria 
+Can be set (Optional) 
+Must be set 
+15 
+Bid document cost 
+NRs. 500 or lesser 
+NRs. 1000 or more 
+16 
+Provision of Joint venture(JV) 
+No provision 
+Can be (Maxm 3 & 1 must have 25% share) 
+ 
+4.1 Methods of work execution 
+ 	Procurement of works  -ICB/NCB/Sealed Quotations/Direct/Users group/Special/Nongovernment/Amanat 
+ 	Procurement of goods - ICB/NCB/Sealed Quotations/Direct/Users group/Special/Nongovernment/Amanat 
+ Procurement of consultancy services  - Competitive(15 days’ notice of EOI &30 days’ notice of presenting Proposals) /direct 
+4.3 tendering procedures 
+Tender:- Definition 
+• It is an offer in writing by the tenderer/owner (the person/firm who offers the tender) to execute some specified work or to supply some specified goods at certain rate/amount within stipulated time under certain conditions of agreement. 
+• This is the initial process/step in formulation of contract. 
+Purpose for tendering/bidding: 
+• Use of fund for intended purpose (project implementation) 
+• For the observation of economic and efficient project (best value for money) 
+• To give an equal opportunity to compete for eligible bidders 
+• To encourage for the development of domestic contracting & manufacturing industries 
+• For the transparency in all stage of procurement process Tender notice: 
+• It is the information inviting bids from competent and capable contractors /firms /service providers and forms a part of contract document 
+• It should be widely published in important newspapers or acclaimed national daily newspaper eg. Gorkhapatra/ Kantipur/ Nagarik etc. 
+Preparation before inviting Tender notice publication: 
+• Project preparation 
+• Estimation of quantities 
+• Cost estimation(abstract of cost) 
+• Approval of cost estimate from concerned authorities 
+• Resource planning 
+• Tender/bid document preparation& approval 
+• Tender invitation 
+Information to be furnished inTender notice: 
+• Name of authority publishing the notice 
+• First date of publication 
+• Brief description of the job 
+• Duration of the project to be completed 
+• Date time and place-where and when the bid documents is available and to be submitted 
+• Cost of tender/bid document 
+• Cost estimate (optional)  
+• Date, time and place of opening the tender/bid 
+• Earnest money(bid security) and Security deposit amount(performance security) ? Expected date of acceptance of successful bids etc. 
+ 
+ 
+ 
+Earnest money (bid security): 
+• It is the amount of money deposited while bidding a tender as a guarantee of the party’s willingness of carrying out the work awarded to him/them 
+• Its amount generally ranges from 1% to 3% . In Nepal 2 to3 % of the estimate amount is demanded as earnest money and for foreign party, the amount is considered to be 5% 
+• This money(fund) is refunded to unsuccessful bidder 
+• If a successful bidder fails to carry the work, this amount will be forfeited Security Deposit (Performance security): 
+• It is the amount of money which is deposited by a successful bidder as a security for the satisfactory performance (quality of work) 
+• In Nepal, security deposit is equal to 5% of the contract amount whereas 10% of the bid amount will be taken as security amount for foreigner 
+• It includes the earnest money deposited  
+• This is refunded after the completion of defect liability period (maintenance period) 
+• This fund can be forfeited if contractor fails to perform his duty National competitive bidding(NCB): 
+• Local competitive bidding 
+• All the eligible bidders are invited to participate in bidding 
+• Tender notice to be published in national daily newspaper for two consecutive days 
+• Also tender shall be published in the concerned office International competitive bidding(ICB): 
+• If the amount of work is big and national/domestic contractor cannot perform the job, eligible bidders are invited from all over the world 
+• In this process tender notice is provided to diplomatic missions working in the country Information to be furnished in the bid by foreign bidder: 
+• Whether the bidder is having a local agent or not 
+• Name and address of the agent if any 
+• Types of the service being provided by the agent 
+• Currency and procedure of payment to the agent ? Other agreement with the agent if any 
+ 
+Qualification Procedure for tendering 
+Two forms of qualification – prequalification and post-qualification – are used to ensure that bidders have adequate capability and resources to perform the particular contract satisfactorily, taking into account their  
+(1) Experience record on works of a similar nature and complexity,  
+2) Financial capability,  
+(3) Personnel capability,  
+(4) Equipment capability and  
+(5) Litigation(Legal Actions) history.  
+(6) Other relevant information of certification(ISO certificate),particular job experience, methodology etc Prequalification is carried out in advance of bidding to establish a list of capable firms to be invited to tender while ensuring that a proper level of competition is safeguarded. Post qualification is used where no prequalification has been carried out and bids are invited at large from one or more classes of contractor, and is carried out after bids are received as part of the bid evaluation process. Postqualification has the advantage of reducing the total procurement time by cutting out the prequalification steps. Under FAR Rule 65 amended in October 2001 bidders shall be prequalified for undertaking all G/Nfunded works costing more than NRs 10 million (currently this FAR rule again amended in .2003 sep). 
+However, project managers should be aware that, in many donor-assisted projects, post qualification is often applied in NCB/LCB contracts. For example, the SBD Procurement of Works for Medium Contracts contained in PWD Part III is designed for either prequalification or post-qualification Under FAR Rule 66(12) the implementing agency may relax the requirement that contractors are registered under the Contractors Rules, 2056 for contractors in a remote area and for foreign contractors. The Secretary shall approve the qualification criteria. 
+ 
+Why Prequalification? 
+The successful execution of contracts for large buildings, civil engineering, supply and installation, turnkey, and design and build projects requires that contracts are awarded, only to firms, or combinations of firms, that are suitably experienced in the type of work and construction technology involved, that are financially and managerially sound, and that can provide all the equipment required in a timely manner.  The assessment by an implementing agency of the suitability of firms to carry out a particular contract prior to being invited to submit a bid is a process called prequalification. 
+The Requirement for Prequalification of bidders 
+GN and most multilateral Donor Agencies require the prequalification of firms for the construction of large or complex Works contracts, followed by a closed competitive bidding procedure in which only those firms meeting specified prequalification criteria are invited to submit a bid.  All applicants meeting the specified criteria should be allowed to bid. Therefore, prequalification should not be used for limiting competition to a predetermined number of potential bidders. 
+The decision whether to carry out prequalification is a matter of professional judgment based upon a number of considerations about the contract itself, and about the actual process of prequalification.  Contract considerations include size, complexity, limitations on completion time, the critical nature of the works, environmental impact, associated risks, etc.  Considerations regarding the process of prequalification should weigh the potential benefits against the potential disadvantages. 
+Pre-Qualification (PQ):  
+It is a process of short listing of eligible bidder and to avoid crowd of bidder. It also ensures that the invitation to the bid is extended only to those perspective bidders who have adequate capability and resources to perform the work/contract satisfactorily taking into accounts their: 
+• Experience & past performance on similar work/contract 
+• Capabilities with respect to personnel , equipment and construction & manufacturing facilities ? Financial status 
+• Litigation history 
+Benefits of Pre-Qualification: 
+• Reduces the amount of work and time involved in evaluating bids from unqualified contractors 
+• Encourages local firms to form joint ventures with other local or international firms, thereby benefiting from their resources and experience  
+• Reduces significantly, if not eliminate, problems associated with low prices submitted by bidders of doubtful capability 
+• Enables contractors, who may be insufficiently qualified on their own, to avoid the expense of bidding or to form a joint venture, which may give a better chance of success 
+• The well qualified firms may also price their bids more competitively with the knowledge that they will only be competing with other qualified bidders meeting realistic minimum competence criteria 
+• The assurance that competitors which lack the necessary qualifications will be excluded from bidding thus encourages leading contractors or suppliers to bid 
+ 
+ 
+Post Qualification: 
+All eligible bidders can participate in the bidding. No pre-qualification process is adopted. This process may include single envelope system(financial proposal only) or double envelope system (financial as well as technical proposal). In double envelop system successful bidders are selected by adopting one of the following three methods: 
+• Short list from technical proposal and select the lowest bidder to award the contract 
+• Select the lowest bidder first and check the technical proposal. If technical proposal is ok select the firm. If technical proposal is not satisfactory, select second lowest bidder and check the technical proposal 
+• Give weightage to both technical proposal as well as financial proposal. Select the bidder getting highest point. 
+ 
+Contract: 
+• An agreement between two or more competent parties in which an offer is made and accepted, and each party benefits. 
+• Agreement concluded between two or more parties for performing /not performing any work 
+• If any person or firm advances any proposal to any other person or firm and latter gives his/their consent, they shall be deemed to have a contract 
+• It is done to seek a legal action/remedies any parties breached the agreement 
+• In extensive sense, it includes every description of agreement, or obligation, whereby one party becomes bound to another to pay a sum of money or to do or to omit to do a certain act ? It is an act which contains a perfect obligation 
+ 
+Agreement: 
+• It is the acceptance to the offer(proposal) with or without any conditions ? It does not have any legal obligations 
+ 
+Essential elements of contract 1. Offer and acceptance: 
+In simple expressions, offer is a promise made by one party (or a person) to another party ( or a person). The party who made promise is called “offeror” and the party whom to whom a promise has been made is called “offeree” As per contract act 2056, the offer made by a person to another person with the intention of getting approval to do or not to do any business. Similarly, acceptance has been in the Act as the consent given by the offeree to the matters in the offer in the same spirit of the offeror. 
+2. Competent parties: parties or person who make contract must be competent according to law 
+3. Mutual intent to enter into contract:  
+Both parties in a contact shall have intentions to establish a legal relationship. Therefore, agreements made without the intentions of establishing legal relationship cannot be considered as contract. A social, family and even commercial agreement that has no intention of establishing legal relationships can be taken as example. 
+4. Consideration: 
+Consideration can be described as something of value that is exchanged by contracting parties (D.L Martson , Law for professional engineer, 1996). As per contract act 2056, consideration means the promise of doing or not doing any thing because of doing or not doing the work stated in the offer. In general, the court does not see for the adequacy of the consideration.  
+ 
+ 
+5. Capacity to contract: 
+The parties need to have capacity to contract. As per contract Act 2056 except the following person, all others persons are capable to contract. 
+a. Person below 16 yearsb.Person not in own control (mad senseless ) 
+6. Lawful purpose:  
+Contract must have lawful purpose otherwise; law cannot enforce it. As per contract act 2056, contract becomes void if there is an an illegal objective or consideration in the contract. a. Lawful consideration  b. Law full object 
+7. Free consent: 
+The parties in a contract should have given free consent that is without any correction, undue influence, fraud, misrepresentation etc. In such cases the party suffering damage may make the contract void. 
+8. Possibility of performance: 
+Any contract should be within possibility of performance. The law does not consider legal of the contract work is not within possibility of performance. 
+9. Certainty: 
+Contractual conditions must not be unclear and unlimited. Both parties under the contract must have understood the term and conditions 
+ 
+Elements of Contract - Summary: 
+• Two or more competent parties 
+• Offer & acceptance 
+• Intention of creating legal relation by both parties 
+• Considerations 
+• Capacity to contract/competence to contract 
+• Free consent 
+• Lawful purpose 
+• Possibility of performance 
+• Verbal or written and registration 
+Importance of contract: (Make/Record/Specify-6/Identify/Set/define-2) 
+10. To make an agreement legally enforceable 
+11. To record the terms of agreement 
+12. To specify what the contractor/supplier/service provider  must do & what the owner must pay 
+13. To specify the quantity & quality of work to be done 
+14. To specify the time frame within which the work is to be completed and payment to be made 
+15. To specify the means, methods/mode, terms and time of payment 
+16. To identify the parties to the agreement 
+17. To identify the official agent or representatives of parties to the agreement and define their authority and responsibility 
+18. To set out in advance the courses of action that will be taken in different possible situations 
+19. To define words and establish common meanings 
+20. To define what is and what is not included in contract 
+21. To specify how the contract will be terminated 
+22. To specify the responsibilities of the parties not just to each other but to third parties such as government, community in which work is to be done, workers, sub-contractors, material suppliers, unions, etc. 
+ 
+4.2 Types of contract (Classification of contract) : 
+ 
+(I)With respect to mode of creation 1) Indirect contract:  
+Notwithstanding anything contained elsewhere in thisact, a contract shall be deemed to have been concluded as follows in the following circumstances: 
+(a) In case a person who is incompetent to conclude a contract under this Act or other prevailing Nepal law, or any other person who is to be maintained by him/her is provided with any material, commodity or service which material commodity service paid from the property of such he/sheneeds and that is consistent with his social status, to have the cost of suchperson to the person so meeting his/her need. 
+(b) In case any person, who is concerned with the payment or nonpaymentof any amount to be paid by another person under the prevailingNepal law makes such payment him/herself, to have that payment repaid tohim/her from the property of the person who is actually under obligation tomake the payment. 
+(c) In case any person gives anything to another person, or employshim/her in any work, to pay the appropriate cost or remuneration. 
+(d) In case any person keeps under his/her personal possession anyproperty belonging to another person that may be kept as such under thelaw, to keep that property as a bailment property. 
+(e) In case any person pays any amount (to any person) by mistake, to refund the same. 2) Contingent contracts:  
+(a) In case a contract has been concluded toperforming or not to perform any work if any event happens in the future,the contract shall not create any liability until such event happens. 
+(b) In case a contract has been concluded subject to the conditionthat it shall be deemed to have been concluded in case person performs anyspecified work in the future, no liability shall be deemed to have emergedfrom that contract if such person does anything in such a manner as not toperform that work or acts in such a manner that the work cannot beperformed. 
+(c) In case a contract has been concluded to perform or not toperform any work if any uncertain event does not happen in the future,liability under that contract shall emerge only after the happening of thatevent becomes impossible. 
+(d) In case a contract has been concluded with a provision toperform or not to perform any work if any event happens within a specifiedperiod in the future, the contract shall be deemed to have become invalidafter the happening of that event becomes impossible within the specifiedperiod or after the expiring of that period. 
+(e) In case a contract has been concluded with a provision toperform or not to perform any work if any event does not happen within aspecified period in the future, liability under such contract shall emerge ifthat event does not happen within that period or if it becomes certain thatthe event will not happen within that period. 
+ 
+(II) With respect to legal relationship[Valid/Void/Voidable] 1) Valid Contracts:  
+A contractthat complies with all the essentials of a contract and is binding and enforceable on all parties. 
+ 
+2)Void Contracts:  
+The following contracts shall be void:  
+(a) A Contract preventing anyone from engaging him/herself in any occupation, profession or trade which is not prohibited by prevailing law. Provided that a contract shall not be deemed to have been concluded in preventing profession or trade in the following circumstances: 
+(I) A contract preventing the seller from engaging him/herself in a profession or trade at the time and place as mentioned in the contract concluded between the buyer and the seller on selling and buying of the goodwill of any trade; 
+(II) A contract concluded among partners in preventing their engagement in any trade or business, other than those of the partnership firm, similar to those of the partnership firm or any other trade or business together with other competitors belonging to the same kind of trade or business as long as the partnership continues. 
+(III) A contract concluded among the partners in preventing them from engaging in a trade or business under the partnership firm for the specified time or place after being separated from the partnership; 
+(IV) A contract preventing any individual from receiving the service of any such agency, company, firm, individual or competitor of such agency, company, firm, or individual for the specified period of time after the retirement from service or during the service of such agency, company, firm or individual pursuant to contract concluded by any individual with any agency, company, firm or individual. 
+(b) A contract restraining marriages other than those prohibited by the prevailing law. 
+(c) A contract preventing any one from enjoying the facilities already being enjoyed by the general public. 
+(d) A contract seeking to prevent the legal rights of any person from being enforced by any government office or court. 
+(e) A contract concluded in matters, contrary to or prohibited by the prevailing law. 
+(f) A contract concluded for immoral purpose or against Public morality or public interest. 
+(g) A contract which cannot be performed because the parties there to do not exactly know about the matter in relation to which it has been concluded. 
+(h) A contract which is considered impossible to fulfill even at the time is concluded. 
+(i) A contract which is vague as it does not provide reasonable meaning thereof. 
+(j) A contract concluded by an incompetent person to conclude such contract. 
+(k) A contract concluded with an unlawful consideration or objective. 
+ 
+3)Voidable Contracts: (Coercion/Undue influence/Fraud/Deceit) (1) The following contracts may be made void by the aggrieved party: 
+(a) A contract concluded through coercion: 
+Explanation 
+A person shall be deemed to have indulged in coercion if he/she, with the objective of compelling any person, to accept any contract against his/her will, withholds or threatens to withhold property belonging to him/her, or threatens to defame him/her, or takes or threatens to take any other action in contravention of prevailing law. 
+(b) A contract concluded through of undue influence: 
+Explanation 
+(I) Undue influence means influence exercised by a person upon another person who is under his/her influence and is amenable to his/her personal benefit or interest. 
+(II)Without prejudice to the generality of Clause (1), the following persons shall be deemed to be under the influence of any person and amenable to his/her wishes: 
+(1) A person living under his/her guardianship, protection or custody. 
+(2) a persons who cannot take care of their interest temporarily or permanently by reason of old age, sickness or physical or mental weakness. 
+(3) A person who can be subjected to under one's economic or ranking influences. 
+(c) A contract concluded through fraud: 
+ 
+Explanation 
+A party to the contract or his/her agent shall be deemed to have committed fraud if he/she, leads the other party or his/her agent to believe or takes any action to believe the particular matter is true, although he/she knows that it is false, or suppresses any information in his/her possession, or indulges in any other fraudulent act punishable under prevailing law, with the intention of deceiving the opposite party or his/her agent. 
+(d) A contract concluded through deceit: 
+Explanation 
+(1) Any of the following act shall be taken as deceit: 
+(i) Submission of false particulars on any matter without reasonable basis for doing so; 
+(ii) Misleading any party so as to aggrieve him/her; 
+(iii) Causing any wrong deliberately on the matter of contract; 
+(2) In a case of a voidable contract under this section, the following matters shall be dealt with as prescribed below: 
+(i) The party caused to enter into a contract may, instead of making the contract void, demand his/her position to be remained the same, as it was prior to conclusion of the contract. 
+(ii) Burden of proof of innocence of undue influence shall be rest in the party who claims that such contract is not concluded under an undue influence in case a contract is concluded with Difference between Void and Voidable 
+When dealing with contracts, the terms void and voidable are widely used. A void contract is considered to be a legal contract that is invalid, even from the start of signing the contract.  
+On the other hand, a voidable contract is also a legal contract which is declared invalid by one of the two parties, for certain legal reasons. 
+While a void contract becomes invalid at the time of its creation, a voidable contract only becomes invalid if it is cancelled by one of the two parties who are engaged in the contract. 
+In the case of a void contract, no performance is possible, whereas it is possible in a voidable contract. While a void contract is not valid at face value, a voidable contract is valid, but can be declared invalid at any time. 
+A contract can become void if it involves any illegal activity, if the contract is made in such a way that it cannot be executed, or if the contract is not properly structured. An example of a void contract is a contract between a drug dealer and a buyer. This type of contract is void because it involves an illegal activity. 
+There are many reasons attributed to a voidable contract. It is a situation where one party of the contract may repudiate it. A contract involving minors is an example of voidable contract. Although minors can enter into contracts, these agreements cannot be enforced, as minors are at liberty to change their stand.  While a void contract is nonexistent and cannot be upheld by any law, a voidable contract is an existing contract, and is binding to at least one party involved in the contract. 
+Summary: 
+1. While a void contract becomes invalid at the time of its creation, a voidable contract only becomes invalid if it is cancelled by one of the two parties who are engaged in the contract. 
+2. A contract can become void if the contract involves any illegal activity, if the contract is made in such a way that it cannot be executed, or if the contract is not properly structured. 
+3. A voidable contract is where one party in the contract may repudiate it. 
+4. A void contract is nonexistent and cannot be upheld by any law. On the other hand, voidable contracts are existing contracts, and are bound to at least one party involved in the contract. 
+ 
+ 
+Comparison between Void & voidable contract 
+ 
+S.N. 
+Subject matters 
+Void contract 
+Voidable contract 
+1 
+Starting of invalidation 
+At the time of creation 
+As one party declared invalid 
+2 
+Existence 
+Non existence 
+Bind to at least one party 
+3 
+Reason for invalidation 
+Contract involve illegal act 
+If one party repudiate contract 
+4 
+Performance of contract 
+Not possible 
+Possible 
+5 
+Time of invalidity 
+At face value 
+At  any time 
+ 
+(III) Types of contract with respect to procurement method  A) For goods or other services – (SSC/URC/MYC/DSEC/TKC) 
+ 
+Goods or other services may be procured by entering into any one contract out of the following contracts: (a) Contract for supply of specific goods or other services: 
+A contract for the supply of specific goods or other services may be used for the procurement of raw materials, equipment required for any specific purpose, pharmaceuticals, drugs, tools or similar other goods of specific nature. 
+(b) Framework or unit rate contract: 
+A framework or unit rate contract may be used for obtaining the goods or other services set forth in the procurement contract from one or more than one supplier at the prices and terms specified in the procurement contract as and when a demand is placed by the public entity. This contract shall specify the minimum and maximum quantity of goods or other services to be procured by the public entity. The term of this contract shall normally not exceed one year. 
+(c) Multi-year contract: 
+A multi-year contract can be entered into in the following circumstances: 
+(a) If procurement under a multi-year contract would result insubstantial savings to the public entity as compared to procurement under an annual contract, 
+(b) If the quantity of procurement remains substantially unchanged during the period of procurement contract, 
+(c) If the design of goods to be procured remains unchanged during the period of procurement contract, and 
+(d) If the technical risks associated with the supplies of goods are not excessive. 
+(d) Design, supply and erection contract: 
+A design, supply and erection contract may be used for designing of goods involving state-of-art or complex technology such as big power plants or pumping stations, delivering such goods at the construction sites, assembling thereof, testing and commissioning the same and providing training, as required, to the employees of the concerned public entity for handling such goods. Such contract may also be entered into for any two works out of design, supply and erection. 
+(e) Turn-key contract: 
+A turn-key contract may be entered into for designing, supplying, building and erecting an industrial plant involving state of art technology such as fertilizer plant and milk processing plant in accordance with the procurement contract, specifying the performance capacity of such plant, and then transferring the plant to the public entity. 
+Note: The contracts referred to in Clauses (a), (b), (d) and (e) may also be multi-year contracts. 
+ 
+B) For Construction work (URC/LSC/CRC/TMRC/DBC/MC/PBMC/PWC) 
+ 
+(a) Unit price contract: 
+An unit price contract may be entered into where the quantity of a construction work is difficult to be ascertained or where a construction work is to be procured on the basis of unit price set forth in the bill of quantity. The bidder has to include in such unit price the materials, labor and other matters required to complete the proposed construction work. In making payment for work done under this contract, the public entity shall make such payment on the basis of the unit of work actually done and measured in the field. 
+(b) Lump sum contract: 
+A lump sum contract may be entered into for procuring a construction work such as ground water pipeline installation, the quantities of which are difficult to measure or a construction work such as superstructure of bridge, the quantities of which can be measured. Such contract shall specify that the construction entrepreneur shall be responsible for all types of risks and liabilities associated with the construction work. Provided that if the financial liabilities of the construction entrepreneur increases as a consequence of an order issued by the public entity that involves any type of change in the construction work after the commencement of work upon making the contract, the public entity shall bear such liabilities. 
+ 
+(c) Cost reimbursement contract: 
+A cost reimbursement contract may be entered into for procuring a construction work involving high risks and unpredictable conditions, when it is likely that a construction entrepreneur would refuse to, or be unable to, perform the work under a unit price contract. While making payment to the construction entrepreneur for the construction work procured under this contract, such payment may include the costs actually incurred by that entrepreneur, overheads of that work plus profits set forth in the approved cost estimate. In procuring a construction work under this contract, the chief of public entity shall establish the ceiling of maximum amount of cost reimbursement; and approval of the departmental head shall be required to make reimbursement of cost in excess of that ceiling. 
+(d) Time and materials rate contract: 
+Where the labor and materials required for the repair and maintenance of any construction work cannot be predicted at the time of entering into a procurement contract, a time and materials rate contract can be entered into for procuring work by calculating labor on the basis of time and materials on the basis of unit price. This contract shall clearly provide for payment as follows to the construction entrepreneur: 
+(i) Amount to be set by adding overheads and profits set for thin the approved cost estimate to the amount set by dividing the construction entrepreneur's labor on the basis of per hour or per day or per month, and 
+(ii) Amount paid for the materials used in the repair and maintenance subject to the ceiling set forth in the procurement contract. 
+(e) Design and build contract: 
+A design and build contract may be entered for procuring the design and build of any construction work from the same construction entrepreneur. The work set forth in this contract shall commence only after the public entity has through its technician or a group of technicians examined and approved the design of construction work. The technician or group of technician who so examines the design shall, in examining and accepting such design, drawing and cost estimate, examine and accept in accordance with the procedures to be adopted for making examination and acceptance. 
+(f) Management contract: 
+Under a management contract, the construction entrepreneur entering into procurement contract with a public entity, while undertaking full legal and contractual liabilities for time and quality of a construction work, shall execute the work through a number of sub-contractors managed and supervised by that entrepreneur. Payments for work set forth in this contract shall be made only to the construction entrepreneur entering into contract with the public entity. 
+ 
+(g) Performance based maintenance or management contract: 
+A performance based maintenance or management contract may be entered into for the procurement of any construction work by specifying only the final performance without specifying the equipment and various item-wise works required for the maintenance or management of such work. 
+(h) Piece work contract: 
+A piece work contract, which establishes a list of prices of construction work, may be entered into for procuring commonly occurring minor items of construction work to be used as and when the need arises. The validity period of this contract shall not normally exceed one year. 
+ 
+C) For consultancy services  (LSC/TBC/PBRC/PC/IDC)  (a) Lump sum contract: 
+A lump sum contract may be entered into for procuring consultancy service for a clearly defined assignment, the quality of which can be readily assessed, with minimum risks to the consultant, such as feasibility studies, project design and preparation of tender documents. This contract shall provide that the consultant is to submit a report to the public entity upon performing the assignment of specified technical characteristics set forth in the terms of reference within the specified period and the entity is to pay remuneration to the consultant for the same. 
+ 
+(b) Time based contract: 
+Where it is difficult to estimate the period of consultancy service such as supervision of construction works, management of complex business institutions or design of complex structures such as dams and tunnels, a time based contract may be entered into for such service. This contract shall provide that the consultant's remuneration shall be based on: 
+(a) Amount to be set upon multiplying the rate of remuneration set forth in the contract by the actual time spent by the consultant in executing the assignment, 
+(b) Reimbursable expenses using actual expenses supported by bills, receipts. 
+(c) Performance based remuneration contract: 
+  If it is required to procure consultancy service on conditions that the consultant shall be called as and when required to perform the assignment set forth in the procurement contract or remuneration is to be paid based on the assignment executed by the consultant, a performance based remuneration contract may be entered into. The remuneration of the consultant shall be as set forth in such contract. (d) Percentage contract: 
+A percentage contract may be entered into for procuring goods inspection service, architect service, supervision or monitoring service or similar other service. This contract shall provide that consultant's remuneration is to be paid on the basis of the percentage of the estimated or actual cost of the concerned construction work or project or the cost of goods procured or inspected. 
+(e) Indefinite delivery contract: 
+An indefinite delivery contract may be entered into for the procurement of a consultancy service as and when required on a particular activity such as adviser required from time to time for the implementation of a construction work, adjudicator or arbitrator for the settlement of any dispute relating to the procurement contract, adviser on institutional reforms or procurement and technical problem shooter. This contract shall provide for the following matters: 
+(a) The contractor shall perform the assignment set forth in the contract at the rates stipulated in the procurement contract as and when the public entity so requires, 
+(b) Remuneration shall be paid on the basis of the time actually used by the consultant in the performance of assignment. 
+Types of contract : Summary  
+1. Mode of creation of contract 
+b. Expressed and implied contract 
+c. Direct and indirect contract 
+d. Formal and simple contract 
+2. Performance of contract 
+a. Executed and executory contract 
+3. Origin of the liability of the parties 
+a. General, quasi and contingent contract 
+4. Nature of contractual liability 
+a. Unilateral and bilateral 
+5. Nature of offer 
+a. Contract in particular and general 
+6. Enforceability of contract 
+a. Void agreement 
+b. Void contract 
+c. Voidable contract 
+d. Unenforceable contract 
+e. Illegal contract and 
+f. Lawful or valid contract 
+ 
+Factors to be considered in preparing contract: 
+ 
+1) The contract must be fair 
+Since it is usually the owner who prepares the contract, there is tendency for a contract to be biased in the owner's favor. We must be careful about this. It is important to honestly look at the motives that both parties have for entering into contract. 
+The owner wants to have his project constructed. &the contractor wants a profit. 
+Both of these are legitimate motives, and the contract drawn up between the two parties must protect both interests, the owner who takes advantage of the contractor by writing an unfair contract will pay for this advantage. He pays in several ways. 
+The first way will be through high tender prices. Since the contractor feels that the contract terms make it difficult or risky for him to earn a profit, he will naturally charge more money to cover his risks and difficulty. 
+If there is a lot of competition for a contract, so that the contractor can't submit a high bid in order to cover his increased difficulty and risks, prudent contractors will refrain from tendering at all. This leaves the ownerwith tenders from imprudent contractors these contractors will have to bid low, and resort to other methods to make their profit margin. They might resort to making excessive claims for extra payment, reducing services to the owner, or cheating. 
+One of the worst consequences of an unfair contract is that the contractor won't take it seriously. From the very beginning of the project, he will have no intention of working according to the contract. This kind of situation sets the scene for two possible working relationships between the contractor and the construction manager. 
+One in which the owner must fight with the contractor at every stage of contract in order to prevent bad practices (which often leads to default and/or litigation). 
+One in which the contractor tries to gain the favor of the manager so that the manager will overlook the contractor's bad practices (which often leads to corruption and bribes). 
+Quite clearly, neither of these cases serves the interests of the project. Fairness then, is one of the main qualities that a manageable contract must have.  
+2) The contract must be clear 
+The intention of the contract is to communicate precise information to people who must act on it. 
+Construction errors are costly and difficult to correct. There is no need to use confusing legalistic language in a contract. Contract language must be clear and precise. It does not have to impress anyone with the use of "therefore", "whereas", "herein after", or any other terms that don't serve the interests of clarity. 
+3) Contract language must be consistent 
+We often see contracts that use five or more words to refer to the same thing or person. This can be quite confusing. There is no need to use: the owner, the project, the party of the first part and the client, when all of these mean the same thing. In literature, variety is important. In writing contracts the need for clarity comes first.Similarly, we must take care not to call two different things by the same name. Drawings, contracts drawing, approved drawings, plans, shop drawings, working drawings, detail drawings, design drawings etc. must be defined and used in restricted way. 
+4) Do not repeat (No repetition) 
+Unless there is some special reason for doing so, there is no need to put the same requirement or term in three different places in the same contract. This can lead to difficulty later on if you need to change the term. The working rule is:SAY IT ONCE - SAY IT IN THE PROPER PLACE - LET IT BE. 
+5) Use each part of the contract for its proper purpose 
+Don't put technical specification in the General Conditions. Don't put commercial terms in the Technical Specifications. This makes it difficult to find specific information when it is needed.One common error is worth special mention. Don't make notes on a drawing when the same purpose could be served by writing a requirement into the Technical Specifications. If a change has to be made in the future, it is much easier to make a change in the Technical Specifications that it is to revise every set of drawings that had been issued. 
+6) Contract information must be retrievable  
+Remember that the contract is going to be used to guide and manage the construction process. It is not enough to put the right information into the contract; users have to be able to find it when they need it and they have to be able to find it quickly. Number each article, each section, each clause, each page. Provide a clear index.  
+7) Use foresight: Try to foresee any possible area of confusion and clear them up in advance. 
+8) If you want it, get it in the contract(Get it what you want) 
+The contractor cannot read your mind. If the contract does not clearly state that something is to be done, do not expect the contractor guess that you want it done. The contractor is not giving things away. He is in business to make a profit. When he submits a tender, he is bidding on the work specified in the contract. It does not matter whether you think. It is obvious that a BASE COURSE must be provided, if it is not specified in the contract, it is not part of the contract. If it is not part of the contract it is not included in the contract price. If it is not included in the contract price it is an extra cost item. 
+Factors to be considered in preparing contract(Summary): 
+(Fair/Clear/Consistent/Unrpeat/Purposefuul/Retrievable/Foresight/Get it) 
+• The contract must be fair(Owner wants his work done in lesser amount and contractor wants profit) 
+• The contract must be clear(Intention of contract is to communicate precise information to people who must act on it) 
+• The Contract language must be consistent 
+• No repetition(Say it once , say it in proper place) 
+• Use each part of the contract for its proper purpose 
+• Contract information must be retrievable  
+• Use foresight (try to foresee any possible area of confusion and clear them up in advance) 
+• If you want it get it in the contract Conditions of contract: 
+Whatever agreement is reached between different parties, it is followed by certain terms and references (conditions) that bind all the parties reaching the agreement. This helps for the ease and smooth functioning of work and minimizes disputes. These terms and references (conditions) are called the conditions of contract.  
+These maybe of two parts i) General conditions of contract and ii) Special conditions of contract. Elements of General conditions of contract (GCC): 
+• Definition & interpretation 
+• Security deposits 
+• Time for completion and delays 
+• Mode of payment 
+• Alterations, additions, variations and omissions 
+• Execution of work and measurement of completed wok 
+• Defects and maintenance of defects 
+• Subletting 
+• Breach of contract 
+• Arbitration- settlement of disputes 
+• Suspension of works 
+• General obligations of contract 
+• Labor and labor welfare 
+• Changes in cost and legislation ? Materials and workmanship etc. 
+Contract documents: 
+• The document that describes in detail the scope of the agreement and responsibilities of the parties to it is called contract document. 
+• The documents that lead towards a contract are referred to as contract document. Priority of contract documents: 
+• The Contract agreement 
+• The letter of acceptance 
+• The tender/bid 
+• Conditions of contract – General/Special 
+• The detail specifications 
+• The detailed drawing 
+• Priced bill of quantities(BOQ) 
+• Addenda (list of things) to clarify, corrects and provide additional information Roles of contract documents: 
+• Define duties and responsibilities of the parties involved in the contract ? Defines payment procedures such as lump sum /unit price/cost plus etc. 
+• Deals with variation/changes in the work during implementation 
+• Guides for the procedure, pricing and payment of the altered, added & omitted work 
+• Value and duration of the contractual work 
+• Contract termination process 
+• Assigns risks(soil condition/weather condition/delays/changes/performance etc Rules of contract interpretation: 
+• Self-explanatory 
+• Court interprets in case of ambiguity  
+• Contra proferentem- rule of contractual interpretation which provides that an ambiguous term will be construed against the party that imposed its inclusion in the contract or more accurately, against (the interest of) the party who imposed it. The interpretation will therefore favor the party that did not insist on its inclusion. The rule applies only if, and to the extent that clause was included at the unilateral insistence of one party without having been subject to negotiation by the counter-party. Additionally, the rule applies only if a court determines the term to be ambiguous, which often forms the substance of contractual dispute.It translates from the Latin literally to mean against(contra) the one bringing forth(the proferens).   
+• Contractual exclusion clauses 
+Specification 
+Exact statement of the particular needs to be satisfied, or essential characteristics that a customer requires (in a good, material, method, process, service, system, or work) and which a vendor must deliver.  
+Specifications are written usually in a manner that enables both parties (and/or an independent certifier) to measure the degree of conformance. They are, however, not the same as control limits (which allow fluctuations within a range), and conformance to them does not necessarily mean quality (which is a predictable degree of dependability and uniformity).  
+Specifications are divided generally into two main categories:  
+(1) Performance specifications: conform to known customer requirements such as keeping a room's temperature within a specified range.  
+(2) Technical specifications: express the level of performance of the individual units, and are subdivided into (a) individual unit specifications which state boundaries (parameters) of the unit's performance consisting of a nominal (desired or mandated) value and tolerance (allowable departure from the nominal value,  
+(b) acceptable quality level which states limits that are to be satisfied by most of the units, but a certain percentage of the units is allowed to exceed those limits, and  
+(c) distribution specifications which define an acceptable statistical distribution (in terms of mean deviation and standard Deviation) for each unit, and are used by a producer to monitor its production processes.  
+ 

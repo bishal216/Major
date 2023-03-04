@@ -1,0 +1,125 @@
+{'question': 'What is the impact of indoor pollution on health?', 'answer': 'Loss of visibility, property or crops Effect of Indoor Pollution on Health 1.'}
+{'question': 'What is the environmental impact of energy sources?', 'answer': 'Chapter 4 Environmental Impact of Energy Sources 4.'}
+{'question': 'What is the evidence of asthma?', 'answer': 'Limited evidence: Asthma 4.'}
+{'question': 'What is the impact of indoor pollution on health?', 'answer': 'Destruction of global nitrogen cycle 3.'}
+{'question': 'What are the main effects of indoor pollution?', 'answer': 'Strong evidence: ARIs (acute respiratory infections), Chronic obstructive lung disease, Lung cancer 2.'}
+{'question': 'What is the impact of indoor pollution on health?', 'answer': 'Deforestation 5.'}
+{'question': 'What is the most common type of TB?', 'answer': 'Moderate evidence: Cataract, TB (tuberculosis) 3.'}
+{'question': 'What is the impact of indoor pollution on health?', 'answer': 'Environmental Impact of Indoor Pollutant 1.'}
+{'question': 'Why are women most exposed to indoor air pollution?', 'answer': 'Women and their youngest children are most exposed because of their household roles.'}
+{'question': 'How much is the EPA recommending that people use biomass fuels?', 'answer': 'g.'}
+{'question': 'What can cause indoor pollution?', 'answer': '; dung, charcoal, wood, crop residues) can cause emission hazards.'}
+{'question': 'How does the environment affect the health of people?', 'answer': 'Ground level ozone 4.'}
+{'question': 'What is the impact of indoor pollution on health?', 'answer': 'Diversion of agricultural residues 6.'}
+{'question': 'What are the main effects of indoor air pollution?', 'answer': 'Insufficient evidence: Low birth weight and perinatal deaths, Heart disease etc 65 CHAPTER 4.'}
+{'question': 'What are the main elements of the article?', 'answer': 'Coals smoke produces all the above plus, depending on coal quality, sulphur oxides and such toxic elements as arsenic, lead, fluorine, and mercury.'}
+{'question': 'What are the main sources of indoor air pollution?', 'answer': 'These fuels are used for household cooking and heating.'}
+{'question': 'Who is most likely to be affected by indoor air pollution?', 'answer': 'The disease burden from solid fuel use is most significant in populations with inadequate access to clean fuels, particularly poor households in rural areas of developing countries.'}
+{'question': 'What are the main sources of indoor air pollution?', 'answer': 'Solid fuels are burned in inefficient simple stoves and in poorly ventilated conditions.'}
+{'question': 'What is the impact of indoor air pollution on health?', 'answer': '1.'}
+{'question': 'What are the main pollutants in the air?', 'answer': 'Depending on their quality, coal fuels may also emit sulphur oxides and other toxic elements, including arsenic, lead and fluorine.'}
+{'question': 'What is the environmental impact of indoor pollution?', 'answer': 'Acid precipitation 2.'}
+{'question': 'What is the most common type of pyrene?', 'answer': ')pyrene.'}
+{'question': 'What are the main pollutants in biomass fuels?', 'answer': 'In simple stoves, biomass fuels emit substantial amounts of health-damaging pollutants, including respirable particulates, carbon monoxide, nitrogen oxides, benzene, formaldehyde, 1,3 butadiene, and polyaromatic compounds such as benzo(?'}
+{'question': 'What is the environmental impact of energy sources?', 'answer': '1 Emission Hazard 4.'}
+{'question': 'What is the impact of indoor air pollution?', 'answer': '1 Indoor Pollutants Household combustion of coal or biomass (e.'}
+{'question': 'What are the most common respiratory problems associated with NOx?', 'answer': 'Nitrogen oxides (NOx) is linked to a wide range of respiratory problems; cough, runny nose, and sore throat are among the most common.'}
+{'question': 'What are the health impacts of CO?', 'answer': 'Health Impacts Carbon monoxide (CO) affects especially persons with heart disease, and fetuses.'}
+{'question': 'What are some other controlling measures?', 'answer': 'Others controlling measures can be housing design, behavioural changes like education, reducing smoke from stove, modified cooking practice.'}
+{'question': 'What are the main factors that affect people?', 'answer': '• personal susceptibility to the effects of IAP, that is, physiological factors that make some individuals more prone to the effects than others, such as children and asthmatics.'}
+{'question': 'What are the main effects of IAP?', 'answer': 'Particulate matter (PM) is associated with premature death, aggravation of respiratory and cardiovascular disease, and decrease in lung function.'}
+{'question': 'What are the main effects of IAP?', 'answer': '1.'}
+{'question': 'What is the main purpose of the article?', 'answer': '2 Automotive Pollution Exhaust gas or flue gas is emitted as a result of the combustion of fuels such as natural gas, gasoline/petrol, diesel fuel, fuel oil or coal.'}
+{'question': 'What are the main ways to reduce IAP?', 'answer': 'Technical interventions can thus reduce IAP in three ways (Ballard-Tremeer and Mathee, 2000): • by producing less smoke: improved stoves, improved fuels and fuel switching; • by removing smoke from the indoor environment: chimneys, flues, hoods and ventilation; • by reducing exposure to smoke: reducing cooking time, behaviour, kitchen design.'}
+{'question': 'What are the main components of combustion gas?', 'answer': 'The largest part of most combustion gas is nitrogen (N2), water vapor (H2O) (except with purecarbon fuels), and carbon dioxide (CO2) (except for fuels without carbon); these are not toxic or noxious (although carbon dioxide is a greenhouse gas that contributes to global warming).'}
+{'question': 'What is the type of engine?', 'answer': 'According to the type of engine, it is discharged into the atmosphere through an exhaust pipe.'}
+{'question': 'What is the most common cause of IAP?', 'answer': 'A relatively small part of combustion gas is undesirable noxious or toxic substances, such as carbon monoxide (CO) from incomplete combustion, hydrocarbons (properly indicated as CxHy, but typically shown simply as ”HC” on emissions-test slips) from unburnt fuel, nitrogen oxides (NOx) from excessive combustion temperatures, ozone (O3), and particulate matter (mostly soot).'}
+{'question': 'What are the main effects of IAP?', 'answer': '4.'}
+{'question': 'What are the main factors that contribute to air pollution?', 'answer': 'Motor vehicle emissions contribute to air pollution and are a major ingredient in the creation of smog in some large cities.'}
+{'question': 'What are the main effects of ozone?', 'answer': 'Ozone can cause chest pain, coughing, and shortness of breath.'}
+{'question': 'What are the main effects of ozone on the body?', 'answer': 'When inhaled, ozone can cause temporary decreases in lung function of 15 to over 20% in healthy adults.'}
+{'question': 'What are the main effects of HC on people?', 'answer': 'Unburned hydrocarbon (HC) has serious health effect on people who suffer from lung diseases, asthma or emphysema.'}
+{'question': 'What are the main effects of IAP?', 'answer': 'Lead exposure will lead to a decrease in intelligence quotient and can, in some cases, also lead to premature deaths.'}
+{'question': 'What is the best way to prevent a battery explosion?', 'answer': 'First aid treatment calls for flushing the skin for 10 to 15 minutes with large amounts of water to cool the affected tissues and to prevent secondary damage.'}
+{'question': 'What should you do to prevent a battery explosion?', 'answer': 'Immediately remove contaminated clothing and thoroughly wash the underlying skin.'}
+{'question': 'What are the most common causes of battery explosions?', 'answer': 'Car batteries are most likely to explode when a short-circuit generates very large currents.'}
+{'question': 'What are the risks of lead acid?', 'answer': '2.'}
+{'question': 'What is the danger of lead acid?', 'answer': 'It may also cause damage to the charger or device.'}
+{'question': 'What are the dangers of lead acid?', 'answer': '3 Poisoning Lead poisoning can leads to brain disease, slowed nerve conduction velocity [decreased reaction times], slow growth and development of child, effect in cognitive development like levels decrease in IO, cognitive function deficits such as verbal function / linguistic deficits.'}
+{'question': 'What are the risks of lead acid?', 'answer': '2 Battery Hazards Batteries are safe, but precaution applies when touching damaged cells and when handling lead acid systems that have access to lead and sulphuric acid.'}
+{'question': 'What are the risks of lead acid?', 'answer': 'Let’s look at the hazards if not properly handled.'}
+{'question': 'What are the risks of lead acid?', 'answer': 'Several countries label lead acid as hazardous material, and rightly so.'}
+{'question': 'What should you do when handling lead acid?', 'answer': 'Always wear protective equipment when handling the sulphuric acid.'}
+{'question': 'What is the definition of an explosion?', 'answer': '1 Explosion A battery explosion is caused by misuse or malfunction, such as attempting to recharge a primary (nonrechargeable) battery, or a short circuit.'}
+{'question': 'What is the danger of lead acid in a car battery?', 'answer': '2 Explosion The sulphuric acid in a lead acid battery is highly corrosive and is potentially more harmful than acids used in other battery systems.'}
+{'question': 'What are the effects of lead acid on the body?', 'answer': 'Others effects includes learning difficulties, hearing impairment; lack in auditory sensitivity, sight loss and impairment etc and problems in digestive system.'}
+{'question': 'What are the dangers of lead acid?', 'answer': 'BATTERY HAZARDS 67 4.'}
+{'question': 'What are the risks of lead acid batteries?', 'answer': 'When a battery is recharged at an excessive rate, an explosive gas mixture of hydrogen and oxygen may be produced faster than it can escape from within the battery, leading to pressure build-up and eventual bursting of the battery case.'}
+{'question': 'What are the risks of lead acid?', 'answer': '4.'}
+{'question': 'What is the danger of lead acid batteries?', 'answer': 'Car batteries produce hydrogen, which is very explosive, when they are overcharged (because of electrolysis of the water in the electrolyte).'}
+{'question': 'What are the dangers of lead acid?', 'answer': 'Eye contact can cause permanent blindness; swallowing damages internal organs that can lead to death.'}
+{'question': 'What are the effects of cadmium on the body?', 'answer': 'Effects of cadmium includes accumulation on kidney (where it damages filtering mechanisms, dysfunction), lung impairment, bone disease, human carcinogenesis, diarrhoea, stomach pains and severe vomiting reproductive failure and possibly even infertility, damage to the central nervous system, damage to the immune system.'}
+{'question': 'What is the best way to keep a battery out of sight?', 'answer': 'Keep button batteries out of sight and reach of children.'}
+{'question': 'What is the most common type of battery?', 'answer': '3.'}
+{'question': 'What is the best way to prevent a battery from ingesting?', 'answer': 'If you suspect your child has ingested a battery, go to the hospital immediately.'}
+{'question': 'What is the best way to prevent a battery from leaking?', 'answer': 'Wait for a medical assessment before allowing the child to eat and drink.'}
+{'question': 'What is the most common type of battery?', 'answer': 'Although toxic to plants, nickel is not harmful to humans.'}
+{'question': 'What are some of the items that may be included in a battery?', 'answer': 'Remote controls, singing greeting cards, watches, hearing aids, thermometers, toys, electric keys and more may include these batteries.'}
+{'question': 'What is the most common type of battery?', 'answer': '2.'}
+{'question': 'What is the chemical used in a battery?', 'answer': 'The electrolyte used is a sulphuric acid solution.'}
+{'question': 'What are the most common safety methods for battery recycling?', 'answer': '5 Safety Methods 1.'}
+{'question': 'What is the chemical composition of lithium-ion?', 'answer': 'Lithium-ion is similarly benign the battery contains little toxic material.'}
+{'question': 'What is the best way to dispose of a battery?', 'answer': 'When each battery reaches end of life it must be disposed of to prevent environmental damage.'}
+{'question': 'What is the composition of the grates?', 'answer': 'The grates are normally composed of alloys containing low amounts of Ca, Sb and Sn.'}
+{'question': 'What is the chemical reaction of the battery?', 'answer': 'During the batteries discharge, PbSO4 is formed.'}
+{'question': 'What is the chemical composition of a battery?', 'answer': 'The PbO2 base plate is essentially composed of a Pb alloy grate in which a PbO2 paste is impregnated.'}
+{'question': 'What is the best way to clean a battery?', 'answer': 'Nevertheless, caution is required when working with a damaged battery.'}
+{'question': 'What is the chemical composition of a battery?', 'answer': '6 Recycling of Batteries Lead acid batteries are usually composed of two plates: Pb alloy and PbO2 base.'}
+{'question': 'What is the best way to keep batteries away from children?', 'answer': 'Keep loose batteries locked away to prevent access by small children.'}
+{'question': 'What is the danger of swallowing a battery?', 'answer': 'Share the danger of swallowing button batteries with caregivers, friends, family members and baby sitters.'}
+{'question': 'What is the most common type of battery?', 'answer': '5.'}
+{'question': 'What is the most common chemical in lithium batteries?', 'answer': 'Nickel-metal-hydride is considered non-toxic and the only concern is the electrolyte.'}
+{'question': 'What is the chemical composition of a polypropylene box?', 'answer': 'A polypropylene box typically contains the electrolyte and a group of six cells.'}
+{'question': 'What are the most common types of batteries?', 'answer': '4 Toxic Materials Many types of batteries employ toxic materials such as lead, mercury, and cadmium as an electrode or electrolyte.'}
+{'question': 'What is the odour of a battery?', 'answer': 'As a simple guideline, hydrogen sulphide which comes after over charging batteries, becomes harmful to human life if the odour is noticeable.'}
+{'question': 'What is the most common type of battery?', 'answer': '4.'}
+{'question': 'What are the steps to recycle a battery?', 'answer': 'The recycling sequential steps normally are: 1.'}
+{'question': 'What is the best way to clean a battery?', 'answer': 'When handling a spilled battery, do not touch your mouth, nose and eyes, and wash your hands thoroughly.'}
+{'question': 'What is the name of the term?', 'answer': 'Battery are one form of electronic waste (e-waste).'}
+{'question': 'What is the best way to clean a battery?', 'answer': 'Turn off the charger, vent the house and stay outside until the odour disappears.'}
+{'question': 'How much lethal is radium?', 'answer': 'Radium is 25,000 times more lethal than arsenic.'}
+{'question': 'What is the most dangerous product?', 'answer': 'Among the long-lived fission products the most hazardous are Strontium-90 (half life 28.'}
+{'question': 'What are the most toxic substances?', 'answer': '1 Biological Effect of Radioactive Radiation Radioactive substances are among the most toxic substances known.'}
+{'question': 'What is the most common type of radiation?', 'answer': '3.'}
+{'question': 'How many microsieverts of radiation is produced?', 'answer': 'The estimated percept dose to world population from fallout of past nuclear explosions is 10 microsievert per year.'}
+{'question': 'What is the most common type of radioactive waste?', 'answer': 'The radioactive waste from nuclear plants may be in form of gases, liquids or solids.'}
+{'question': 'What is the most common type of radiation?', 'answer': '3 Nuclear Hazard A number of nuclear explosions have already been made during recent past in different part of world.'}
+{'question': 'What is the most common type of radiation?', 'answer': 'acid removal 3.'}
+{'question': 'What is the most common type of radiation?', 'answer': '2.'}
+{'question': 'What is the most common type of radiation?', 'answer': 'At any time, radioactivity is likely to escape from the waste in water bodies, concrete cases and salt formations in high mountains.'}
+{'question': 'What are the effects of radioactive radiation?', 'answer': 'All these are somatic effects.'}
+{'question': 'What are the main components of the nuclear explosion?', 'answer': 'separation of the plastic, metallic lead and paste 4.'}
+{'question': 'What are the effects of radiation on the body?', 'answer': 'Somatic Effects These are the direct results of action of radiation on the body cell and tissues.'}
+{'question': 'What is the name of the other type of effect of ionizing radiations?', 'answer': 'Genetic Effects There is another more serious type of effect of ionizing radiations, known as genetic effect.'}
+{'question': 'What are the symptoms of radiation?', 'answer': 'The illness to become a victim are-cardiovascular disorder, cataract, leukaemia, sterility, premature ageing and shortenings of life span.'}
+{'question': 'What is the main topic of this chapter?', 'answer': 'ENVIRONMENTAL IMPACT OF ENERGY SOURCES 4.'}
+{'question': 'What is the difference between a nuclear explosion and a sex cell?', 'answer': 'Nuclear explosions are very rapid and based on a rough estimate, in an explosion about 50 per cent of the energy goes to the blast, 33 per cent as heat and the rest 17 per cent or so to radioactivity.'}
+{'question': 'What are the symptoms of radiation?', 'answer': 'If these symptoms grow more severe, death will result.'}
+{'question': 'What are the main steps of the nuclear explosion?', 'answer': 'separation, reduction, refining and casting CHAPTER 4.'}
+{'question': 'What is the best way to destroy radioactivity?', 'answer': 'Radioactive Waste There is no way of destroying radioactivity.'}
+{'question': 'What is the most likely cause of nuclear waste?', 'answer': 'The nuclear waste is thus likely to get leached into the biosphere.'}
+{'question': 'What are the effects of radiation on the body?', 'answer': 'These effects may be immediate or delayed.'}
+{'question': 'What is the best method of storing radioactive waste?', 'answer': 'There is no suitable and cheap method of storing the radioactive waste.'}
+{'question': 'What is the name of the substance that falls to the earth after an atomic explosion?', 'answer': 'The radioactive dust that falls to the earth after atomic explosion is called radioactive fallout.'}
+{'question': 'What are the symptoms of radiation on the body?', 'answer': 'If too many cells are damaged, the symptoms show up in the growing tissues as in the case of loss of hair, ulceration of the mouth, the reddening and haemorrhaging of the skin and lowering of the blood count.'}
+{'question': 'What are the effects of ionizing radiation on the body?', 'answer': 'If a sex cell is damaged and if that sex cell is one of the pair that goes into the production of a fertilized ovum, it will give rise to an offspring with various kinds of major or minor physical defects.'}
+{'question': 'How long does caesium have?', 'answer': '9y) and caesium- 137 (half life 30.'}
+{'question': 'What is the primary site of radiation damage?', 'answer': 'The cell, which is the fundamental unit of life, is the primary site of radiation damage.'}
+{'question': 'What is the ethical significance of the nuclear explosion?', 'answer': 'Irrespective of judgements about the ethics of this practice, these tests occurred, injecting substantial amounts of radioactivity into the environment.'}
+{'question': 'What is the most important part of the article?', 'answer': '4.'}
+{'question': 'What is the most serious effect of ionizing radiation on the body?', 'answer': 'This arises from the damage to the sex cells.'}
+{'question': 'How long does it take to destroy radioactive waste?', 'answer': '2y).'}
+{'question': 'what is plutonium?', 'answer': 'All these elements enter the human system and get deposited in various parts of the body causing cell damage.'}
+{'question': 'what is plutonium?', 'answer': 'The highly toxic alpha-active element plutonium (half life 24,100y) is another reactor product that has to be taken care of.'}
+{'question': 'what is the radionuclide?', 'answer': 'Radionuclides have become distributed throughout the environment and are transmitted to man via the food chain.'}
+{'question': 'What is the most dangerous element in radionuclides?', 'answer': 'When taken in by man, some radio nuclides become concentrated in specific organs where they become injurious to health.'}

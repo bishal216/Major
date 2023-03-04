@@ -1,0 +1,268 @@
+{'question': 'What is the difference between intrinsic and external motivation?', 'answer': 'Extrinsic Motivation a.'}
+{'question': 'What is the definition of motivation?', 'answer': 'Chapter 3 Motivation, Leadership and Entrepreneurship 3.'}
+{'question': 'What are the main types of motivation?', 'answer': 'Motives are directed towards goals.'}
+{'question': 'What is the difference between motivation and extrinsic motivation?', 'answer': 'Intrinsic Motivation and Extrinsic Motivation 1.'}
+{'question': 'What is the motivation of the author?', 'answer': 'The desires to perform the task are controlled by an external source b.'}
+{'question': 'What is the meaning of motivation?', 'answer': '1 Motivation Introduction • Process of influencing or stimulating a person to take action by creating a work atmosphere wherein the goals of the organization and needs of the person are satisfied • The word Motivation comes from the Latin word Moves, which means to move.'}
+{'question': 'What is the role of a manager?', 'answer': 'Different people have different motive or needs • The employers or managers have to understand what motivates their subordinates and provide an environment in which they will be motivated and will produce good quality work at the acceptance rate • Internal and external factors that stimulate desire and energy in people to be continually interested in and committed to a job Role of Management in Motivation • Management role is to influence the employees and directing or stimulating them to follow the organization plans and objectives to work efficiently • The primary task of a manager is the creation and maintenance of an environment in which individuals work efficiently towards realizing the objectives of the organization • Management should involve employees in setting work goals for themselves and ensure their participation in planning, organizing, and reviewing of work leading to accomplishment of goals • Management should provide the employees adequate information they need to solve problems, make decisions and understand plans, policies and programs formulated by top management • The management should establish a sound wage and salary structure assuring adequate and equitable compensation to employees • Management should create a conductive work environment for the best performance • Management should organize work in such a way so as to make purposeful and interesting to the employees 3.'}
+{'question': 'What is the meaning of motivation?', 'answer': '1.'}
+{'question': 'What are the types of motivation?', 'answer': '1 Types of Motivation There are basically two types of Motivation.'}
+{'question': 'Why do we say people are motivated?', 'answer': 'When we see people working very hard we say they are motivated because we can see they are moving • The person will work hardest to satisfy his motive.'}
+{'question': 'What is the definition of motivation?', 'answer': 'Intrinsic Motivation o Means that the individuals motivational thoughts are coming from within o The individual is driven by an interest or enjoyment in the task itself, and doesn’t rely on the external rewards o Engages in completing the task willingly as well as to improve their skills 2.'}
+{'question': 'What is the key to motivation in an organization?', 'answer': 'Provide Meaningful and Challenging work o When employees feel the work they are doing are meaningful and challenging in some way, they feel internally motivated o If a employee feels the work they are doing are actually having a big impact in the overall operation of the organization, they generally become more engaged and energized.'}
+{'question': 'What is the definition of motivation?', 'answer': '2 Attitude Motivation • Attitude motivation is about how people think and feel • It is their self confidence, their belief in themselves, their attitude to life, be it positive or negative.'}
+{'question': 'What is the definition of motivation?', 'answer': 'It is how people feel about their future and how they react to their past • If both employers and employees can maintain positive attitude about themselves, towards others as well as the towards the situation, it leads towards the better performance Group Motivation Teams are the life of any organization, productivity and success of an organization depend upon the performance of employees as a team Team leaders must understand how they can influence their team members motivation, and work towards the productivity and proficiency • Bringing out the better of each individuals in a team and recognizing them for their performance can increase their motivation as well as the teams • Team building exercises, trainings, incentives, social recognition, can help motivate the members of any team in an organization to increase and better their performances towards achieving organizational goals Executive Motivation • One of the key issues in an organization is motivating and keeping managerial talents in the company • An organization and top level management should be able to identify and encourage all the talents they possess within the organization and motivate them to stay at the company to perform even better • Profit sharing incentives, bigger and challenging responsibilities, share options, benefits(medical, vehicle), public recognition, better pay can help motivate executives to perform better 3.'}
+{'question': 'What is the definition of motivation?', 'answer': '1.'}
+{'question': 'What is the key to motivation in an organization?', 'answer': '3.'}
+{'question': 'What is the definition of motivation?', 'answer': 'Set clear targets, expectations and measure performance o It is of no point for employees to perform better if they are not clear of the targets they are to meet, or about the expectations from them by the management o Management must be clear when they direct their employees about the objective of the organization and what expectation they have from their employees.'}
+{'question': 'What is the definition of motivation in the context of the article?', 'answer': '?'}
+{'question': 'What is the key to motivation in an organization?', 'answer': '3 Techniques of Motivation It is very important in an organization to keep their employees motivated to keep doing their best towards achieving the organizational goals?'}
+{'question': 'What is the key to achieving organizational goals?', 'answer': 'Management should be able to bring the better performance out of everyone.'}
+{'question': 'What is the importance of feedback?', 'answer': 'o Feedback needs to be timely, specific and presented in such a way that the individual is clear about what behaviors or skills they need to modify (or continue using) in order to improve performance.'}
+{'question': 'What is the importance of training and development programs?', 'answer': 'Training and development Programs o Regular training and development programs should be conducted on timely basis for employees to make themselves prepared for the future o Employees feel motivated when they know they have better future in an organization and they are being invested for.'}
+{'question': 'What is the meaning of the term?', 'answer': 'Alderfer’s ERG Theory Clayton Alderfer’s theory, human needs are divided into three broad categories • E for Existence needs correspond to Maslow’s physiological needs • R for Relatedness needs refers to Maslow’s in between safety and esteem needs • G for Growth needs correspond to Maslow’s self esteem and self actualization needs 3.'}
+{'question': 'What is the meaning of the term?', 'answer': 'McClelland’s Theory of Learned Needs David McClelland has devoted three needs considers particularly important sources motivation Need for Achievement: be successful in competitive situation, assume personal responsibility for Need for Power: A desire to control one’s environment, including people and material resources • Need for Affiliation: A desire to seek approval from others conforms to their wishes and expectations 4.'}
+{'question': 'What is the importance of feedback?', 'answer': '3.'}
+{'question': 'What is the importance of feedback?', 'answer': '1.'}
+{'question': 'What is the meaning of the term motivation?', 'answer': 'Maslow’s Hierarchy of needs theory 2.'}
+{'question': 'What is the importance of feedback?', 'answer': '?'}
+{'question': 'What are the types of incentives that managers can provide to motivate their employees?', 'answer': 'Incentive Programs o Rewards, promotions, benefits, profit sharing, freedom can be provided by managers to motivate their employee.'}
+{'question': 'What are the main theories of motivation?', 'answer': '4 Theory of Motivation • There are essentially two types of motivation theories Content theories of motivation: attempt to explain why people have different needs at different times Process theory of motivation: describe the processes through which needs are translated into behavior.'}
+{'question': 'What is the importance of feedback?', 'answer': 'Value the employees o In a workforce there are also those kind of people who motivates themselves to perform better and they value their responsibility o It is important for Management to value these individuals and make sure they are given credit for their work and respected.'}
+{'question': 'What are the motivational factors?', 'answer': 'Herzberg’s Hygiene Factor and Motivation Relationship between the Maslow and Herzberg’s theory of motivation Hygiene factors: employees are primarily motivated by lower level needs that are hygiene factors Hygiene includes job security, working conditions, company policies and coworker relations Dissatisfaction to No Dissatisfaction Motivating factors: lead to job satisfaction and motivation and are called motivators This factor makes up a continuum leading from non-satisfied to highly satisfy The work itself recognition, achievement, responsibility, and opportunities for growth and advancement as work itself are motivators 7.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'Will make decision within their commitment 5.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'He/she lacks ambition, dislikes responsibility 3.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'Desire to achieve the organizational goals 4.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'The average people have an inherent dislike of work and will avoid it if he/she can 2.'}
+{'question': 'What is the average human being’s dislike of work?', 'answer': 'The average human being does not inherently dislike work 2.'}
+{'question': 'What is the meaning of motivation?', 'answer': 'Vroom’s Expectancy/Valency Theory • Proposed by Victor Vroom from the Yale school of management Proposes that a person will decide to behave or act in a certain way because they are motivated to select specific behavior over other behaviors sue to what they expect the result of that selected behavior will be • Motivation= expectancy*instrumentality*valence M=E*I*V • Motivation is the amount a person will be motivated by the situation they find themselves in.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'Avoid making decision whenever possible Theory Y assumes that people will exercise self correction and self control in working toward objectives to which they are committed Theory Y presumes the people by nature 1.'}
+{'question': 'What is the difference between the two theories?', 'answer': 'He/she is inherently self centered, in different to organization needs 4.'}
+{'question': 'What is the meaning of the phrase?', 'answer': '1.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'Fear and Punishment Theory • Just as theory X assumes, some individuals dislike their work, hates responsibility, avoids challenging jobs and doesn’t have an ambition For those people in an workforce environment, it becomes very necessary to use fear and punishment scheme or theory for them to be motivated Some people get motivated by rewards and some people must be feared and controlled by the management in order to motivate them to work towards achieving organizational goals 6.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'He/she is by nature resistance to change 5.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'Are capable of directing their worn behavior 5.'}
+{'question': 'What is the meaning of the phrase?', 'answer': 'Assume responsibility within their commitments 3.'}
+{'question': 'What is the definition of expectancy?', 'answer': '• Expectancy is the person’s perception that effort will result in performance.'}
+{'question': 'What is the difference between a good manager and a good manager?', 'answer': 'In simple words, a good manager is a leader, but a good leader is not necessarily a manager?'}
+{'question': 'What are the qualities of a good leader?', 'answer': 'A leader must be trustworthy, and be known to live their life with honesty and integrity A person of honesty and integrity is the same on outside and the inside?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Personality/Confidence?'}
+{'question': 'What are the characteristics of a good leader?', 'answer': 'Leaders arrange the work environment such as allocating resources, defining organizational goals?'}
+{'question': 'What is the definition of a leader?', 'answer': 'The leader is an inspiration and director of the action?'}
+{'question': 'What is the definition of a good leader?', 'answer': '2.'}
+{'question': 'What is the difference between a good leader and a manager?', 'answer': 'All leaders shouldn’t necessarily be managers?'}
+{'question': 'What is the definition of leadership?', 'answer': 'Without better leadership skills, the company will struggle to sustain in long run?'}
+{'question': 'What are the qualities of a good leader?', 'answer': 'Honesty and Integrity?'}
+{'question': 'What is the definition of a leader?', 'answer': 'A leader must have ethical behavior thus the trust of the follower?'}
+{'question': 'What is the meaning of Valence?', 'answer': 'Management should ensure that the promises of rewards are fulfilled and the employee are aware of it • Valence is the strength of the reward or punishment that will result from the performance.'}
+{'question': 'What is the definition of leadership?', 'answer': 'The activity of leading a group of people or an organization or an ability to do so?'}
+{'question': 'What is the definition of leadership?', 'answer': 'Process of influencing people and providing an environment for them to achieve the team or organizational goals?'}
+{'question': 'What is the definition of leadership?', 'answer': 'An art of motivating a group of people to act towards achieving a common goal?'}
+{'question': 'What is the definition of what?', 'answer': 'Management should discover what resources, training, or supervision employees need • Instrumentality is the person’s perception as to whether they will actually get what they desire.'}
+{'question': 'What is the definition of leadership?', 'answer': 'Leadership is the process of influencing people and providing an environment for them to achieve team or organizational activities?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'If the reward is small the motivation is small 3.'}
+{'question': 'What are the characteristics of a good leader?', 'answer': 'All managers to be successful must possess great leadership skills?'}
+{'question': 'What is the definition of a great leader?', 'answer': 'Great leaders should possess the ability to adapt their behavior and styles according to the situation?'}
+{'question': 'What is the difference between a leader and a manager?', 'answer': 'There is a difference between leaders and managers?'}
+{'question': 'What are the characteristics of a good leader?', 'answer': 'For an organization to run smoothly, the top level management who are responsible to make decisions, create infrastructure should have sharp leadership skills?'}
+{'question': 'What is the difference between a manager and a manager?', 'answer': 'A manager holds a higher position, may lead a team, his functions vary from planning, directing to controlling, whereas a leader might be any one of the team members with strong influence over the others 3.'}
+{'question': 'What are the qualities of a good leader?', 'answer': '1 Qualities of a good Leader?'}
+{'question': 'What is the difference between a manager and a leader?', 'answer': '2 Leadership?'}
+{'question': 'What is the most effective leadership style?', 'answer': 'Policies are worked out in group discussions, and praise and blame will be shared by the group members?'}
+{'question': 'What is the most effective leadership style?', 'answer': 'Researchers have found that this leadership style is usually one of the most effective and lead to higher productivity, better contributions from group members, and increased group morale?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Should know how to treat and talk to his members?'}
+{'question': 'What is the definition of a good leader?', 'answer': '?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Communication skills?'}
+{'question': 'What is a democratic leader?', 'answer': 'A democratic leader is one who gives orders after consulting the group?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Discipline?'}
+{'question': 'What is the definition of a good leader?', 'answer': '2.'}
+{'question': 'What is the definition of a good leader?', 'answer': 'must be a good speaker and writer, must use simple language to give information, instructions and guidance to his followers?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Initiative?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Committed to excellence?'}
+{'question': 'What is the definition of a leader?', 'answer': 'Members of the group feel more engaged in the process, group members are encouraged to share ideas and opinions, even though the leader retains the final say over decisions?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'The good leader not only maintains high standards, but also is proactive in raising the bar in order to achieve excellence in all areas?'}
+{'question': 'What style of leadership is the best?', 'answer': 'Laissez Faire Style/Free Rein Style?'}
+{'question': 'Why is a leader a leader?', 'answer': 'must have respect for the rule and regulations of the organization, this is because his followers will follow his example?'}
+{'question': 'What is the definition of a leader?', 'answer': 'A leader who conveys confidence towards the proposed objective inspires the best effort from team members?'}
+{'question': 'What are the characteristics of a good leader?', 'answer': 'Must have a good imagination and visualization skills?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'A good leader must always take an initiative?'}
+{'question': 'What are the characteristics of a good leader?', 'answer': 'Human Skills?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Give respect, give credit to people when due?'}
+{'question': 'What is the definition of a democratic leader?', 'answer': '2 Leadership style Democratic Style/Participative Style?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'He/she must do the right thing at the right time without being told by others?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'Must be able to combine new ideas with old ones and develop new tactics to solve problems?'}
+{'question': 'What is the definition of a free rein leader?', 'answer': 'A free rein leader doesn’t lead, but leaves the group entirely to itself?'}
+{'question': 'What is the best way to motivate a leader?', 'answer': 'there is no greater motivation than seeing the boss down in the trenches working alongside everyone else, showing that hard work is being done on every level 3.'}
+{'question': 'What is the definition of a good leader?', 'answer': 'When people feel they that are being treated fairly, they reward a leader with loyalty and dedication?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'A good leader must be a disciplined person?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'He/she must be able to construct and implement his own plans?'}
+{'question': 'What is the definition of a good leader?', 'answer': 'A good leader must be an effective and excellent communicator?'}
+{'question': 'What are the traits of leadership?', 'answer': 'Based on the personal traits, abilities, personality, background, physical characteristic, intelligence, attitudes, learning behavior, maturity?'}
+{'question': 'What are the main characteristics of a great leader?', 'answer': 'Managers using this style also pressure their employees through rules and punishments to achieve the company goals?'}
+{'question': 'What are the characteristics of a great leader?', 'answer': '3.'}
+{'question': 'What is the main concern for the production and people?', 'answer': '?'}
+{'question': 'What is the difference between the two styles of leadership?', 'answer': 'Low concern for production and high concern for People Leaders pays much attention for the comfort of the employees?'}
+{'question': 'What is the main concern for the leader?', 'answer': 'High concern for both the production and people?'}
+{'question': 'What style of leadership does the model identify?', 'answer': 'managers choosing to use this style encourage teamwork and commitment among employees?'}
+{'question': 'What is the main difference between the two styles of leadership?', 'answer': '2.'}
+{'question': 'What style of leadership is used by managers?', 'answer': 'The Status Quo or Middle of the Road Style (5,5)?'}
+{'question': 'What is the main difference between the two styles of leadership?', 'answer': 'Resulting atmosphere is usually friendly, but not necessarily very productive?'}
+{'question': 'What are the main characteristics of a leader?', 'answer': 'Leaders find employee needs unimportant; they provide their employees with money and expect performance in return?'}
+{'question': 'Who developed the managerial grid?', 'answer': 'Developed by Robert R Blake and Jake Mouton?'}
+{'question': 'What is the main difference between the two styles of leadership?', 'answer': 'Group members work themselves and provide their own motivation?'}
+{'question': 'What are the main characteristics of leadership styles?', 'answer': 'Based on the concerns, this model identified 5 different leadership styles?'}
+{'question': 'What style of leadership is the most common?', 'answer': 'The Dictatorial or Perish Style (9,1)?'}
+{'question': 'What are the main characteristics of a great leader?', 'answer': 'High concern for production and low concern for people?'}
+{'question': 'What are the 5 leadership styles?', 'answer': '5 Leadership Theories a.'}
+{'question': 'What are the main characteristics of a great leader?', 'answer': "Managers using this style try to balance between company goals and workers' needs?"}
+{'question': 'What is the main difference between the two styles of leadership?', 'answer': 'Depends largely upon the group to establish its own goals and work out its own problems?'}
+{'question': 'What is the main concern for the leader?', 'answer': 'Low concern for both the production and people?'}
+{'question': 'What style of leadership is the most common?', 'answer': 'The Accommodating or Country Style (1,9)?'}
+{'question': 'What are the core traits of effective leaders?', 'answer': 'Trait Approach of Leadership?'}
+{'question': 'What is the main concern for the leader?', 'answer': 'Main concern for the leader is not to be held responsible for the mistakes, which results in less innovations?'}
+{'question': 'What is the best leadership style for a group?', 'answer': 'Not ideal in situations where group members lack the knowledge or experience they need to complete tasks and make decisions.'}
+{'question': 'What is the difference between the two styles of leadership?', 'answer': 'By giving some concern to both people and production, managers who use this style hope to achieve suitable performance but doing so gives away a bit of each concern so that neither production nor people needs are met.'}
+{'question': 'What is the axis of the grid?', 'answer': 'The model is represented as a grid with concern for production as the X–axis and concern for people as the Y-axis, each axis ranges from 1 (low) to 9 (high)?'}
+{'question': 'What style of leadership is the most common?', 'answer': 'The Indifferent or Impoverished Style (1,1)?'}
+{'question': 'What are the traits of great leaders?', 'answer': 'These traits distinguish great leaders from rest of us?'}
+{'question': 'What is the difference between the two styles of leadership?', 'answer': '3 Managerial Grid?'}
+{'question': 'What style of leadership is used by the leaders?', 'answer': 'The Sound or Team Style (9,9)?'}
+{'question': 'What is the best approach to leadership?', 'answer': 'Ensures they follow the organization rules and procedures?'}
+{'question': 'What is the difference between people oriented and task oriented leadership?', 'answer': 'Assigns employees to specific tasks?'}
+{'question': 'What is the theory of leadership?', 'answer': 'According to this theory, what an individual actually does when acting as a leader is in large part dependent upon characteristics of the situation in which he/she functions?'}
+{'question': 'What are the characteristics of a good leader?', 'answer': 'Treats employees equally and support their interest?'}
+{'question': 'What is the best approach to leadership?', 'answer': '?'}
+{'question': 'What is the definition of leadership?', 'answer': 'Intelligence/Cognitive ability: capable of exercising good judgment, strong analytical abilities Knowledge of Business: knowledge of the organization and other technical matters?'}
+{'question': 'What are the characteristics of effective leaders?', 'answer': 'But studies have shown now that effective leaders can exhibit high levels of both the abilities and these behaviors are independent to each other c.'}
+{'question': 'What is the best approach to leadership?', 'answer': 'Emphasizes on getting the work done, no matter what?'}
+{'question': 'What is the definition of leadership motivation?', 'answer': 'Leadership Motivation: an intense desire to lead others to fulfill organizational goals?'}
+{'question': 'What is the difference between people oriented and task oriented behavior?', 'answer': 'Task Oriented Behavior?'}
+{'question': 'What is the best approach to leadership?', 'answer': 'Pushes them to reach their performance capacity?'}
+{'question': 'What is the best approach to leadership?', 'answer': 'Behavioral Approach of Leadership?'}
+{'question': 'What is the definition of leadership?', 'answer': 'Honesty and Integrity: trustworthy, reliable and leader’s truthfulness and tendency to translate word into deeds?'}
+{'question': 'What is the best approach to leadership?', 'answer': 'Contingency or Situational Approach of Leadership?'}
+{'question': 'What is the difference between people oriented and task oriented leadership?', 'answer': 'Wants the work specified to be done b y the time deadline given Initially it was thought that the leaders who tend to people oriented behavior are weak at the task oriented behavior and vice versa?'}
+{'question': 'What is the difference between people oriented behavior and task oriented behavior?', 'answer': 'People oriented behavior?'}
+{'question': 'What is the definition of leadership?', 'answer': 'Self Monitoring Personality: the leader’s sensitivity to situational cues and ability to adapt his or her own behavior appropriately b.'}
+{'question': 'What is the best approach to leadership?', 'answer': 'This approach answers what behaviors make leaders effective?'}
+{'question': 'What is the definition of leadership?', 'answer': 'Self-Confidence: belief in one’s self, ideas and ability?'}
+{'question': 'What are the characteristics of a good leader?', 'answer': 'Listens to employee suggestion, does personal favors to employees when needed?'}
+{'question': 'What are the characteristics of a leader that are dependent upon the situation?', 'answer': 'Achievement drive: high level of effort, ambitions and inner motivation to pursue goals?'}
+{'question': 'What is the difference between people oriented behavior and task oriented behavior?', 'answer': 'Shows mutual trust and respect for subordinates?'}
+{'question': 'What are the characteristics of a leader?', 'answer': 'Identifies two distinguished behavior, People oriented behavior and Task oriented behavior?'}
+{'question': 'What is the best approach to leadership based upon?', 'answer': 'Based upon the idea that the best approach to leadership depends upon the situation?'}
+{'question': 'What is the definition of what makes leaders effective?', 'answer': 'Argues great leaders are made, not born, explains leadership capability can be learned?'}
+{'question': 'What are the characteristics of a leader that are based on the situation?', 'answer': 'Genuine concern and desire to look out for their needs and welfare?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Seeks improvement in performance, shows high degree of confidence on workers in their ability to take the responsibility at accomplishing tasks d.'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Same as task oriented behavior?'}
+{'question': 'What is the definition of entrepreneur?', 'answer': 'Explains clearly to subordinates what task is to be completed, how and when it is to be completed and maintains clear performance standards?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Entrepreneurship in simple terms is to start a new business?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': '3.'}
+{'question': 'What is the definition of a leader?', 'answer': 'Leader is friendly and approachable?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'An entrepreneur is a person of very high aptitude who pioneers change, possessing characteristics found in only a very small fraction of the population?'}
+{'question': 'What is the definition of entrepreneur?', 'answer': 'Entrepreneurs play a vital role in the economic development of the country?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Same as people oriented behavior?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Directive?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Entrepreneurship ranges in scale from solo projects (even involving the entrepreneur only part-time) to major undertakings creating many job opportunities?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Participative?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': '1 Entrepreneurship Development?'}
+{'question': 'What is the definition of entrepreneur?', 'answer': 'In general form, an entrepreneur is someone who wants to work for himself/herself and start their own business with the knowledge and new innovations they possess 3.'}
+{'question': 'What is the most realistic and effective approach to leadership?', 'answer': 'Most realistic and effective approach of Leadership?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Supportive?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': '3 Entrepreneurship?'}
+{'question': 'What is the French word for entrepreneurship?', 'answer': 'French word, entrependre which means to undertake?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Leaders set challenging goals, expects employees to perform at their highest level?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Integration of the characteristics, behavior and experience of the leader, ability and experience, maturity of followers, structure and technology, objectives and external environment?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'The situation includes the structure, technology, objectives and the external environment 3.'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Integrated Approach to Leadership?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Achievement Oriented?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'The capacity and willingness to develop, organize and manage a business venture along with any of it risks in order to make a profit?'}
+{'question': 'What is the definition of entrepreneur?', 'answer': 'Shows respect, treats employees equally, makes work environment pleasant?'}
+{'question': 'What is the definition of entrepreneurship?', 'answer': 'Contingency theory suggests that leaders motivate and satisfy employees in a particular situation by adopting one or more of the leadership styles described below?'}
+{'question': 'What is the definition of a leader?', 'answer': 'Leader consults with the employees, listens to their suggestion Takes their ideas into serious consideration before making any decisions?'}
+{'question': 'What is the most realistic and effective approach to leadership?', 'answer': 'The management approach is associated with the Leader?'}
+{'question': 'What is the most realistic and effective approach to leadership?', 'answer': 'The Followers represent the Personnel?'}
+{'question': 'What are the main characteristics of an entrepreneur?', 'answer': 'Factors influencing Entrepreneurship:?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'Entrepreneurs are not gamblers or high risk takers, instead they calculate their risks before taking actions, and are moderate risk takers?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'Most successful entrepreneurs know how to motivate their employees so the business grows overall?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': '3.'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'Does things before asked to by other people or demanded by situation?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': '?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'An entrepreneur takes action that goes beyond job description and requirements?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'An entrepreneur identifies opportunities and seizes opportunities for achieving economic benefit?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'Creative?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'Successful entrepreneurs are disciplined enough to take steps every day toward the achievement of their objectives?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'Strong people skills?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Initiative?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Inner drive to start a new business?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'An entrepreneur is committed to the excellence, he/she puts an extra effort when required to fulfill a commitment to the client?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Opportunity seeking?'}
+{'question': 'Are you an entrepreneur?', 'answer': 'If you are afraid of uncertainties, then you are not an entrepreneur?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Risk taking?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'They are confident with the knowledge that they will make their businesses succeed, they display that confidence in everything they do?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'An entrepreneur is an individual with knowledge, skills, initiative, drive and spirit of innovation who aims at achieving goals?'}
+{'question': 'Why are many companies formed?', 'answer': 'Many companies are formed because an entrepreneurs knows that they can do a better job than another?'}
+{'question': 'What are the factors influencing entrepreneurship?', 'answer': 'Creativity and Innovation?'}
+{'question': 'What are the factors influencing entrepreneurship?', 'answer': 'Sources of new idea and transforming ideas into opportunities?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Competitive?'}
+{'question': 'What makes an entrepreneur strong?', 'answer': 'Coming up with different solutions to the problems within makes an individual strong and creates a pathway for success?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Committed/Determined?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Working for oneself, using the knowledge one possess to benefit oneself and the economy of the country 3.'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Must be quick to seize the opportunities?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'They must be competitive and have desire to win and be successful at whatever they do?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'An entrepreneur is determined to be successful, a failure doesn’t affect their willingness, they will try and try until they succeed?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': '2 Entrepreneurship Characteristics?'}
+{'question': 'What are the characteristics of an entrepreneur?', 'answer': 'One cannot become an entrepreneur if he/she lacks imagination and are not creative and innovative?'}
+{'question': 'What is the definition of an entrepreneur?', 'answer': 'Disciplined/Confidence?'}
+{'question': 'What is the purpose of A Global Entrepreneurship Week?', 'answer': 'Every year, A Global Entrepreneurship Week is celebrate worldwide with an aim to expose youths to the benefits of entrepreneurship through different activities and to motivate them to explore their own ideas, creativity and innovation 3.'}
+{'question': 'What are the key requirements for establishing a small scale unit?', 'answer': '3.'}
+{'question': 'What are the main points of the passage?', 'answer': 'Entrepreneurship help promote small business in the society.'}
+{'question': 'Who can start a small business?', 'answer': 'Who can Start?'}
+{'question': 'What is the key to a successful entrepreneur?', 'answer': '?'}
+{'question': 'What is the function of an entrepreneur?', 'answer': 'According to Joseph Schumpeter, the functions of an entrepreneurship is, introduction of new products, introduction of methods of production, developing new markets and finding fresh sources of raw materials, and making and bringing changes?'}
+{'question': 'What is the main advantage of small scale enterprises?', 'answer': 'Another advantage of small scale enterprises is that they are easy to set up and can fulfill one’s dream to become an entrepreneur?'}
+{'question': 'What is the main idea of a good entrepreneur?', 'answer': 'Many economists today agree that small businesses are essential part of our future economic prosperity and is a necessary ingredient in stimulating economic growth?'}
+{'question': 'What are the main advantages of small scale enterprises?', 'answer': 'Not only these enterprises produce export quality goods, they have also created thousands of job opportunities as well?'}
+{'question': 'Who can start a small business?', 'answer': 'An existing entrepreneur or a fresh to business?'}
+{'question': 'What are the key requirements for establishing a small scale unit?', 'answer': 'need to describe the product you wish to manufacture or the service you wish to offer?'}
+{'question': 'What are the steps for establishing small scale unit?', 'answer': '4 Steps for establishing small scale unit?'}
+{'question': 'Who is the best candidate for a Global Entrepreneurship Week?', 'answer': 'Educated or uneducated?'}
+{'question': 'Who is the first person to arrive at the office and last person to leave?', 'answer': 'A successful entrepreneur often is the first person to arrive at the office and last person to leave?'}
+{'question': 'What are the key requirements for a successful entrepreneur?', 'answer': 'A strong will, essential skills, ability of hard work, and ability to take calculated risks are the key requirements?'}
+{'question': 'Who are the key requirements for establishing a small scale unit?', 'answer': 'Rural area/backward area persons, women, physically handicapped persons, minorities,?'}
+{'question': 'What is the importance of a strong work ethic in a small business?', 'answer': '3 Need for Promotion of Entrepreneurship?'}
+{'question': 'What are the key requirements for establishing a small scale unit?', 'answer': 'with or without the business background in the family?'}
+{'question': 'What are the key requirements for establishing a small scale unit?', 'answer': 'Strong Work Ethics?'}
+{'question': 'What are the main factors that can help the corporate sector to survive?', 'answer': 'Entrepreneurship and creativity are the factors that can save the corporate sector from troubled economic times like unemployment, downsizing, and other economic downfalls?'}
+{'question': 'What is the role of a successful entrepreneur?', 'answer': 'Motivates his team to think in his way and act accordingly 3.'}
+{'question': 'What are the key requirements for establishing a small scale unit?', 'answer': 'Product Identification?'}
+{'question': 'What are the key requirements for establishing a small scale unit?', 'answer': 'design a new product as an innovator or imitate an established product?'}
+{'question': 'What is the importance of a culture of entrepreneurship?', 'answer': 'Given the fact that entrepreneurship are potentials to support economic growth, governments should help develop a culture of entrepreneurial thinking?'}
+{'question': 'What is the main difference between a successful entrepreneur and a non-profit entrepreneur?', 'answer': 'Their mind is constantly on their work, whether they are in or out of the workplace?'}
+{'question': 'What are the main characteristics of small scale industries?', 'answer': 'Small scale industries have a large contribution in the growth of an economy?'}
+{'question': 'What is the most important aspect of setting up a small business?', 'answer': 'You have to decide prices for your products or services, keeping in mind the profit margin?'}
+{'question': 'What is the best location for a small business?', 'answer': 'Location for the small unit must be chosen keeping in mind:?'}
+{'question': 'What is the most important part of setting up a small business?', 'answer': '?'}
+{'question': 'What is the best place to start a small business?', 'answer': 'Nearness to the market?'}
+{'question': 'What is the most important step of setting up a small business?', 'answer': 'Make sure to follow the practices for quality testing and keep on improving?'}
+{'question': 'What is the most important step of setting up a small business?', 'answer': 'No business is complete without the selling of the product or services, and ensuring the flow of revenues?'}
+{'question': 'What is the main requirement of a small business?', 'answer': 'Arrangement of finance required for Fixed Capital, setting up infrastructures like land, building, machineries as well as the Working Capital, operating costs and expenses, raw materials?'}
+{'question': 'What is the type of ownership?', 'answer': 'Form of Ownership?'}
+{'question': 'What is the most important step of setting up a small business?', 'answer': 'Buying the right required raw materials and hiring the required help?'}
+{'question': 'What is the best way to set up a small business?', 'answer': 'Availability of labor?'}
+{'question': 'What is the most important part of setting up a small business?', 'answer': 'Approvals?'}
+{'question': 'What is the best way to set up a small business?', 'answer': 'Transportation?'}
+{'question': 'What is the most important aspect of setting up a small business?', 'answer': 'Power and energy supplies, disposal facility?'}
+{'question': 'What is the most important aspect of a small business?', 'answer': 'Production Management?'}
+{'question': 'What is the best way to set up a small business?', 'answer': 'Should be economically viable and feasible?'}
+{'question': 'What is the most important aspect of setting up a small business?', 'answer': 'Location?'}
+{'question': 'What is the most important part of a small business?', 'answer': 'Includes allocating space for different operations and choosing production method?'}
+{'question': 'What is the most important step in setting up a small business?', 'answer': 'Last but the most important step?'}
+{'question': 'What is the type of ownership?', 'answer': 'Needs to decide whether to have a corporation, a sole proprietorship, partnership?'}
+{'question': 'What is the most important part of setting up a small business?', 'answer': 'If one doesn’t have enough funds, long term loans from private parties as well loans from the financial institutions?'}
+{'question': 'What are the main requirements of a small business?', 'answer': 'Approval from the government, taxation, following necessary rules and regulations, licensing, registration and other government approvals and paperwork?'}
+{'question': 'What is the most important aspect of setting up a small business?', 'answer': 'Political Patronage?'}
+{'question': 'What is the Arrangement of Finance for a Small Business?', 'answer': 'Finance?'}
+{'question': 'What is the most important step of a small business?', 'answer': 'Marketing?'}
+{'question': 'What is the most important aspect of setting up a small scale venture?', 'answer': 'Planning in advance is a useful aspect of setting up a small scale venture.'}
+{'question': 'What is the best place to start a small business?', 'answer': 'Proximity to the source of raw materials?'}

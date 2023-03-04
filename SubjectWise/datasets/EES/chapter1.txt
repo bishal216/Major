@@ -1,0 +1,93 @@
+Chapter 1
+Technology and Development
+	1.1	Introduction to Technology
+The word technology made from Greek words techne which means ”craft” and -logy means ” scientific study of”. So technology means the ” scientific study of craft”. Craft in this case, means any method or invention that allow humans to control or adapt to their environment.
+-Scientific application of knowledge
+-Systematic application of organized knowledge and tangibles(tools and material)
+   The purposeful application of information in the design, production, and utilization of goods and services, and in the organization of human activities. Technology is generally divided into five categories
+1. Tangible: blueprints, models, operating manuals, prototypes.
+2. Intangible: consultancy, problem-solving, and training methods.
+3. High: entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ever powerful forces.
+4. Intermediate: semiautomated partially intelligent technology that manipulates refined matter and medium level forces.
+5. Low: labor-intensive technology that manipulates only coarse or gross matter and weaker forces
+   Technology is the practical use of human knowledge to extend human abilities and to satisfy human needs and wants. It involves turning natural items into useful products. The areas of science, technology, and engineering are related but different.
+Scientists try to explain how things happen.
+Engineers figure out how to make things.
+Technologists make things by operating machines and assembling parts.
+   Technology advances by adapting, so each new product is an improvement over an existing one. New inventions are almost always based on earlier accomplishments.
+   Technology developed because people had ideas they turned into useful devices. Resources of technology include people, information, tools and machines, capital, time,materials, and energy. Companies buy resources needed to create new technology. They hire people with the knowledge and skill to make products.
+Three aspects of technology
+1. Operations Technology: What task are being performed
+2. Material technology: What material and supplies are used 3. Knowledge technology: What do people have to know
+5
+
+1.2	Appropriate Technology
+Appropriate technology is an ideological movement (and its manifestations) originally articulated as intermediate technology by the economist Dr. Ernst Friedrich ”Fritz” Schumacher in his influential work, Small is Beautiful. Though the nuances of appropriate technology vary between fields and applications, it is generally recognized as encompassing technological choice and application that is small-scale, decentralized, labor-intensive, energy-efficient, environmentally sound, and locally controlled. Both Schumacher and many modern-day proponents of appropriate technology also emphasize the technology as people-centered.
+   Appropriate technology is most commonly discussed in its relationship to economic development and as an alternative to transfers of capital-intensive technology from industrialized nations to developing countries. However, appropriate technology movements can be found in both developing and developed countries. In developed countries, the appropriate technology movement grew out of the energy crisis of the 1970s and focuses mainly on environmental and sustainability issues.
+   Appropriate technology has been used to address issues in a wide range of fields. Well-known examples of appropriate technology applications include: bike- and hand-powered water pumps (and other self-powered equipment), the universal nut sheller, self-contained solar-powered light bulbs and street lights, and passive solar building designs. Today appropriate technology is often developed using open source principles, which have led to open-source appropriate technology (OSAT) and thus many of the plans of the technology can be freely found on the Internet. OSAT has been proposed as a new model of enabling innovation for sustainable development. Dr. Ernst Friedrich ”Fritz” Schumacher is credited as the founder of the appropriate technology movement. Schumacher first articulated the idea of ”intermediate technology,” now known as appropriate technology, in a 1962 report to the Indian Planning Commission in which he described India as long in labor and short in capital, calling for an ”intermediate industrial technology” that harnessed India’s labor surplus. Schumacher had been developing the idea of intermediate technology for several years prior to the Planning Commission report. In 1955, following a stint as an economic advisor to the government of Burma, he published the short paper ”Economics in a Buddhist Country,” his first known critique of the effects of Western economics on developing countries. In addition to Buddhism, Schumacher also credited his ideas to Gandhi.
+   Initially, Schumacher’s ideas were rejected by both the Indian government and leading development economists. Spurred to action over concern the idea of intermediate technology would languish, Schumacher, George McRobie, Mansur Hoda and Julia Porter brought together a group of approximately 20 people to form the Intermediate Technology Development Group (ITDG) in May 1965. Schumacher described the concept of appropriate technology to a mass audience in his influential work, Small is Beautiful: Economics as if People Mattered.
+   According to Jequier and Gerard (1993), ”Appropriate Technology (AT)” is now recognized as the generic term for a wide range of technologies characterized by following features:
+1. low investment cost per work place
+2. low capital investment per unit of output
+3. organizational simplicity
+4. high adaptability to a particular social cultural environment
+5. sparing use of natural resources
+6. low cost of final product or high potential for employment.
+According to Darrow and Rick (1978), appropriate technologies:
+1. are low in capital costs
+2. use local materials whenever possible
+3. create jobs, employing local skills and labor
+4. are small enough in scale to be affordable by a small group of farmers
+5. can be understood, controlled and maintained by villagers wherever possible, without high level of Western style education
+	1.3. TECHNOLOGY TRANSFER	7
+6. can be produced out of a small metal working shop, if not in a village itself
+7. suppose that people can and will work together to collectively bring improvements to their communities, recognizing that in most of the world important decisions are made by groups rather than by individuals
+8. involve decentralized renewable energy sources, such as wind power, solar energy, water power, mechanic gas, animal power and pedal power (such as in that highly efficient machine, the bicycle)
+9. make technology understandable to the people who are using it and thus suggest ideas that could be used in further innovations
+10. are flexible so that they can continue to be used or adapted to fit changing circumstances
+11. do not involve patents, royalties, consultant fees, import duties, shopping changes; practical plans can be obtained free of cost and no further payment is involved.
+Characteristics Importance of Appropriate Technology
+Appropriate technology was meant to address four problems: extreme poverty, starvation, unemployment and urban migration. Some characteristics of appropriate technologies are listed below.
+1. Suited to the societies being considered
+2. Meets the actual need of people
+3. Affordable to those people being considered
+4. Optimization of local Resources
+5. Manufactured and Operated by local labor and expertise
+6. Environmentally friendly
+7. Using Renewable Energy Sources
+	1.3	Technology Transfer
+Technology transfer, also called transfer of technology (TOT), is the process of transferring skills, knowledge, technologies, methods of manufacturing, samples of manufacturing and facilities among governments or universities and other institutions to ensure that scientific and technological developments are accessible to a wider range of users who can then further develop and exploit the technology into new products, processes, applications, materials or services.
+
+Figure 1.3.1: Process of technology transfer
+   It is closely related to (and may arguably be considered a subset of) knowledge transfer. Horizontal transfer is the movement of technologies from one area to another. At present transfer of technology (TOT) is primarily horizontal. Vertical transfer occurs when technologies are moved from applied research centers to research and development departments.
+   Many companies, universities and governmental organizations now have an Office of Technology Transfer(TTO) dedicated to identifying research which has potential commercial interest and strategies for how to exploit it. The research result may be of scientific and commercial interest.
+   As a result of the potential complexity of the technology transfer process, technology transfer organizations are often multidisciplinary, including economists, engineers, lawyers, marketers and scientists. The dynamics of the technology transfer process has attracted attention in its own right, and there are several dedicated societies and journals.Technology transfer requires a proactive approach that combines engaging researchers, promoting the technology, and encouraging potential industrial partners to use the technology.
+Importance of Technology Transfer
+Technology transfer helps develop early stage intellectual property into tools for direct use by the research community, or into bases for new platforms, products, or services to be made into products for public use. Successful collaborations are formed between researchers across different universities or industries in order to advance the knowledge in a particular field or to further develop a technology. These collaborations may result in licensing or sponsored research opportunities that benefit both partners. In addition, technology transfer ensures that the interests and rights of the university in the intellectual property are protected. The university is able to retain the intellectual property rights of the technology and issue a license for the conditional use of the technology.
+   Successful transfer and development of the technology helps promote the research institution and its commercial partners. The university obtains recognition and increases its reputation for their research and innovation potential. Industry partners can also reduce the costs incurred during their research and development stage by licensing technology from a university. Another benefit for the university involves using the licensing revenue to support further research and education at the institution. Universities protect their investments in research by patenting new technologies, which gives them an opportunity to reach the stream of commerce. The university’s investments in the technology help stimulate local economic development. The ultimate beneficiary of technology transfer is the public, who benefits from both the products that reach the market and the jobs resulting from the development, manufacturing, and sale of products.
+1.4	Impact of Technology on Society
+Technology and society or technology and culture refers to cyclical co-dependence, co-influence, coproduction of technology and society upon the other. Technology has become a huge part of every day societies life. When societies knows more about the development in a technology, they become able to advantage from it. When an innovation achieves a certain point after it is been presented and promoted, this technology becomes part of the society. Digital technology has entered each process and activity made by the social system. The impact of technologies on society can broadly studies by dividing aspects of societies as
+1. Education
+Modern technologies have made instructive information for classrooms and home assignments easier and simpler. It provides children, who have difficulties in learning the traditional way, with educational games that would help them in the process of learning. Alternatively from attending classes, online courses are offered to college students in advantage. The progress of the innovation of technology is continuing to improve the education sector for coming generations. Students today are called ’screenagers’, ’digital natives’ or ’digital kids’ because they were born in a complicated digital world based on technology.
+Teachers are using digital technology as an essential tool to help in guiding lessons and student’s communication. In fact, computers have been in the education frame globally for a long period of time. Students are associating with others more globally and learning more things in varied ways than at any time in the past.
+2. Economic System
+In the modern world, superior technologies, resources, geography, and history give rise to robust economies; and in a well-functioning, robust economy, economic excess naturally flows into greater use of technology. Moreover, because technology is such an inseparable part of human society, especially in its economic aspects, funding sources for (new) technological endeavors are virtually illimitable. However, while in the beginning, technological investment involved little more than the time, efforts, and skills of one or a few men, today, such investment may involve the collective labor and skills of many millions.
+	1.4. IMPACT OF TECHNOLOGY ON SOCIETY	9
+3. Politics
+It is clear that gaining political publicity through the use of technology has become easier, especially since technological devices are so accessible and widespread at the same time. The article analyzed is good in arranging technological tools into separate groups that work as effective means of communication between a political figure and the target audience. However, to every coin there is a flip side. With the use of Internet, any political figure can become recognizable within just a few minutes. In only a few hours public opinion on a particular political figure is already formed within one of the social groups of voters. So, not just the good, but also a bad reputation can be formed in a blink of an eye using modern technology. It often happens that the bad ”gossip” actually spreads much faster. So, with the huge impact that technology has on society and public opinion in particular, it is crucial to be cautious in the use of information about any political figure, or you risk making a positive advertisement into a negative advertisement with just one click.
+4. Religion
+Religions can use electronic technologies to propagate their beliefs. It seems that religious organisations still obtain favoured treatment on early morning TV, more so than other groups in society. However, those who believe voluntary euthanasia is a good option are forbidden to use electronic means to distribute information.
+Religions can propagate their views more widely using global technologies such as over the internet. Others can propagate alternative views, but mainstream religions are well funded and run by zealots. There is a danger that the indoctrination of children, discrimination and the imposition of religious values on others could worsen before it improves.
+There are many websites that propagate untruths about science and religion, seek money for ’truths’ about imaginary beings, advocate discrimination or that gods can kill or do inappropriate things. Freedom of speech is important, but well-funded religions can propagate untruths and discriminatory values faster than less well-funded organisations.
+In summary impact on religion can be viewed as
+(a) Its more accessible
+(b) Distance doesnt matter as much
+(c) Reputations are shifting
+(d) Stats become important
+(e) Laity gets involved
+(f) Theres increased focus on strategy
+5. Environment
+Technology provides an understanding, and an appreciation for the world around us. Most modern technological processes produce unwanted by products in addition to the desired products, which is known as industrial waste and pollution. While most material waste is re-used in the industrial process, many forms are released into the environment, with negative environmental side effects, such as pollution and lack of sustainability. Different social and political systems establish different balances between the value they place on additional goods versus the disvalues of waste products and pollution. Some technologies are designed specifically with the environment in mind, but most are designed first for economic or ergonomic effects.
+Historically, the value of a clean environment and more efficient productive processes has been the result of an increase in the wealth of society, because once people are able to provide for their basic needs, they are able to focus on less-tangible goods such as clean air and water.
+The effects of technology on the environment are both obvious and subtle. The more obvious effects include the depletion of non-renewable natural resources (such as petroleum, coal, ores), and the added pollution of air, water, and land. The more subtle effects include debates over long-term effect(e.g., global warming, deforestation, natural habitat destruction, coastal wetland loss.)
+Each wave of technology creates a set of waste previously unknown by humans: toxic waste, radioactive waste, electronic waste.

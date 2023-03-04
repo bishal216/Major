@@ -1,0 +1,333 @@
+Chapter 1
+1.1 Organization
+Organization is a social entity in which two or more people work interdependently through deliberately structured patterns of interactions to accomplish a set of goals.
+Organizations are:
+• As old as human race
+• Require at least two people interacting with each other
+• Cooperative efforts
+• Common objective
+• Coordination of man, machine and materials
+• Goal oriented system
+• Psychosocial system - working in a group
+• Technological system – using the knowledge and technique
+• An integration of structured activities, people are working together
+1.1.1	System approach applied to organization
+Organization and other entities interdependent parts that work together to continually monitor and transact with external environment.
+The open systems perspective emphasizes that organizations survive by adopting to changes their environments.
+
+1.1.2 Necessity of Organization  
+ Why do we need Organization?
+• Organization is a social unit,
+• Society dominated not by individual but by organization,
+• Organization providing goods and services
+1.1.3 Principles of Organization
+For an organization to run smoothly, following principles can be used
+• Division of Work o Refers to subdivision of work into separated jobs assigned to different people
+• Authority and Responsibility o Authority  is the right to decide, to direct others, to take action, to perform certain duties in achieving the organizational goals
+o Responsibility is an obligations to perform work activities
+• Span of Control o Total number of workers per manager o 20 workers per supervisor o 6 supervisors per manager
+• Unity of Command/ Line Organization 
+• Scalar Chain/Line and Staff Organization
+1.1.4 Formal and Informal Organization
+? Informal structure created within an organization
+? Based on the factors like same language, culture, languages, personal attitudes, same tastes or any other factors
+? Informal organization exerts a strong influence on employee behaviors, if management can understand its nature, it can contribute to organization’s productivity
+? Are formed informally within the organization, by socializing and interpersonal relationships within the individuals over the breaks, or other social functions
+? Not necessarily formed to accomplish the organization goals, rather formed to fulfill the social activities
+? An informal leader is chosen within the informal organization who can have greater power than the formal leader over getting things done in the organization
+1.2 Management
+• Concerned with the accomplishment of personal objective for organizational goals through the efforts of other people
+• A social process involving coordination of human and materials resources through the function of planning, organizing, directing, and controlling activities of an organization
+• Technique of leadership to make plan and organize
+• Fulfill the objective effectively and efficiently
+• Management’s existence as old as the human origin o General sun Tzu, the art of war, 6th century BC o Chanakya’s Arthashastra, 300 BC 
+1.2.1 Functions of Management
+? Planning
+? Thinking before doing
+? Organizing
+? Developing a framework that relates all personnel, work assignments and resources
+? Directing
+? Requires leadership
+? Giving guidelines to the personnel related to the definite objectives
+? Supervising
+? Coordinating
+? Required for the efficient and effective run of the organization
+? Managers are responsible for coordination and communication between different individuals working under the organization, to achieve the same set of goals
+? Controlling
+? Watch the activities of the organization
+? Compare the results achieved with the goals set
+1.2.2 Level of Management
+? Depends upon the size, complexity and the nature of organization
+
+? Top level Management
+? Higher Authority
+? Sets the goals, objectives, policies, and budgeting of the organization 
+? Main functions involve the decision making
+? Sets the rules and regulations, issues order to the lower levels, guidelines and instructions
+? Middle Level Management
+? Head of the functional departments
+? Mediator between the top level management and the lower level
+? Main function is to implement the policies set by the top level
+? Lower Level Management
+? Responsible for the day to day activities
+? Supervision of the workers and labors
+? More involved in working to achieve the goals set by the organization
+1.2.3 Managerial Skills
+? Interpersonal skills:Interaction between the people inside and outside of organization
+? Informational skills:Gather information related to the goals and operation of the organization
+? Decisional skills:Use the information gathered to make decisions for the betterment of the organization
+1.2.4 Importance of management
+
+1.2.5 Models of Management
+
+o Hierarchical Management model
+? Authority and Responsibility
+? Managers receive authority from the superiors to command resources and actions to the subordinates
+? Response to superiors request
+o Task Oriented Management model
+? Managers have five major tasks, Planning, Organizing, Directing, Coordinating and Controlling
+? Focuses in the actual managerial activities
+? Management has a set of well defined tools that can be used in sequence or in parallel
+o Allocational Management model
+
+? Mangers are responsible for handling organizations resources and control
+? Money, manpower, physical objects
+? Resource manager obtains, allocates, shares, monitors and return resources
+o Transactional Management model
+
+? Sees management as an integral part of an organization
+? This model stresses the part management plays in adding value to the resources that organization uses to produce its product
+o Team Effort Management model
+
+? Mangers and other subordinates work as a team
+? Concentrates on cooperation, leadership, coordination
+? More effective  when work in a team rather than work individually, adds value to the production
+o Knowledge Oriented Management model
+? Managers learn and gain knowledge through experience
+? Knowledge is transferred to the subordinates through teaching, guiding, training
+? Necessary to adapt changes in the external environment and use the knowledge gained to train the others for the betterment of production
+o Goal Concentrated Management model
+? Focuses on the goals set by the organization
+? Management plays an important role in working towards achieving these goals
+? Management support consists of tools that keep the organization on an established path towards the goals
+? Organization may choose to use all these seven models or few according to their needs
+1.3 Theory of Management
+1.3.1 Scientific Management Theory
+The scientific management approach advocated that rationally on the part of management improves economic efficiency of an organization. Fredric W. Taylor published shop management in 1903 and principle of scientific management in 1972.
+He emphasized the value of hard work, economic rationality, individualism, and the view the each man had a role to play in society. He focused primarily upon increasing work efficiency. In this earlier writings he referred to his ideas as “Task Management”.
+The primary emphasis of scientific management was on planning standardizing and improving human effort at the operative level in order to maximize output with minimum input.
+Taylor’s ideas come from his actual work experienced at the Midvale steel company, Bethlehem steel company and as a consultant to many industrial firms.
+Frederic W. Taylor recognized as the father of management.
+The scientific method provides a logic framework for the analysis of problems, and selecting the best alternative solution.
+Taylor’s philosophy can be summarized in these four principles:
+• The development and use of the scientific method in the practice of management
+(finding the “one best way” to perform work).
+• Using the scientific approaches to select employees who are best suited to perform a given job.
+• Providing the employee with scientific education, training and development.
+• Encouraging friendly interaction and cooperation of duties between managers and workers.
+Scientific management theory improved work efficiency 1.	An improved method to work (Motion ‘study).
+2. A prescribed amount of rest on the job (Fatigue study and rest periods).
+3. A specific standard of output (Time study).
+4. Payment by the unit of output (Incentive wages).
+Using the scientific management approach pig-iron experiment at the Bethlehem Steel Company, the average per worker per day output rose from 12.7t to 48.8t under the incentive system, the daily pay rose from $ 1.15 to $ 1.85.
+1.3.2 Behavioral Management Approach
+In the 1920s – 1930s, some observes of the business management become concerned with they felt was incompleteness in the scientific management approach. Elton Mayo and his associates began to point out that the scientific management approaches has ignore human factors.
+Elton Mayo and his associates began with the research at the Hawthorn plant of the Western Electric Company over a five year period (1927 to 1932) and covered three phases:
+• They relay assembly test room experiment
+• The interviewing program, and
+• The bank wiring observation room.
+Mayo and his association’s philosophy can be summarized as :
+1. The business organization is a social system as a technical economic system.
+2. The individual is not only motivated by economic incentive but by social and psychological factors because his behavior is affected by feelings, sentiments and attitudes. 
+3. Group has a dominant role to determining the attitudes and performance of individual workers
+4. The human relations emphasized democratic rather than authoritarian    leadership pattern.
+5. Worker satisfaction is based on productivity and increased the effectiveness.
+6. It is important to develop effective communication between various levels.
+7. Management required effective social skill as well as technical skills.
+8. Workers motivated to fulfill the social psychological needs.
+The result of these the Hawthorn Experiments is that when employees are given special attention by management, output is likely to increase.
+1.3.3 Administrative Management Theory
+
+• Henry Fayol (1842-1925), French Mining engineer and Management Consultant.
+• First person to analyze the functions of Management
+• Made three major contribution to the theory of management o A clear distinction between technical and managerial skills o Identified functions constituting the management process o Developed principles of management
+• Fayol described management as a scientific process built up of five elements o Planning o Organizing o Directing o Coordinating o Controlling
+• Fayol’s Principle o Developed a set of 14 principles o Division of Labor
+     ? Work should be divided into individuals and groups as per their specialization. Work Specialization o Authority and Responsibility
+     ? Authority  is the right to decide, to direct others, to take action, to perform certain duties in achieving the organizational goals
+     ? Responsibility is an obligations to perform work activities o Discipline
+     ? A successful organization requires the common effort of the workers
+     ? Penalties should be applied when necessary o Line of Authority
+     ? A clear chain or authorities from top to bottom level of management ? Scalar Chain
+     ? Authority should be defined at each level of Management and it should flow from top to bottom o Centralization
+     ? Centralization is the degree to which authority rests at the top level
+     ? Fayol defined Centralization as lowering the importance of subordinates role, where as decentralization is increasing the importance
+     ? Whether determining centralization or decentralization depends upon the specific organization o Unity of Direction
+     ? The entire organization should be moving towards a common objective in a common direction
+o Unity of command
+     ? Employees should have only one boss o Order
+     ? Each employee is put where they have the most value o Initiative 
+     ? Management should encourage employee initiatives, self direction o Equity
+     ? Treat all employees fairly in justice and respect
+o Remuneration
+? Fair rate should be determined for paying worker’s effort keeping in mind many variables like, cost of living, qualification, business conditions and the amount of responsibility
+o Stability of Tenure
+? Long term employment is important for success o General interest over individual interest
+? Importance should be given to the success of the organization rather than individual success
+o Espirit de Corps
+? “Union is Strength”- refers to harmony and mutual understanding among the members of an organization
+1.3.4 Modern management Theory
+System Approach 
+The system approach to management concentrates on the effective and efficient use of resources in order to produce desirable products or service. The system arrangement (physical, human and capital) of interrelated parts designed to achieve the objectives.
+1.4 Forms of Ownership
+1.4.1 Single ownership organization 
+• Such type of organization is owned by single person and is run from his own resources.
+• This individual controls the organization according to his own personal interest and work had to achieve his goals.
+• Individual gets all profit and bears all risks alone.
+• It is established only in profitable sectors under the legal jurisdiction.
+• Production of goods and services is on the basis of consumer’s interest.
+The Salient Features of Single Ownership
+The salient features of single ownership organization are pointed out and explained as follows
+1. One man Ownership
+2. Personal Control
+3. Undivided Risk
+4. Unlimited liability
+5. Free from Government Regulation
+Advantages of Single Ownership
+1. Easy to Form and Dissolve
+2. Easy to Manage
+3. Direct Motivation Absolute Control
+4. Business Secrecy
+5. Promptness in Decision Making
+6. Flexibility in operation
+7. Personal relations with customers and Employees
+8. Limitation and Minimum government control
+Disadvantage of Single Ownership
+1. Limited Financial Resources
+2. Limited Managerial Ability and Skill
+3. Uncertain Duration
+4. Unlimited Profit Oriented
+5. Unlimited Liability
+1.4.2 Partnership Organization
+Organization is established mutual confidence, cooperation, and understanding of the members.
+Partnership is the relationship between persons who have agreed to share the profits and loss of business
+Characteristics of Partnership
+1. Two or more persons
+2. Contractual relationship
+3. Lawful business
+4. Sharing of profit and loss according to share
+5. Agency relationship
+6. Unlimited liabilities
+Merit of Partnership
+1. Easy to Formulation
+2. Large
+3. Combined Abilities and
+4. Flexibility
+5. Quick Decision
+6. Survival Capacity
+Demerits of Partnership
+1. Instability of Business
+2. Limited Resources
+3. Lack of Public Confidence
+1.4.3 Joint Stock Company
+A joint stock company is an association of individual for the purpose of carrying on business.
+The capital is collected from by selling the share to different person.
+Who purchase the share is called share holder.
+The profit is distributing to the share holders with proportion of their shares.
+Thus company is managed by board of director, who are elected by the share holders.
+The Features of Joint Stock Company
+1. Association of persons.
+2. Artificial legal persons.
+3. Distinct legal entity
+4. Limited liability
+5. Transferability of shares.
+6. Perceptual existence.
+7. Capital divided in to shares.
+8. Common seal.
+9. Separation of ownership and management
+Merits of Joint Stock Company
+1. Large Financial Resources
+2. Limited Liability
+3. Continuity
+4. Transferability of Shares
+5. Public Confidence
+6. Professional Management
+Demerits of Joint Stock Company
+1. Difficult in Formulation
+2. Lack of Personal Interest
+3. Undue Delay in Decision
+1.4.4 Co-operative societies
+a. An association of persons who voluntarily cooperate for their mutual, social and economic benefits
+b. Cooperatives are not about making big profits for shareholders, rather about creating value for customers
+c. Objective of the coop is mainly focused on the members of the community 
+d. Normally formed so individuals and small businesses can benefit from being a part of  a larger group.
+e. Profit is shared as per the capital invested or amount of effort put in by its members
+f. Most common in farmers, small businesses, credit union
+1.4.5 Public Corporation
+Public corporation is a body created by a low of the Government as a single legal personality.
+It is a social welfare and non-profitable business organization.
+Governments participate in the business activities is call public corporation.
+It is financially independent with comparison of the government department.
+The Features of the public corporation
+1. A public corporation comes into existence as a result of an Act.
+2. It is a Legal entity
+3. It is wholly owned by the state
+4. A public corporation is usually independently financed.
+5. Corporations are free from the control of the legislature.
+6. Top level managers appointed by the government as a political appointment. 
+1.5 Organization Structure
+    Organization structure refers to the division of labour as well as the patterns of coordination, Communication, work flow and formal power that direct organizational activities.
+• Division of Labour: refers to subdivision of work into separate job assigned to different people.
+• Coordinating work activities:   everyone work harmoniously.
+1.5.1 Line organization 
+     Line organization authority follows the chain of command. It has direct vertical relationship between different level of management. 
+1.5.2 Line and staff organization 
+
+1.5.3 Functional  organization 
+1.5.4 committee organization
+1.6 Purchasing marketing management
+1.6.1  Purchasing
+Buying of materials of the right quality, in the right quantity, at the right place, at right time from the right sources with delivery at right place.
+• Objective of purchasing: buy the materials and ensure continuity of supply materials which is required or organization running.
+1.6.2 Function of Purchasing Department
+o Identifying the actual purchasing materials from the store and user department with full specification. o Inquiry  to supplier o Receiving quotation
+o Prepare the comparative statement and evaluate it.
+o Approving the supplier
+o Placing order and sending the copies to user department, store and account o Follow-up the order
+o Receiving the materials and inform to store o Inspection the materials and received the inspection report o Requesting the account department to make the payment
+1.5.3 Method of Purchasing
+What, how much, what rate, when and where to purchase.
+• Purchasing procedure: o Direct purchase procedure o Quotation procedure o Tender procedure
+1.6.4 Marketing
+Marketing is the performance of business activities that direct the flow of goods and services from producer to customer or user.
+• Marketing Concept: Needs, wants, demands, products.
+o Customer oriented o Profit oriented o Satisfaction of Customers
+1.6.5	Marketing Function 
+• Marketing Function: is responsible for planning, organizing, directing, controlling activities of market train.
+o Buying: raw materials are purchased. o Selling: finding the customers and transferring them the goods for value
+• Market Research : gaining information about potential customers.
+o Analysis of current activities: give a picture, who is buying what and where.
+o Market intelligence: working what is happening in the market and planning for competition.
+o Market analysis: about pricing policy and new product. o Product evaluation: product satisfaction and customer demand.
+1.6.6 Advertising
+o Publication: Journal, Magazine, Books o Television,Radio,Internet 
+
+Behavioral Management Theory
+Modern Management Theory
+Types of Organization
+• Based upon the form of ownership
+• Single Ownership 
+• Partnership
+• Joint stock Company • Types of cooperatives o
+• Public Corporations.
+2.3.1 Responsibility and Authority
+• Responsibility: is an obligation to perform work activities.
+• Authority : is the right to decide, to direct others to take action, to perform certain duties.
+2.3.2 Lines of Coordination and Facilitation
+Coordination is an important function of management to harmonize all the activities of an organization in order to facilitate its working and success.
+Coordination is the orderly arrangement of group effort, to provide unity of action in the pursuit of a common purpose.
+2.3.3 Types of organization
+Various types of organization structure are:
+
+o Market analysis : about pricing policy and new product.
+o Product evaluation: product satisfaction and customer demand.

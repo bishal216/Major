@@ -1,0 +1,143 @@
+CHAPTER 5
+MANAGEMENT INFORMATION SYSTEM
+Introduction
+• MIS is categorized as the use of computing and communications technology
+• All organization have some sort of system, either simple or sophisticated for getting the information they need to make decisions
+• An MIS can collect, analyze, organize information from both internal and external sources so that managers can use it to make decisions
+• A good MIS gives managers information on past and present activities and make some projections about future activities
+• Helps managers perform four functions of the Management- Planning, Organizing, Directing and Controlling
+• MIS consists of three separate concepts, Management, Information and Systems
+• Management
+o Management consists of the activities carried out by the managers o Carries out basic functions like Planning, Organizing, Directing and Controlling o Helps in accomplishing organizational goals
+• Information o Central concept of an MIS
+o Consists of classified and interpreted data that are being used for decision making
+o Information is output obtained by processing data as input
+• Systems
+o A set of element forming an activity or seeking a common goal by operating data in a timely reference to generate information
+o MIS is a group of people, a set of manuals, data processing equipments which select, store, process and retrieve data to reduce the uncertainty in decision making
+Evolution of MIS
+• Information system can be recorded as old as human history, moved fast towards the growth track in last few centuries
+• As early as 1938, before the computer era, Chester Bernard indicated in his book The Functions of the Executives, that the rapidly increasing proliferation of data would require more emphasis on the quality of decision making
+• With revolution in industrial world, business started growing and with that the complexity increased as well
+• Accounting system, development of computing technology, organization size, have lead to the fast growth in information system 
+• MIS is the system of generating useful information by using data
+• The evolution of MIS can be attributed to following factors o Growth of Management theory and techniques
+o Change in the production and distribution method and changes in Organizational structure o Development of Management science
+o Introduction of computer into business data processing and the developments  in information technologies
+Data and Information
+• Data refers to unanalyzed facts about an organization operations
+• Data becomes information only when used for some sort of analysis
+• Information is anything that is relevant and useful for practicing managers
+• An effective MIS helps, managers convert and process data into relevant information that helps them in decision making
+Need for MIS/ Importance of MIS
+• MIS is important in an Organization because in most cases, managers directly do not engage in the primary production phases or secondary support activities
+• They do not actually assemble; take order or deals with customers and their needs. Instead they deal with the information shadow or sometimes called as data shadow
+Page 2 of 7
+ioenotes.edu.np
+• Managers rely on information in their decision making, information that has been processed from data provided to them
+• Production managers need information related with production costs, labor costs, backlog or there is a need of expansion of plant due to the increase in demands
+• Marketing managers need information on sales trends, market analysis, new product development
+• Personnel Managers need information on workforce turnover, skills and knowledge level, wage levels, incentives, or if there is a need in increasing labor force 
+Functions of MIS
+• Data Processing o The collection, transmission, storage, processing and output of data
+• Function of Prediction o Helps predict the future situation by applying modern mathematics, statistics
+• Function of Plan o MIS arranges reasonably the plans of each functional department o The preparation of the plan in making decisions relative to those steps that must be taken to meet the objective and goals of the organization
+• Function of Control o Control function contains two types of decisions, deciding whether a problem requiring an action exists and deciding what that action should be
+• Function of Assistance o Provide way to assist managers in the decision making process o MIS is a technique that provides managers with timely, accurate and useful information to assist in the decision making
+Organizational Structure and MIS / Hierarchy of Information needs
+• Managers at different level in the organization needs different kinds if information, and they usually need it at different time intervals
+• Operational Management (Lower Level Management)
+o Deals with the actual production of services and goods o They use MIS to determine what raw materials they need, to develop work schedules, and to make sure the materials and people are at right place at right time
+o Because these activities are very detailed, operational management may need information on an hourly or daily basis
+o The information most useful at this level centers on whether goods and services have been produced on schedule and whether it reaches the expectations of customers
+• Tactical Management (Middle Level Management) o Middle managers put into operation the overall plan and strategies that top level management has developed
+o They use MIS to setup control procedures and to allocate resources towards organization objective
+o Need information on weekly or monthly basis
+o Most useful to indicate whether operational systems put into places can reach top manager’s overall objectives
+o At tactical level of management, information concerns schedules, revenue measurements, profits, costs and other economical factors
+• Strategic Management (Upper/Top Level Management) o Top level managers uses the MIS to set overall corporate policies and strategy to ensure organizational growth and survival
+o Information generally needed on a quarterly or yearly basis o Most useful information at strategic level deals with confirmation whether the goals and objectives of the organization are accomplished, the organization is profitable
+o Information useful for the executives often come sources outside the organization such as suppliers, competitors, information services and media, hired consultants and others
+o Strategic management focuses on the future and work is more creative that other level of managements and are concerned with plans. Policies, budgets and objective of organization
+Strategic Management
+Page 4 of 7
+Policies           Plans	      Budgets	     Objectives ioenotes.edu.np
+MeasurementsRevenues   Tactical ManagementProfits         CostsSchedules
+Operational Management
+Computer and MIS
+• MIS today is a computer based system
+• Computer provide accurate timely and relevant useful information to managers
+• Computer converts raw data into meaningful information as required format quickly
+• Before the advent of computers, MIS suffered from several problems:
+o Information arrived too late to be of much value for decision making
+o Information was not as complete as needed o Information cost more than it’s worth o Information lacked a clear focus
+o Information was not relevant to particular decision
+• Computer is a major factor in helping managers to obtain meaningful information or reliable data for appropriate decision. To understand these, there are two systems
+• Quick response systems emphasize the timeliness of the information or reliable data for appropriate decision o Online Processing: Manager interact directly with computer or central processing unit
+o Real time Processing: Information system work simultaneously with an ongoing organizational activities o Time Sharing: Many information handled at short time
+
+• Broader system emphasizes the integration of company’s data and it can be used for complex problem solving or coordinate different
+section/department like marketing, manufacturing, finance, personnel etc
+Database information system
+• Database
+o Database is a collection of data and use it for different purpose o Collection of data organized to serve many applications effectively at the same time by storing and managing data so that they appear to be in one location
+o Personal database contains data collection processed and managed by an individual 
+o Corporate database is a large complex structure and important for managers who want to use this data
+• Database Management System  is special software to create and maintain a database and enable individual business application to extract the data they need without having to create separate files or data definition in their computer programs
+• Database is a set of following components o Description of data(data dictionary)
+o Set of relation and link parts of database (database architecture) o Set of objective or events that can be described by data
+o Set of rules determining how objects described by database can be manipulated
+Networking Information System
+• Different components of the telecommunications network can be communicate with each other 
+• Data are transmitted throughout a telecommunication network
+• In order to play in the interconnect world, companies must integrate and develop the IS architecture
+• Integrated data store
+Classification of Information Systems
+Information system for Planning Process
+• Planning is concern with the future consequences of actions that are undertaken today
+• Planning is o Where are we? o Where do we want to go? o How do we get there? o When will it be done?
+o Who will do it?
+o How much will it cost?
+• Planning is long term perspective
+• Forecasting future programme
+• Fully utilizing resources
+• Information system support to planner for long range influencing plan
+• MIS should help managers to accurately forecast demand for timely production of their product
+Information system for Decision Process
+• MIS is a technique that provide managers with useful information to assist in the decision making process
+• Decision making is choosing best alternative
+• More information help to choose best alternate
+• Strategic Level: decision are characterized o Future oriented o Long range plan
+• Tactic Level: decision making relates to o Short term activities
+o Such as formulation of budget, funds flow analysis, personnel problem, product improvement
+• Operational Level: decision making standards are fixed and the results of decision are deterministic o Specific commands to control specific operations like scheduling receiving
+o Acceptance or rejection of credits, process control, inventory control, allocating workers
+Chapter 05
+
+Chapter 05
+
+
+
+Page 1 of 7
+ioenotes.edu.np
+
+Chapter 05
+
+Page 1 of 7
+ioenotes.edu.np
+
+Chapter 05
+
+Chapter 05
+
+Page 1 of 7
+ioenotes.edu.np
+
+Page 1 of 7
+ioenotes.edu.np
+
+Chapter 05
+
+Page 1 of 7
+ioenotes.edu.np
+

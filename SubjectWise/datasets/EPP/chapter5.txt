@@ -1,0 +1,658 @@
+Chapter  5. Regulatory Environment in Nepal 
+Nepal Engineering Council (NEC) Act  
+Labour Law (Labour Act 2048) 
+Intellectual Property Right (Copyright Act 2022-2059/ Design Patent & Trade mark act 2052) Building Codes & Bylaws 
+Company Regulation  (Company Act 2055/ Private Firm Registration act 2022) 
+Public Procurement Act 2063 &Public Procurement Rules 2064 Arbitration act 2055 (1999) 
+Engineer Licensing Process (According to NEC act): 
+Registration of engineers is done into one of the three categories: 
+1. General Engineers - Category A : (Requires Bachelors Degree in Engineering) 
+2. Professional Engineers - Category B : (Requires Master Degree in approved Engineering field) 
+3. Foreign Engineers - Category C : (Non-Nepali engineers willing to work in Nepal, Bachelors Degree in Engineering and minimum 10 years of experience in engineering field.) 
+- An application should be submitted to Nepal Engineering Council with applicable fees along with the following documents: 
+1. Attested copies of Academic Certificates 
+2. SLC mark sheet 
+3. Character certificate of SLC 
+4. Intermediate level or 10+2 Transcript 
+5. Character certificate of Intermediate level or 10 +2 
+6. B.E. Provisional Certificate 
+7. B.E. Transcript 
+8. Character certificate of B.E. 
+9. Attested copy of Citizenship 
+Labour Law (labour Act 2074): 
+Labour law is concerned over the rights, interests, facilities and safety of workers and employees working in the enterprises of various sectors.  
+Labour- meaning & importance: 
+• It is the aggregate of all human physical and mental effort used in the creation of goods and services ? It is a productive activity 
+• Anything that shapes its form from abstract to concrete 
+• It acts as a means of changing external nature  
+• It is a fundamental element that brought out human from animal world 
+• Without labour, nothing is possible-no machine function, no rupees work 
+• Significant role played by labor can easily be seen everywhere in construction work/factories 
+• Engineer should be able to work with workers(labor) 
+• Engineer should be able to inspire workers and should get maximum output 
+• Engineer should understand the welfare activities that influence the efficiency of the workers Labour Act 2074 (Obsolete 2048): 
+Labour act 2074 has some special provisions related with construction industry. Before this, there was no special law regarding labour in the construction industry. There was a trace of interpretation regarding workers in factory and factory workers act 2019. Labour Act 2074 – Definition of terminology used: 
+• Productive process : It means by the following process 
+• The process of using the goods with the purpose of manufacturing of goods, alterations, repair and maintenance, fabrication, packaging, oiling, washing, cleaning, dismantling, breaking into pieces or use of goods, sales and distribution, transportation or disposal. 
+• Pumping of oil, water or sewerage 
+• Generating, transforming or transmitting energy 
+• Printing press, lithography, photography, book binding or similar other works ? Enterprises :  
+It is defined as any factory, organization, institutions, firm or a group established under prevailing laws for the purpose of operation of industry, business or services and having minimum of 10 or more staff or workers. This also covers:  
+• Tea state established for commercial purpose 
+• Enterprises operating within the industrial estate established by government and have less than 10 staff or workers 
+• Seasonal Enterprises :  
+The enterprises that cannot be operated or which is not feasible to operate all the season, except in a specific season. It also covers the seasonal enterprises that cannot be operated more than 180 days in a year. Some of the sugar factories are examples of seasonal enterprises. 
+• Employee and workers :  
+Employees are the persons engaged in administrative functions of the enterprises. 
+Workers are the persons employed on the basis of salary or wages to work in any building, premises, machinery or any part of production process or providing service or any act relating to such works. This also includes the workers working at piece rate, contract or agreement.  
+• Minor, Adult :  
+• Minor is the person having age between 16and 18 years ? Major is the person having the age of 18 years and above. 
+• Proprietor :  
+Proprietor is the person having final authority on the activities of the enterprise. This also includes any person appointed as the chief of any part or unit of enterprises with power to exercise final responsibility or authority in respect thereof.  
+• Remuneration :  
+Means the salary or wage to be received in cash or kind from the enterprise by the worker or employee for the works performed in the enterprise and this waord shall also include any amount to be received in cash or kind for the works done under piece rate or contract.  
+Labour Act 2074 – Some important provisions: 
+• Employment 
+• Types of employment 
+• Regular Employment,  
+• Work Based Employment: for completion of certain work or rendering certain service,  
+• Time Bound Employment: employment for certain time period determined,  
+• Casual Employment: employment for seven or less days in a month,  ? Part time Employment: employment for 35 or less hours in a week. 
+• Prohibition on employment without employment contract 
+• Formation of employment relationship 
+• Probation period 
+• Trainee & Apprentices 
+• Trainees may be hired 
+
+Applicability of labour provision 
+• May be employed as apprentices 
+• Part time Workers 
+• Work Permits 
+• Restriction on employment of foreign nationals 
+• Requirement of work permits for foreign nationals to work in Nepal 
+• Works permit may be issued 
+• Language of the agreement 
+• Repatriation of remuneration in convertible foreign currency 
+• Remuneration, employment conditions and benefits and other provisions for foreign workers 
+• Working Hours o Working hours 
+* Maximum 8 hours a day or 48 hours a week has been fixed as working hour. Workers are to be provided one-day leave in a week.  
+• Computation of beginning of working hour 
+* The time for starting work shall be as prescribed by the proprietor 
+• Interval for refreshment and rest 
+* No workers shall be kept working continuously for more than 5 hours. Workers shall be provided with 30 minutes break (interval) for tiffin and rest. This break is also counted in regular working hour. In any enterprise, where works have to be carried out continuously without interruption, such breaks shall be provided on rotation basis 
+• Extra wage for overtime works 
+* Workers or employee (staff) shall be provided extra remuneration for the overtime work working more than 8 hours a day or 48 hours a week 
+* Workers shall be paid one and half of the ordinary wage for the overtime work. However, no workers or staff shall be forced to work overtime. 
+* In general, no workers or staff shall be allowed to work overtime for more than 4 hours a day or 24 hours in a week 
+• Attendance register to be kept 
+* Each enterprise shall keep attendance register of its workers and employees. 
+• Remuneration 
+• Minimum remuneration fixing committee 
+• Payment of remuneration 
+• Period of remuneration 
+• Prohibition on deduction of salary 
+• Petition against undue deduction or delay in payment 
+• Provision of appeal 
+• Leave 
+• Weekly holiday 
+• Public holiday 
+• Substitute leave 
+• Home leave 
+• Sick leave 
+• Maternity leave/mourn leave/accumulative leave 
+ 
+ 
+Provident fund, gratuity and Insurance 
+• Contribution for provident fund 
+• Right to receive gratuity 
+• Provision of medical insurance 
+• Provision of accidental insurance 
+• Health and safety  o Provisions relating to health and safety: Manager of an enterprise is responsible  
+* In keeping clean the working place 
+* In managing sufficient air. Light and temperature 
+* In managing waste disposal 
+* For cleaning all the foul dust, air, vapour any other foul substances that may cause hazard to health 
+* For making necessary arrangement to prevent loud noise from any source 
+* A worker shall be provided 15cu.m. space. In calculating this volume, only 4m height measured from floor level is considered 
+* For arranging potable water 
+* For arranging toilets separate for ladies and gents 
+* Considering the nature of the work, the working area shall be made non-smoking area 
+* Arranging for medical checkup for staffs and workers at least once in a year in the enterprises having probability of health hazards 
+• Protection of eyes 
+• Protection from chemicals 
+• Provision for safety against fire 
+• Hazardous machines to be fenced 
+• In relation to lifting of heavy weight 
+• Pressure plants orders to provide for safety 
+• Provision of notice 
+• Authority to determine the standards 
+• Provision of welfare o Welfare fund 
+o Compensation 
+o Gratuity, provident fund and medical service o Leave 
+o Provision of quarters o Provision of children o Rest (relaxing) room o Canteen/Cafeteria 
+• Special provisions to be applicable to special type of enterprise o Tea state 
+o Construction business 
+      * Provision for construction tools 
+      * Special arrangement at temporary construction sites 
+      * Accident insurance 
+      * Safety arrangements o Transportation business o Tourism related business Conduct and punishment 
+• Committee, officers and other provisions 
+• Settlement of labour disputes 
+• Miscellaneous  
+ 
+Intellectual Property Rights 
+ 
+
+Intellectual property is a right you have on your creations, like a film, a musical composition, an invention, a brand name, etc. Like any other real property, you have the right to own and protect the creations of your mind. Such a right is called intellectual property. If you have an intellectual property (IP) over any of 
+your work or ideas, others need to take your permission before using it. Otherwise you can initiate legal action against such persons.  
+Intellectual property refers to the right over the intellectual work and not the work itself. The work can be either artistic or commercial. The artistic works come under the category of copyright laws, while the commercial ones, also known as industrial properties, are ruled by patents, trademarks and industrial design rights. Copyright laws deal with the intellectual property of creative works like books, music, software, painting, etc. Industrial properties cover those created and used for industrial or commercial purposes. As stated earlier, intellectual property is categorized into various types as per the nature of work. The most common types of intellectual property are copyrights,trademarks,patentsandindustrialdesignrights.                                                                                                 
+Copyrights 
+A copyright is a right conferred on the owner of a literary or artistic work. It is an exclusive right to control the publication, distribution and adaptation of creative works. The right lies with the owner-cum-copyright holder for a certain period of time. As time lapses, the work can be republished or reproduced by others. Usually, the timespan of a copyright extends through the entire life of the owner and lasts up to a period of about 50 to100 years after death. In case of anonymous works, the right lasts for 95 years after publication or 120 years after the creation.  
+Trademarks 
+A trademark is a symbol, which is generally used to identify a particular product, which indicates its source. A trademark can be a combination of words, phrases, symbols, logos, designs, images or devices, used by an individual, legal entity or business organization to distinguish their products from that of others. For example, you can identify the products of Nike Inc., through their logo, which is embossed on their products. Once registered, trademarks are protected legally and the owners can sue persons who use their trademarks. Patents 
+Patents are rights related to new inventions. This right is conferred on persons who invent any new machine, process, article of manufacture or composition of matter, biological discoveries, etc. In order to grant a patent, the invention should fit into the following criteria, which may differ from country to country. In general, the invention must be new, inventive and should be useful or can be applied in industries. The person who receives a patent for his invention has an exclusive right to control others from making, using, selling, or distributing the patented invention without permission. Generally, the time limit of a patent is 20 years from the date of filing the application (for the patent) Industrial Design 
+These rights also come under intellectual property and protect the visual design of objects that are not purely utilitarian, but have an aesthetic or ornamental value. It can refer to the creation of a shape, color, pattern or a combination of all these things. It can be an industrial commodity or a handicraft. The design can be either two-dimensional (based on pattern, colors and lines) or three-dimensional (as per shape and surface). An industrial design right is conferred after considering factors like, novelty, originality and visual appeal. The person who has an industrial design right has the exclusive right to make or sell any objects in which the design is applicable.                   The right is conferred for a period of 10 to 25 years. Copyright: (Copy right act 2022 has been repealed and Copyright act 2059 prevail)  
+Copyright generally means the sole right to produce or reproduce the work or any substantial part thereof in any material form whatever. Subject to provision of copyright act, copyright exist in every original literary, dramatic, musical and artistic work.  
+The basic principle of copyright is that a person or a group of people has the sole right of physical and intellectual ownership to any work that is in it a “unique work of art” created by the person or a group of people.  
+ 
+The concept of copyright can be broken down into three basic areas. 
+• Attribution (Credited) and integrity (Unchanged): The author of the work has the right to have his name attributed to the work when it is published, quoted or otherwise displayed. The integrity of the work shall be maintained unchanged unless the author gives explicit permission. 
+• Ownership, reproduction and distribution: For technical and economic reasons it has been customary for authors to share the rights of commercial exploitation or their work with publishers either by employment or contract. 
+• Display and performance: Rights associated with unique creativity in performance interpretation and display. 
+Having created a unique work, two elementary aspects of responsibility follow specially in situations where conflicting claims need to be resolved. 
+• Income and compensation: There are numerous examples of vast sums being awarded in compensation for lost income because a work has been illegally copied and distributed. 
+Legal liability: Claims for offensive creation such as defamation of character, personal injury, lost income and infringement of copyright etc. It is quite normal for many professions such as law, medicine, engineering and the journalistic media to retain insurance policies in case of claims against professional negligence. 
+ 
+Ownership of copyright and his rights : 
+• Acquisition of ownership of copyright: Any person registering any of his work shall have the copyright in accordance with the provision of copyright act. The right to have the copyright of any work registered shall vest only in the author of the work except few conditions. 
+• Transfer of copyright: The person having the right to register the copyright may transfer with or without any conditions, his right, wholly or partially, to another person. ? Notice to be given of the transfer of copyright Registration of copyright and his rights : 
+Any person who desires to register any work shall apply to the office of the registrar giving such particulars as have been prescribed together with evidence of his ownership in such copyright; such application shall accompany the prescribed registration fee. Term of copyright 
+The copyright in any work subsists during the lifetime of the author and shall continue for fifty years after his death. 
+Provision regarding license of copyright: 
+• Grant of license of copyright holder: Incase any owner of the copyright grants license to publish whole or part of such work, the licensee shall be entitled to publish suck work in accordance with the conditions of the license only. 
+• Grant of license by registrar: Incase any work, which has once been published for the public, is required in the interest of public to be published again, and the owner of the copyright fails to publish and also refuse to grant permission to any other person for such publication, the registrar may grant license to any other person. 
+• License for translation: Publication of translation of work rendered into Nepali may grant such license provided that such license shall not be deemed to bestow sole ownership on the translator. 
+• License of public exhibition: Registrar may grant general or special license for public exhibition after specifying the necessary conditions. 
+• License of public library: Registrar may, for the purpose of keeping such copy in the library, grant license for the reproduction of whole or any specified portion of the work. 
+Unauthorized publication and punishment: 
+• Any publication which has been made without the license of the owner or without license from the registrar, for monetary gain shall be deemed to be an authorized publication.  
+Provided that any publication made in the following circumstances shall not be deemed to be an unauthorized publication.  
+• Fair and necessary publication of any work in connection with private study, research, criticism, review and any act in connection with news and magazines, radio diffusion and court proceedings; or  
+• Any publication of an expert from an unpublished work made with bona fide intention of using it for an academic institutions and which clearly indicates in its title the purpose of using it for an academic institutions and the description of author  
+• No person shall sell or distribute or give on hire or arrange any show or keep it in possession for any other similar purpose or publicize or broadcast it in any manner knowing fully well or having sufficient reason to believe that any publication is unauthorized publication. 
+Any importation of a single copy made for personal use shall not be deemed to be contravention of this section. 
+Punishment : 
+In cases where any person infringes protected right, such person shall be punished with a fine of a sum from ten thousand to one hundred thousand rupees or imprisonment for a term not exceeding six months or both and with a fine of a sum from twenty thousand to two hundred thousand rupees or imprisonment for a term not exceeding one year or with both for each instance from the second time. 
+Compensation for the loss caused to the copyright owner by the infringer of the protected right shall also be realized and provided to the copyright owner. Industrial property right (Patent, Trademark, Design) 
+Rights that relate generally to patents, trademarks, copyrights and industrial design are sometimes called industrial property rights. The Patent, Design and Trademark Act 2022 govern these rights. 
+Patent: 
+• It is an important invention of any theory, principle or formula 
+• An invention regarding to technology or process on the structure of matter or group of matters ? An invention of new way of operation and dissemination.  
+Right over the Patent (Acquisition of patent right): 
+• Any person, willing to have rights on any patent, has to register such patent under the Patent, Design and Trademark Act . 
+• Any patent registered in the name of any person shall not be copied, used or utilized without the patentee’s written consent. 
+• Ownership of a patent can be transferred in any way to any person as movable property 
+• If anybody does or attempt to do so or encourage to do any work against these rights of patentee may be punished with a fine by the order of concerned department and all the materials related with such offence shall be confiscated. 
+ 
+Application for acquiring patent right: 
+Person willing to acquire patent right in his own name shall have to apply to the concerned department with following information including all other evidence. 
+• Name, address and profession of inventor 
+• In the case of invention not invented by the applicant himself, the conditions acquiring such right from inventor by the applicant. 
+• Method of operation or utilization of such invention 
+• Principle or formula, if such patent is based on any principle or formula ? Drawings and sketch o invention (if necessary) 
+• Prescribed application fee as mentioned in schedule. 
+ 
+Un-patentable invention: 
+• If it has already been registered in the name of other 
+• If the patent asked to be registered is not invented by the applicant himself and he has not acquired the right from the inventor 
+• If the patent asked to be registered is found to cause adverse effect in health, conduct or morale or people in general or in the national interest 
+• If it violates any prevailing laws of Nepal 
+ 
+Examination of patent application: 
+• Concerned department upon submission of an patent application examine the invention whether it is new or not, it is useful to the people in general or not 
+If it deems necessary, concerned authority takes the advice of experts of related field 
+• Basically concerned department will follow the principle of novelty, industrial applicability and inventive step to examine Certificates of registration: 
+• If concerned authority found the patent application is patentable after examination, provides certificate to the applicant 
+• Applicant shall pay a registration fee as prescribed in price schedule  Publication of registered patent: 
+• Concerned authority shall publish all patents, except those to be kept secret o national interest in journal (media) 
+• Anybody willing to see or take a copy of the statement, drawing or sketch of a patent published in journal may see or take a copy of such patent document on payment of a fee as prescribed in schedule Opposition: 
+• If anybody has any complain upon any patent, he may lodge such complains to the concerned department within thirty-five days from the date on which the patent is seen or a copy of such patent document is taken 
+• Upon receipt of the complain, concerned authority take necessary action through an investigation Term and renewal: 
+• Patentee shall have his right on the patent for a period of seven years from the date of registration 
+• The patentee shall renew the patent within the 35 days from date of expiry having paid the fee mentioned in schedule 
+• Renewal of patent may be made for two times of seven years 
+Design:Any design, form or shape of materials made through the preparation by any method 
+ 
+Right on Design (Acquisition of design right): 
+• Anybody may have a right on design of any goods under the act, which is made or caused to be made by him, and has been registered in concerned authority 
+• Ownership of a design can be transferred 
+• Nobody shall make any goods by using other’s design or in a way to manipulate the people in general and copying such design without written consent of the person in whose name, design is registered. 
+Application for acquiring design right: 
+• Person willing to get registered a design of any goods made or caused to be made by him shall apply to the concerned department along with description, drawings and sketch of design and four copies of its model 
+• Applicant shall submit prescribed application fee  Un-registrable design: 
+• If it is deemed to make adverse affect in the dignity of any individual or institution or  
+• If it makes bad affect in the well being and morale of the people in general or in the national interest or  
+• If such design has already been registered to the name of other person 
+• Concerned authority also looks whether the design to be registered is new and original Registration of design: 
+• The concerned department after examination of any application shall register the design in the name of applicant 
+• The applicant shall pay prescribe registration fee to the concerned department to obtain the certificate of registration   
+Term and renewal of design: 
+• The design holder shall have his right on the design for a period of five years from the date of its registration 
+• The design holder shall renew the registration of the design within 35 days from the date of expiry 
+ 
+Penalty to the violator: 
+• If anybody violates the rights of registered design holder may be punished with a fine by the order of the concerned department and all the goods related with such offence shall be confiscated  Trademark: 
+• It is any word, symbol or picture or the combination of the three used for showing difference from goods or service of others to the goods produced by any firm, company or individual or the service provided by it. 
+Right on trademark(Acquisition of trademark): 
+• Anybody may have a right on any trademark of his trade or business under the act having it registered in the concerned department 
+• Nobody shall use or copy any trademark in a way of manipulating the people in general without written consent of person in whose name the trademark is registered 
+• Ownership of a trademark can be transferred to other with a permission of the department Application for registration of trademark: 
+Person willing to get registered any trademark of his trade or business under the act shall apply to the department in a prescribe format along with: 
+• Copy of registration or license of the business for product or service in which trademark is used or intend to use 
+• Four copies of model of trademark 
+• Authorization letter if somebody has been authorized to act on behalf of the owner to  register the trademark 
+• If the applicant is foreigner, certified copy of any foreign registration certificate and address for service In Nepal must be submitted with application 
+• Receipt of payment of prescribe application fee  
+• Separate application shall be submitted for the registration of trademarks of different categories goods or services 
+Condition for refusal to register the trademark: 
+• If such trademark is deemed to make adverse effect in the dignity of any individual or institution 
+• If such trademark makes bad affect in the well being and morale of the people in general or in the national interest   
+• If such trademark effects in the goodwill of trademark of any other person or 
+• If such trademark has been already been registered in the name of the other person 
+• The trademark, which is contrary to the principle, norms and international conventions of industrial property 
+Classification of goods and services: 
+• Nepal Government, for the purpose of registration of trademark relating to any gods and any types of services may classify such goods and services 
+• International classification of goods and services for the purpose of the registration of marks (Nice classification) is applied to this effect  Registration of trademark: 
+• After examination if it is found registrable, the concerned department register the trademark in the name of applicant and issue a certificate 
+• The applicant shall pay a registration fee of the trademark as prescribed in the schedule 
+
+Publication of registered trademark: 
+• Concerned authority may publish the registered design and trademark and a statement in regard to their renewal and cancellation of registration for the information of the people in general Opposition and complain: 
+• Any person if he has any complain on the statement publish by the department concerning the design and trademark may lodge a complaint to the concerned department within thirty-five days of such publication 
+• Upon receipt of the complain, concerned authority shall take necessary action through an investigation Term and renewal: 
+• The registered trademark holder shall have his right on the trademark for a period of seven years from the date of registration 
+• The registered trademark holder shall renew the trademark within the 35 days from date of expiry Cancellation of Trademark: 
+• The concerned authority may cancel the registration of trademark in case of that there is condition of refusal to register 
+• The authority may cancel the registration of trademark incase if it is not put into use within one year from the date of registration  Penalty and compensation: 
+• If anybody violates the rights of registered trademark owner and use of the trademark which is cancelled by the concerned department, he may be punished with a fine by the order of the concerned department and all the goods related with such offence shall be confiscated  
+In relation to the patent, design and trademark registered under the act, the authority may cause to pay a reasonable amount of the loss, incurred through the violation of the act by anybody, to the person who had really been suffered from such loss and whose name the patent, design and trademark was registered, from the person of such violation, as a compensation 
+Comparison Chart between copyright, patent, design and trademark 
+ 
+S. N. 
+Particulars 
+Copyright 
+Patent 
+Design 
+Trademark 
+1 
+Subject matter/covera ge 
+Rights relate to work of authorship/literary work /artistic work-  music, book,movie/painting/photos 
+Rights relate to new inventions/theory/pri
+nciples/process/formu la 
+Rights relate to shape , pattern , color of commodities, product 
+Rights related to word, symbol, picture, figure or combination of all these to recognize goods 
+.products 
+2 
+Terms 
+a) lifetime+50 years 
+b) 50 years from death of last surviving author 
+c) for anonymous or pseudonym work – 50 yrs 
+form first date of publication 
+d)for applied art & photograph- 25 yrs from years form preparation of such work 
+e) 50 yrs for work published after death of author 
+7 years and two time renewable (21 years) 
+5 years and two time renewable (15 years) 
+7 years and indefinite period as long as timely renewed 
+3 
+Infringement 
+Person other than owner comes up with same work there is no infringement 
+Confers statutory monopoly that prevents anyone other than patent holder from making, using or 
+selling  
+Confers statutory monopoly that prevents anyone other than patent holder from making, using or 
+selling  
+Confers statutory monopoly that prevents anyone other than patent holder from 
+making, using or selling  
+4 
+Punishment on infringement 
+a) 10,000 to 100,000 or 6 months imprisonment or both 
+b) 20,000 to 200,000 or one year imprisonment or both  
+250,000 to 500,000 
+Not more than 50,000 
+Not more than 100,000 
+5 
+Start 	of 
+protection 
+As soon as work created 
+Until the patent is issued 
+As soon as design was created and registered 
+As soon as trademark was created and 
+registered 
+6 
+Requirement of protection 
+Original  
+Novel/non obvious/useful 
+New and  different 
+New and different 
+7 
+Fee 	for 
+application, regn & renew 
+low 
+2000,10000,(5000,750
+0) 
+1000,7000, 
+(1000,2000) 
+1000,5000 
+8 
+Governing act 
+Copyright act 2059 
+Patent, design and trademark act 2022 
+Patent, design and trademark act 2022 
+Patent, 	design 	and 
+trademark act 2022 
+ 
+Building Act, codes and bylaws 
+Regulating building construction activities was essential for the purpose of keeping building safe from earthquake, fire and other natural calamities. For fulfilling this purpose Building act 2055(1998) was promulgated (circulated) and meantime Building rules 2062(2005) was also come into operation. With reference to building rules, building are to be constructed following National Building Code 2060.Building codes are classified as follows: List of codes in NBC 
+Code Number  
+Code Title 
+NBC 000: 1994  
+Requirements for State-of-the-Art Design: An Introduction 
+NBC 101: 1994  
+Materials Specifications 
+NBC 102: 1994  
+Unit Weight of Materials 
+NBC 103: 1994  
+Occupancy Load 
+NBC 104: 1994  
+Wind Load 
+NBC 105: 1994  
+Seismic Design of Buildings in Nepal 
+NBC 106: 1994  
+Snow Load 
+NBC 107: 1994  
+Provisional Recommendation on Fire Safety 
+NBC 108: 1994  
+Site Consideration for Seismic Hazards 
+NBC 109: 1994  
+Masonry: Unreinforced 
+NBC 110: 1994  
+Plain and Reinforced Concrete 
+NBC 111: 1994  
+Steel 
+NBC 112: 1994  
+Timber 
+NBC 113: 1994  
+Aluminium 
+NBC 114: 1994  
+Construction Safety 
+NBC 201: 1994  
+Mandatory Rules of Thumb: Reinforced Concrete Buildings WithMasonry Infill 
+NBC 202: 1994  
+Mandatory Rules of Thumb: Load Bearing Masonry 
+NBC 203: 1994  
+Guidelines for Earthquake Resistant Building Construction: Low StrengthMasonry 
+NBC 204: 1994  
+Guidelines for Earthquake Resistant Building Construction: EarthenBuilding (EB) 
+NBC 205: 1994  
+Mandatory Rules of Thumb: Reinforced Concrete Buildings WithoutMasonry Infill 
+NBC 206: 2003  
+Architectural Design Requirements 
+NBC 207: 2003  
+Electrical Design Requirements for (Public Buildings) 
+NBC 208: 2003  
+Sanitary and Plumbing Design Requirements 
+ 
+ 
+Classification of NBC according to their use SN  	Type of Building Code 	 	 	 	 	Purpose 
+1 International State-of-Art   Applicable to large building structures. The   Applicable codes: NBC 000   structures must comply with existing international 
+ 	 	 	 	 	 	 	 	state-of-the-art building codes 
+2 Professionally Engineered Buildings 
+  Applicable codes:NBC 101 NBC 107 NBC 113 Building designed and constructed under supervision 
+ 	 than 
+ 	 	NBC 102 NBC 108 NBC 114          of engineers, buildings with plinth area more 
+ 	 
+ 	 	NBC 103 NBC 109 NBC 206 
+1000 sq. ft., buildings having more than 3 stories,  
+ 	 
+irregular 
+ 	 	NBC 104 NBC 110 NBC 207 
+buildings with span more than 4.5 m with 
+ 	 
+ 	 	NBC 105 NBC 111 NBC 208 
+shapes  
+ 	 
+ 
+ 	 	NBC 106 NBC 112 
+
+3  	 
+Mandatory Rules of Thumb 	 	 
+Buildings of plinth area less than 1,000 sq.ft, 
+ 	 
+Applicable codes: NBC 201,   	 
+Building having stories less than 3,  
+ 	 
+shape 
+NBC202, NBC 205 	 	 	 
+building having span less than 4.5m and regular 
+ 	 
+ 	 	 	 	 	 
+less and constructed by technicians in the areas  
+ 	 
+ 	 	 	 	 	 
+where professional engineer’s service is not 
+available 
+4  	 	Guidelines of Remote Rural Buildings 
+  (Low Strength Masonry/ Earthen Buildings)   Buildings constructed by local masons in remote areas 
+ 	 	 	 	 	 	 	 	and not more than 2 stories 
+NBC 000 categorizes design and construction of buildings into four types according to their level of sophistication. (Classification of building codes) 
+a) International state of art 
+ The major thrust of the code is aimed at the typical and most common buildings currentlybeing constructed in Nepal. It does not suggest as being practical for everyday considerationthe sophisticated design philosophies and analytical techniques that appear in the buildingcodes of developed countries. Under the first category International State-of-the-Art, ifconsultants ensure that their designs meet the corresponding international standard, thedesigns are considered to be in conformity with NBC.  b) Professionally engineered building 
+  It covers all usual structures such as hospitals,meetings halls, factories, warehouses, multi-storey buildings and residential buildings.Building having plinth area more than 1000 S.ft., more than 3 storied and structural span of more than 4.5 m which will be constructed under design and supervision of engineer fall in this category.  
+c) Buildings of restricted size designed with simpleRules-of-Thumb  - Mandatory rules of thumb (MRT) It refers to Buildings of restricted size designed with simple Rules-of-Thumb, and mostly applies to remote areas where simpler buildings are prominent.The explanatory documents are such that an experienced overseer will be able to understandthem and present sufficient details at the time of permit application to prove to a skilledappraiser at the Local Authority that the requirements have been met. 
+The requirements are interms of limits on spans and heights, minimum reinforcing and member sizes, positioning ofearthquake-resisting elements and other such rules. 
+  Simple buildings that are constructed, where professional engineers and technicians are not available, under supervision of middle level technicians of which plinth area  is less than 1000 Sq. ft. , less than 3 storied and structural span less than 4.5 m fall in this category. NBC 201,202 and 205 are applicable for buildings under this category and the codes deals with Mandatory Rules of thumb (MRT) reinforced concrete building with masonry infill, mandatory rules of thumb load bearing masonry and MRT reinforced concrete building without masonry infill respectively. 
+d) Guidelines for remote rural building 
+ These guidelines addressabout a dozen typical building styles that have been condensed from an inventory ofapproximately fifty-five building types surveyed in 1993. In the form of diagrams anddescriptions aimed at technical advisors, house owners and lay-men, these guidelinesemphasize those changes that should be made to current practices to improve the seismicresistance of these buildings not subject to modern quantitative analysis and rational designconsideration. These structures are normally of earthen construction (e.g. unburned masonry,mud-mortar, rubble, dry stone, wattle and daub). Whereas these recommendations aredescribed as guidelines, it is intended to be mandatory for such structures built in areascontrolled by a building permit-issuing local authority. 
+ Simple buildings having less than two storied that are constructed in remote rural areas, where control is impractical because of non-availability of regular technical supervision fall under this  category and implemented NBC codes are as mentioned below: 
+ NBC 203 : Guidelines for earthquake resistance building construction: Low strength masonry  NBC 204 : Guidelines for earthquake resistance building construction: Earthen building 
+ 
+Building act has directed to comply with the building codes while constructing a building by any persons, institutions or public entities. Similarly, it is also mandatory to have building permission from concerned valley Development Corporation, urban development office, metropolitan or sub metropolitan city, municipal office.  
+ 
+Building bylaws 
+It is the set of guidelines regarding the design of buildings, orderly and systematic planning of the area and ensure safety standards. These are prepared by concerned town development committees and are followed by the municipalities of the country. Building bylaws are prepared to ensure public health and safety, planned urban development and planned built environment. With rapid growing urbanization and increase in population, it  
+becomes an important tool & mechanism for the controlling of growth and development of the cities. Building codes & bylaws provide the regulations and standards that architects, builders and owners must meet while designing , constructing or remodeling buildings. It specify the minimum acceptable level of safety for constructed objects such as buildings and non- building structures. 
+Objectives of  bylaws 
+• To design & construct the building as per climatology, topography, acoustic & thermal aspect 
+• To develop necessary physical infrastructure 
+• To use new land for future expansion 
+• To maintain & show civilization 
+• To create comfort living standards 
+• To conserve & develop socio economic, cultural, architectural & historical values 
+ 
+Basic components of building bylaws 
+a) Building   	b) Planning  	c) Enforcement 
+Elements of the building bylaws in Building segment 
+    • Right of Way(ROW) 
+A right-of-way is a right to make a way over a piece of land, usually to and from another piece of land. A right of way is a type of easement granted or reserved over the land for transportation purposes, such as for a footway, carriageway, trail, driveway, rail line or highway. A right-of-way is reserved for the purposes of maintenance or expansion of existing services with the right-of-way. In the case of an easement, it may revert to its original owners if the facility is abandoned. 
+    • Set Back 
+In land use, a setback is the distance which a building or other structure is set back from a street or road, a river or other stream, a shore or flood plain, or any other place which is deemed to need protection. Depending on the jurisdiction, other things like fences, landscaping, septic tanks, and various potential hazards or nuisances might be regulated. Setbacks are generally set in municipalordinances or zoning. 
+    • Floor Area Ratio(FAR) 
+Floor area ratio (FAR), floor space ratio (FSR), floor space index (FSI), site ratio and plot ratio are all terms for the ratio of a building's total floor area to the size of the piece of land upon which it is built. The terms can also refer to limits imposed on such a ratio. 
+As a formula: Floor area ratio = (total covered area on all floors of all buildings on a certain plot)/(area of the plot) 
+    • Ground Coverage Ratio(GCR) 
+    • Height of the building 
+    • Guidelines for cultural heritage zone 
+    • Clearance required for important sites and from other elements Elements of Building bylaws in Planning segment  
+    • Land use 
+    • Size of the plot 
+    • Area and its depth and width ratio 
+    • Length of cul-de-sac (impasse/dead end) 
+    • Area of open space 
+    • Public facility requirement 
+Elements of Building bylaws in Enforcement process segment 
+• Designing of building stages 
+• Construction stage 
+• Issuance of completion certificate 
+• Use of constructed facility Business Law: 
+Business : It is the human activities that are related with production of goods and services or sales and purchase of goods and services or exchange of goods and services with profit making objectives.  
+Law : It is the norms that are drafted and enforces by a state or local government in order to regulate the activities within the state or locality. All the laws that regulate the business are known as business law. 
+Ignorance of law will not be excused. 
+Sources of business law in Nepal: 
+• English business law  
+• common law of England 
+• Law of merchants 
+• Principal of equity 
+• Statute of legislature 
+• Custom and usage 
+• Nepalese statutory act 
+• Judicial decisions 
+• Writing and opinions of scholars &Commercial treaties and agreements Types of business enterprises: 
+• Sole business concern 
+• Partnership business organization 
+• Company : a) Private b) Public  
+Sole business:In this type of business organization, single person establishes, manages, organizes and control the whole business and also singly liable towards the profit and loss of the business. It is registered under private registration act 2014. 
+Characteristics of sole business: 
+• Sole ownership 
+• Sole management and control 
+• Unlimited liability 
+• Limited areas of operation 
+• Less legal formalities ? Voluntary origin and end Limitations of sole business: 
+• Unlimited liability 
+• Limited capital 
+• Uncertain future 
+• Absence of legal status 
+• Chances of impractical decisions 
+• Lack of specialization 
+• Loss in absence of a key person 
+Partnership business organization: In this type of business organization, more than one people join their hands to earn profit by investing collectively. This type of business organization is registered under partnership Act 2020. 
+Characteristics of partnership business: 
+• Joint ownership 
+• Unlimited liability 
+• Sharing of profit and loss 
+• Established on the basis of agreement between persons 
+• Members do not have separate existence 
+• Joint management and control 
+• Joint agent slip 
+• Partnership right cannot be transferred.  
+Limitation of partnership business: 
+• Unlimited liability 
+• Uncertain existence 
+• Possibility of misunderstanding and friction between the partners 
+• Limited capital 
+• Difficulty in transferring ownership 
+• Lack of prompt decision 
+• Lack of public faith 
+Company business organization: In this type of business organization, company is established under the Act of the country and has limited liability. Finance is collected through issuance of shares. Company is considered as an artificial legal person. Act 2053 regulates the incorporation of a company in Nepal. Company can be further divided into two as private limited company and public limited company. As per company Act 2053, private limited company has less than 50 shareholders and public limited company shall have minimum 7 shareholders and no upper limit. 
+Characteristics of company business organization: 
+• Legal artificial person 
+• Perpetual existence 
+• Limited liability 
+• Common seal 
+• Voluntary associations of persons 
+• Capital collected by issuing shares 
+• Transferability of shares 
+• Management by representatives/effective management 
+• Publication of financial statement 
+• Unlimited capital 
+• Public faith 
+• Unlimited business capability 
+Limitation of company business organization: 
+• Difficulty in formation 
+• Lack of personal interest 
+• Lack of secrecy 
+• Possibility of fraud 
+• Exploitation of shareholders 
+• Group formation for power 
+• Conflict of interest 
+• Absence of prompt decision 
+• Lack of closeness 
+ 
+Comparison between Private company & Public company 
+ 
+S.N. 
+Subject matters 
+Private company 
+Public company 
+1 
+No. of Shareholders   
+Minimum 1 Maximum 50 
+Minimum 7 Maximum no limit 
+2 
+Company naming pattern  
+Pvt. Ltd. 
+Limited  
+3 
+No. of directors 
+1 
+Minimum 3 & maximum 11 directors 
+4 
+Article of association 
+can use schedule I of company act 
+Must have own 
+5 
+Offer of subscription of share / debenture 
+Do not offer to  subscribe 
+Offer subscription to public to sell its shares & debentures 
+6 
+Transfer of share 
+Cannot transfer 
+Transfer easily 
+7 
+Legal formalities 
+Less 
+More   
+8 
+Publication 	of 	financial statement of trimester of each fiscal year 
+Not required 
+Must publish 
+9 
+Commencement of business 
+After getting certificate of incorporation 
+After getting the certificate of commencement of business 
+10 
+Financial strength 
+Financially less strong 
+Financially strong 
+ 
+ 
+Cyber Law: 
+Cyber law provides the legal framework related to the use of computer, information and communication and the governing technology. Therefore, it regulates the computer based activities including business (ecommerce) and the government (e-government). Nepal has enacted the electronic transactions act 2063 (ETA 2063), which comes into effective from December 8, 2006 and electronic transactions rules 2064(ETR 2064) also came into force in 2007. Important terminology defined in ETA 2063 
+a) Asymmetric Crypto System – It is a system that creates a securedkey-pair consisting of a private key creating a digital signature and apublic key to verify the digital signature. 
+(b) License- It is alicense obtained pursuant to Sub-section (3) ofSection 18. 
+(c) Originator – It is a person who generates, stores or transmitselectronic records, and this term also includes a person who causes anyother person to carry out such functions:Provided that it shall not include an intermediary. 
+(d) Computer- An electro-magnetic, optical or other high-speed dataprocessing device or system, which performs logical, arithmetic andmemory functions by manipulating electro-magnetic or optical impulses,and also includes all acts of input, output, processing, storage andcomputer software or communication facilities which are connected orrelated to the computer in any computer system or computer network. 
+(e) Computer Database - An information, knowledge and concept orpresentation of instructions, which are being prepared or have alreadybeen prepared in word, image, voice or audio visual form in aformalized manner or which have been produced by a computer,computer system or computer network, with a view to use in acomputer, computer system or computer network. 
+(f) Computer Network- An interrelationship between two or morethan two computers having interconnection with each other or in contactof communication. 
+(g) Computer System - A device or a group of devices, containing allcomputer programmes including input and output support devices,electronic instructions, input and output data that performs logical,arithmetic, data storage and retrieval, communication includingcontrolling functions. 
+(h) Computer Resource - A computer, computer system, computernetwork, data, computer database or software. 
+(i) Subscriber - A person who has obtained a certificate under Subsection(3) of Section 31. 
+(j) Key Pair - A private key in an asymmetric crypto system and ofpair of public key, interconnected in a mathematics form with theprivate key which has a code to verify digital signature by the public keyto be created from the private key. 
+(k) Data - The presentation of information, knowledge, fact andconcept or instructions in any form, which are kept in a formalizedmanner in a computer system or computer network and is intended forprocessing the same, or processed or stored in a computer memory. 
+(l) Tribunal - The Information Technology Tribunal formed pursuantto section 60. 
+(m) Private Key - A key of any key pair used to create a digitalsignature. 
+(n) Controller - The Controller appointed or designated pursuant tosection 13. 
+(o) Digital Signature - A signature made in any electronic form to beincluded in the transformation of electronic record by a person having anon- transformed initial electronic record and the public key of signatoryby using a type of asymmetric crypto system that may clearly ascertainthe following matters: 
+(1) Whether or not transformation of electronic record wascreated by using a type of private key keeping a logical consistency withthe public key of signatory; and 
+(2) Whether or not the initial electronic record has beenchanged after the transformation of electronic record. 
+(p) Access - An opportunity of gaining entry into, logical,arithmetical or resources of memory function of any computer,computer system or computer network, giving instructions to suchresources or making communication contact with such resources. 
+(q) Appellate Tribunal - The Information Technology AppellateTribunal formed pursuant to section 66. 
+(r) Certificate - A Digital Signature Certificate issued by theCertifying Authority under Section 30. 
+(s) Certification Practice Statement - Any statement issued by aCertifying Authority to specify the practices to be applied by theCertifying Authority while issuing a Digital Signature Certificate. 
+(t) Certifying Authority- A certifying authority which has obtaineda license to issue a Digital Signature Certificate under Sub-section (3) ofSection 18. 
+(u) Addressee -A person receiving the processed electronic record asintended by the originator.Provided that it shall not include an intermediary. 
+(v) Electronic Record - The data, record, image or sound transmitted,received or stored in an electronic form by generating the same throughany means. 
+(w) Electronic Form - A form of information transmitted, received orstored by generating the same through the means of magnetic, optical,computer memory or similar other devices. 
+(x) Public Key - A key of any key pair used to verify digitalsignature. 
+(y) Information - The data details of the scripted texts, images,sounds, codes, computer programmes, software and computer databases. 
+(z) Information system - A system to generate, produce, transmit,receive, store and display information or to process the same by othermethod. 
+(aa) Software- Any specific part of computer system such as systemsoftware and application software having the capacity for operatingcomputer hardware. 
+(ab) Computer Accessory – It is  a technology such as computer resource,the information used by any institution in its business, a software-likeitem produced or purchased by such an institution, hardware andcomputer network. 
+Important provisions of ETA 2063 
+• Provision for electronic record and digital signature 
+• Provision for transmission, receipt, and acceptance of electronic records 
+• Provision for controller and certifying authority 
+• Provision for digital signature and license 
+• Provision for role, duty and responsibility of a subscriber 
+• Provision for the government use of electronic record and digital signature 
+• Provision for network service 
+• Description of computer crimes and provisions for punishment 
+• Provisions for information technology adjudication and information technologyappellate adjudication 
