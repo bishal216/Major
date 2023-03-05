@@ -1,0 +1,112 @@
+{% extends 'baseHTML.html' %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="container">
+  <form action="/" method = "POST">
+    <div class="row">
+      <div class="col-25">
+        <label for="nQues">Number of questions</label>
+      </div>
+      <div class="col-75">
+        <input type="number" id="numOfQuestions" name="nQues" placeholder="10" value ="10">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="qType">Type of questions</label>
+      </div>
+      <div class="col-75">
+          <select name="qType" id="quesType">
+              <option value="all" checked="checked">Mixed</option>
+              <option value="multiple_choice">MCQ</option>
+              <option value="sentences">Subjective</option>
+          </select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="showAns">Show Answers</label>
+      </div>
+      <div class="col-75">
+        <select id="country" name="showAns">
+          <option value=True>True</option>
+          <option value=False>False</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="subject">Text</label>
+      </div>
+      <div class="col-75">
+        <textarea id="text-input" name="Text" placeholder="Insert text" style="height:200px"></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+          <label for="file-input">Upload .txt File:</label>
+        
+      </div>
+      <div class="col-75">
+          <input type="file" id="file-input" name="file-input" accept=".txt" onchange="displayText()">
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <input type="submit" value="Submit">
+    </div>
+  </form>
+</div>
+{% if qg==[] %}  
+<div class = "container">
+    <div class="row">
+      <div class="col-25">
+        <label >Enter text.</label>
+      </div>
+    </div>
+</div>
+{% else %}
+<div class = "container">
+  <div class = "row">
+    <div class="row">
+      <div class="col-25">
+        <label >Questions only.</label>
+      </div>
+      <div class="col-75">
+        <ol>
+          {% for item in qg %}
+            <li>{{ item['question']}}</li>
+            
+          {% endfor %}
+        </ol>
+      </div>
+    </div>  
+
+    <div class="col-25">
+      <label >Questions and Answers.</label>
+    </div>
+    <div class="col-75">
+      <ol>
+        {% for item in qg %}
+          <li>{{ item['question']}}</li>
+          - {{item['answer']}}</li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>  
+    </div>
+  </div>
+</div>
+{% endif %}
+  
+<div class-"container">
+  <div class="row">
+    <div class="col-25">
+      <label>Generate subjectwise questions(JSON API only)</label>
+    </div>
+    <div class="col-75">
+      <a href="{{ url_for('other') }}">Organization and Management</a>
+    </div>
+  </div> 
+</div>
+{% endblock %}
