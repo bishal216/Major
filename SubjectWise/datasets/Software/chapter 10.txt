@@ -1,0 +1,216 @@
+CHAPTER 10
+Configuration Management
+                                                                         -Mr. Sanjay Adhikari
+10.1 Configuration management planning
+The output of the software process is information that may be divided into three broad categories:
+1. Computer programs
+2. Work products
+3. Data
+The items that comprise all information produced as part of the software process are collectively called a software configuration.
+Configuration management (CM) is concerned with the policies, processes, and tools for managing changing software systems. CM planning defines:
+1. the types of documents to be managed and a document scheme. 
+2. who takes responsibility for the CM procedures and creation baseline
+3. policies for the change control and version management.
+4. the tools which should be used to assist the CM process and only limitation on their use.
+5. the CM database used to record configuration information
+CM is useful for the individual projects as it is easy for one person to forget what changes have been made. It is essential for the team projects where several developers are working at the same time on a software system. The CM ensures that teams have access to information about a system that is underdevelopment and do not interfere with each other’s work.
+	
+The CM of a software system product involves four closely related activities:
+1. Change Management: 
+This involves keeping track of requests for the changes to the software from customers and developers, working out the costs and impact of making these changes, and deciding if and when the changes should be implemented.
+2. Version Management: 
+This involves keeping track of the multiple versions of system components and ensuring that changes made to components by different developers do not interfere with each other.
+3. System Building: 
+This is the process of assembling program components, data, and libraries, and then compiling and linking these to create an executable system.
+4. Release management:
+This involves preparing software for external release and keeping track of the system versions that have been released for customers use.
+
+
+
+10.2 Change Management
+Change management is concerned with analyzing the costs and benefits of the proposed changes, approving those changes that are worthwhile, and tracking which components in the system have been changed.  
+Software systems are subject to continual change requests:
+? From users, developers, market forces
+?Change management is concerned with keeping track of these changes and ensuring that they are implemented in the most cost-effective way.
+
+Change Management Process
+Request change by completing a change request for
+            Analyze change request 
+if change is valid then 
+            Assess how change might be implemented 
+            Assess change cost 
+            Submit request to change control board 
+       if change is accepted then 
+            repeat 
+                 make changes to software 
+                 submit changed software for quality approval
+             until software quality is adequate      create new system version
+        else 
+          reject change  request
+else 
+  reject change request
+
+Change Management System
+* The definition of a change request form is part of the CM planning process.
+* This form records the change proposed, requestor of change, the reason why change    was suggested and the urgency of change (from requestor of the change).
+* It also records change evaluation, impact analysis, change cost and recommendations (System maintenance staff).
+
+
+10.3Version and release management
+
+• Invent an identification scheme for system versions.
+• Plan when a new system version is to be produced.
+• Ensure that version management procedures and tools are properly applied.
+• Plan and distribute new system releases.
+
+Versions/variants/releases
+
+• Version An instance of a system which is functionally distinct in some way from other system instances.
+• Variant An instance of a system which is functionally identical but non-functionally distinct from other instances of a system.
+• Release An instance of a system which is distributed to users outside of the development team.
+
+Version identification
+• Procedures for version identification should define an unambiguous way of identifying component versions.
+• There are three basic techniques for component identification
+a) Version numbering
+b) Attribute-based identification
+a)        C)  Change-oriented identification
+A)Version numbering
+• Simple naming scheme uses a linear derivation
+ Eg.V1, V1.1, V1.2, V2.1, V2.2 etc.
+• The actual derivation structure is a tree or a network rather than a sequence.
+• A hierarchical naming scheme leads to fewer errors in version identification.
+
+                        V1.1a                   v1.1.1
+    
+  V1.0                V1.1               v1.2
+   
+                       V1.1b        v2.0           v2                            Fig: version numbering
+b) Attribute-based identification
+• Attributes can be associated with a version with the combination of attributes identifying that version
+       Examples of attributes are Date, Creator, Programming Language, Customer, Status etc.
+• This is more flexible than an explicit naming scheme for version retrieval; However, it can cause problems with uniqueness - the set of attributes have to be chosen so that all versions can be uniquely identified.
+• In practice, a version also needs an associated name for easy reference.
+
+c) Change-oriented identification
+• Integrates versions and the changes made to create these versions.
+• Used for systems rather than components.
+• Each proposed change has a change set that describes changes made to implement that change.
+• Change sets are applied in sequence so that, in principle, a version of the system that incorporates an arbitrary set of changes may be created.
+
+Release management
+
+• Release management incorporate changes forced on the system by errors discovered by users and by hardware changes.
+• They must also incorporate new system functionality.
+• Release planning is concerned with when to issue a system version as a release.
+
+
+Release problems
+
+• Customer may not want a new release of the System due to unwanted facilities.
+• Release management should not assume that all previous releases have been accepted. All files required for a release should be re-created when a new release is installed.
+
+
+
+10.4. System Building
+System building is the process of creating a complete ,executable system by compiling and linking the system components, external libraries etc. system building tools and version management tools must communicate .Different system are build from different combinations of components, this process is nowadays supported by automated tools that are driven by ‘build scripts ‘and hundreds of files may be used.
+System building tools may provide:
+* A dependency specification language and interpreter
+* Tools selection and investigation support
+* Distributed compilation
+* Desires object management
+  
+
+System building problems:
+> Do the build instructions include all required components?
+• When there are many hundreds of components making up a system, it is easy to miss one out. This should normally be detected by the linker.
+> Is the appropriate component version specified?
+• A more significant problem. A system built with the wrong version may work initially but fail after delivery.
+> Are all data files available?
+• The build should not rely on 'standard' data files. Standards vary from place to place.
+> Are data file references within components correct?
+• Embedding absolute names in code almost always causes problems as naming conventions differ from place to place.
+> Is the system being built for the right platform
+• Sometimes you must build for a specific OS version or hardware configuration.
+> Is the right version of the compiler and other software tools specified?
+• Different compiler versions may actually generate different code and the compiled component will exhibit different behavior.
+
+
+
+
+
+       
+                                              
+
+
+Fig: system building
+
+
+
+
+
+
+10.5 CASE tools for configuration management
+
+> CASE tools are available to support all 	CM activities.
+> CM processes are standardized and involve applying pre-defined procedures.
+> Large amounts of data must be managed.
+> Mature CASE tools to support configuration management are available ranging from stand-alone tools to integrated CM workbenches.
+
+CM workbenches
+1. Open workbenches
+Tools for each stage in the CM process are integrated through organizational procedures and scripts. Gives flexibility in tool selection.
+2. Integrated workbenches
+Provide whole-process, integrated support for configuration management. More tightly
+              integrated tools so easier to use. However, the cost is less flexibility in the tools used.
+3. Change management tools
+Change management is a procedural process so it can be modeled and integrated with a version management system.
+ Change management tools
+> Form editor to support processing the change request forms
+> Workflow system to define who does what and to automate information transfer
+> Change database that manages change proposals and is linked to a VM system.
+> Change reporting system that generates management reports on the status of change requests.
+4. Version management tools
+
+> Version and release identification
+• Systems assign identifiers automatically when a new version is submitted to the system.
+> Storage management
+• System stores the differences between versions rather than all the version code.
+> Change history recording
+• Record reasons for version creation.
+> Independent development
+• Only one version at a time may be checked out for change. Parallel working on different versions.
+> Project support
+• Can manage groups of files associated with a project rather than just single files.
+
+
+Key points
+? Configuration management is the management of system change to software products.
+? A formal document naming scheme should be established and documents should be managed in          a database.
+? The configuration data base should record information about changes and change requests.
+? A consistent scheme of version identification should be established using version numbers, attributes or change sets.
+
+? System releases include executable code, data, configuration files and documentation.
+? System building involves assembling components into a system..
+? CASE tools are available to support all CM activities
+? CASE tools may be stand-alone tools or may be integrated systems which integrate support for version management, system building and change management.
+Questions 
+A restaurant uses an information system that takes customer orders, sends the order to the kitchen, the goods sold and inventory and generates reports for management. List functional and non-functional requirements for this Restaurant Information System. 	(068 Chaitra)
+
+Explain requirement management process with necessary illustration.	            (068 Chaitra)
+
+Explain software requirement specification (SRS). What are the characteristics of a good software requirement specification document?		         			(068 Baisakh)
+
+
+
+Explain the importance of requirement engineering. List out requirement elicitation techniques. What are the problems in formation of requirements?				(067 Asadh)
+
+Distinguish between verification and validation.			          		(066 Bhadra)
+
+
+
+
+
+
+
+

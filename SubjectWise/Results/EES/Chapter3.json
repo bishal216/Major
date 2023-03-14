@@ -1,0 +1,506 @@
+[
+    {"question": "How big is the diameter of the sun?", "answer": "The diameter of the sun is 1.39 × 10^9 meters.", "marks": "2"},
+
+
+    {"question": "How thick would the atmosphere be?", "answer": "If the atmosphere were a layer of gas of uniform sea level density, it would be 8 km thick.", "marks": "2"},
+
+    
+    {"question": "What is the power density of the sun?", "answer": "The power density of the solar radiation at the distance of one astronomical unit (the average distance between the Earth and the Sun) is about 1367 W/m2, which is known as the solar constant.", "marks": "2"},
+
+    
+    {"question": "How much is the temperature of the core?", "answer": "The temperature of the core is estimated to be around 107K.", "marks": "2"},
+
+    
+    {"question": "What is the ozone layer?", "answer": "The ozone layer is a region of the Earth's stratosphere that contains a high concentration of ozone molecules. It is located approximately 10 to 50 kilometers above the Earth's surface and plays an important role in protecting life on Earth from harmful ultraviolet radiation from the sun. The ozone layer absorbs most of the sun's ultraviolet radiation, preventing it from reaching the Earth's surface where it can cause skin cancer, cataracts, and other health problems.", "marks": "2"},
+
+    
+    {"question": "What is the solar constant?", "answer": "The power density of the solar radiation at the distance of one astronomical unit (the average distance between the Earth and the Sun) is about 1367 W/m2, which is known as the solar constant.", "marks": "2"},
+
+    
+    {"question": "How far away is the sun from the earth?", "answer": "The sun is about 1.5 × 10^11 meters away from the Earth.", "marks": "2"},
+
+    
+    {"question": "How long does it take to rotate?", "answer": "It rotates on its axis about once every four weeks as seen from earth However, it does not rotate as a solid body: the equator takes about 27 days and the polar regions take about 30 days for each rotation.", "marks": "2"},
+
+    
+    {"question": "What is the energy that is used for the generation of electricity?", "answer": "It can be considered the fuel for the electricity generation is the energy received from the sun in the form of radiation.", "marks": "2"},
+
+    
+    {"question": "What is the power density of solar radiation on the ground?", "answer": "The power density of solar radiation on the ground is smaller than that in space owing to atmospheric absorption.", "marks": "2"},
+
+    
+    {"question": "What is the important parameter for the incident power under clear conditions?", "answer": "The important parameter for the incident power under clear conditions is the length of light path through the atmosphere referred as Air Mass(AM).", "marks": "2"},
+
+    
+    {"question": "What is the shortest path through the atmosphere?", "answer": "The shortest path through the atmosphere for solar radiation to reach the Earth's surface is when the sun is directly overhead, and sunlight has the shortest path length.", "marks": "2"},
+
+    
+    {"question": "What is the total radiation at the earth surface?", "answer": "The total radiation at the earth surface is the sum of direct radiation and diffused radiation.", "marks": "2"},
+
+    
+    {"question": "How much sunlight is attenuated during its passage through the earths atmosphere?", "answer": "25 At least 30% of sunlight is attenuated during its passage through the earths atmosphere.", "marks": "2"},
+
+    
+    {"question": "What is Air Mass 1 or AM1?", "answer": "The condition when the sun is directly overhead, the distance through which the sun rays penetrate the atmosphere is shortest and is referred to as Air Mass 1 or AM1.", "marks": "2"},
+
+    
+    {"question": "What is the definition of irradiance?", "answer": "Irradiance Irradiance, I, is defined as the intensity of solar radiation per unit time on a unit surface area of the earth.", "marks": "2"},
+
+    
+    {"question": "What is the most important parameter for the solar constant?", "answer": "In most cases, the peak sun or the insolation is treated as a single parameter because they are interrelated by a constant coefficient.", "marks": "2"},
+
+    
+    {"question": "What causes the sun to scatter?", "answer": " Sun's radiation is scattered by molecules, aerosols, and dust particles in the Earth's atmosphere.", "marks": "2"},
+
+    
+    {"question": "What is the degree of attenuation?", "answer": "The degree of attenuation is highly variable.", "marks": "2"},
+
+    
+    {"question": "What is the value of the solar constant?", "answer": "The World Radiation Center (WRC) has adopted a value of 1367 W/m2 as the solar constant.", "marks": "2"},
+
+    
+    {"question": "What is the standard for photovoltaic standards?", "answer": "There are several international standards that are used to ensure the quality and safety of photovoltaic systems, such as the International Electrotechnical Commission (IEC) 61215 and 61730 standards for module design and safety, and the IEC 62446 standard for system installation and commissioning.", "marks": "2"},
+
+    
+    {"question": "What causes the attenuation of sunlight?", "answer": "The main causes of such attenuation are: Rayleigh scattering or scattering by molecules in the atmosphere.", "marks": "2"},
+
+    
+    {"question": "What is the average amount of radiation from the sun?", "answer": "Insolation is the total energy received from the sun in a day in a unit surface area on the earth.", "marks": "2"},
+
+    
+    {"question": "What is the unit of radiation taken from the sun?", "answer": "The unit is taken as W/m2.", "marks": "2"},
+
+    
+    {"question": "What is the solar constant?", "answer": "The solar constant is the energy from the sun per unit time, received on a unit area of surface perpendicular to the direction of propagation of the radiation at the earth's mean distance from the sun outside the atmosphere.", "marks": "2"},
+
+    
+    {"question": "What is the optimum angle of the sun?", "answer": "The optimal tilt angle of a PV array at any given time equals the latitude angle minus the declination angle, which changes throughout the year.", "marks": "2"},
+
+    
+    {"question": "How much is the axial tilt of the earth?", "answer": "The Earth's axial tilt is 23.34 degrees and remains constant in the same direction during the Earth's entire orbit around the sun.", "marks": "2"},
+
+    
+    {"question": "What is the declination angle of the sun?", "answer": "The declination angle of the sun is the angular position of the sun at its highest point in the sky with respect to the plane of the equator. It depends on the momentary position of the Earth in its revolution around the sun. The declination angle of the sun changes throughout the year and is caused by the Earth's axial tilt of 23.34 degrees, which remains constant and in the same direction during the Earth's entire orbit around the sun.", "marks": "2"},
+
+    
+    {"question": "When does the sun reach its most northern peak?", "answer": "In the northern hemisphere, the declination angle reaches its most northern and positive peak of 23.45 degrees on June 21st (the summer solstice)", "marks": "2"},
+
+    
+    {"question": "What is the angle at which the module is inclined?", "answer": "The angle at which the module is inclined is called tilt angle.", "marks": "2"},
+
+    
+    {"question": "What is the average of global irradiance on horizontal surface?", "answer": "The global irradiance on the horizontal plane of the Earth's surface for sunlight that passes through the Earth's atmosphere at 90 degrees (i.e., AM1) with clear skies is roughly 1 kW/m2.", "marks": "2"},
+
+    
+    {"question": "What is the difference between a pyranometer and a solar cell?", "answer": "A pyranometer is an instrument used to measure the global radiation (global irradiance G) on a level surface over the whole wavelength range between approximately 0.3 and 3mm.On the other hand, a solar cell is a device that converts solar radiation into electrical energy.", "marks": "2"},
+
+    
+    {"question": "What is the meaning of a pyranometer?", "answer": "A pyranometer is an instrument used to measure the global radiation (global irradiance G) on a level surface over the whole wavelength range between approximately 0.3 and 3mm. It is based on the thermoelectric principle and is a highly accurate but expensive instrument mainly used by weather services.", "marks": "2"},
+
+    
+    {"question": "What is the sum of direct and diffuse solar radiation?", "answer": "Global radiation is the sum of direct and diffuse solar radiation.", "marks": "2"},
+
+    
+    {"question": "What is the ws angle of the sun?", "answer": " ws is Sunset hour angle To obtain maximum solar radiation over the entire year in an area facing south(in northern hemisphere) tilt angle should be equal to the site latitude.", "marks": "2"},
+
+    
+    {"question": "What is the definition of a reference cell?", "answer": "Reference cell is a calibrated solar cell for measuring global radiation on a level surface.", "marks": "2"},
+
+    
+    {"question": "What is the effect of the Feron on the structure?", "answer": "The Feron expands and either pushes a piston of transfers oil to the other side which causes the structure to move to follow the sun.", "marks": "2"},
+
+    
+    {"question": "What is the difference between solar and terrestrial radiation?", "answer": "Solar radiation is emitted by the sun and has a nearly fixed intensity outside the earth's atmosphere, with a power density of about 1367 W/m2 at the earth's mean distance from the sun.On the other hand, terrestrial radiation refers to the radiation emitted by the earth's surface and atmosphere, which is a result of the absorption of solar radiation and the release of heat.", "marks": "2"},
+
+    
+    {"question": "What is the nature of solar tracking?", "answer": "This type tracking is generally automatic.", "marks": "2"},
+
+    
+    {"question": "How much is the global irradiance of the sun after traversing AM1.5?", "answer": "The global irradiance for solar radiation after traversing AM1.5 is still 835 W/m2.", "marks": "2"},
+
+    
+    {"question": "How high can G go on a bright day?", "answer": "On a bright day with scattered clouds G can go as high as 1.", "marks": "2"},
+
+    
+    {"question": "What is the principle of solar tracking?", "answer": "The principle of solar tracking is to orient a solar panel or array towards the sun to maximize the amount of solar radiation it receives. This is done by continuously adjusting the position of the panel or array to follow the apparent motion of the sun across the sky. Solar tracking can be done manually or automatically using motor-driven or solar-powered trackers.", "marks": "2"},
+
+    
+    {"question": "What is the history of solar thermal energy?", "answer": "When we trace the history of STE, we can find it was used from start of life for drying food and other things.", "marks": "2"},
+
+    
+    {"question": "What is the purpose of solar thermal energy?", "answer": "The basic purpose of solar thermal energy is to collect solar radiation and convert into useful solar energy.", "marks": "2"},
+
+    
+    {"question": "What is the difference between the meridian and the sun?", "answer": "The meridian is an imaginary line that runs from the north to the south pole and passes through the observer's location. It is the line of longitude that is perpendicular to the equator. The sun, on the other hand, is a star that emits radiation, including visible light, which is the primary source of solar energy on Earth.", "marks": "2"},
+
+    
+    {"question": "What is the difference between the local time and the angular motion of the sun?", "answer": "The local time is the time of day at a specific location on Earth, based on the position of the sun in the sky. The angular motion of the sun refers to the apparent motion of the sun across the sky, which is caused by the rotation of the Earth on its axis. The difference between local time and the angular motion of the sun is that local time is based on the position of the sun relative to the observer's location, while the angular motion of the sun is based on the position of the sun relative to the Earth's rotation.", "marks": "3"},
+
+    
+    {"question": "What is the difference between the solar time and the local time?", "answer": "Solar time is based on the apparent motion of the sun across the sky, with solar noon as the reference point. It is the time based upon the apparent angular motion of the sun across the sky, and it does not coincide with the local clock time.On the other hand, local time is the time of day at a specific location on Earth, based on the position of the sun in the sky. It is the time that is commonly used in everyday life and is based on the local clock time.", "marks": "3"},
+
+    
+    {"question": "What is the definition of a passive solar thermal system?", "answer": "A passive solar thermal system is a system that does not use a mechanical device to distribute solar heat. It is a simpler system that relies on natural processes such as convection and radiation to transfer heat. An example of a passive system for space heating is a sunspace or solar greenhouse on the south side of the house. Passive solar thermal systems can also be used for heating and lighting.", "marks": "2"},
+
+    
+    {"question": "What is the definition of a solar thermal collector?", "answer": "A solar thermal collector is a device designed to collect heat by absorbing sunlight. It is generally applied to solar hot water panels, but it can be a generic term to denote more complex installations such as solar parabolic reflectors, solar troughs, and solar towers or simpler installations such as solar air heaters. The collector is designed to transfer the heat it collects to a fluid, which can then be used for various purposes, such as space heating, water heating, or electricity generation.", "marks": "2"},
+
+    
+    {"question": "What are the main uses of passive solar thermal systems?", "answer": "Passive solar thermal systems can be used for various purposes, including solar home design for heating, lighting, and even cooking.", "marks": "2"},
+
+    
+    {"question": "What type of collector is used for solar thermal?", "answer": "There are different types of collectors used for solar thermal systems, including flat plate collectors and concentrating collectors. Flat plate collectors consist of a dark plate absorber, a transparent cover that allows sunlight to pass through, heat transport fluid (e.g., air, water) to remove heat from the absorber, and a heat-insulated backing to avoid heat loss. Concentrating collectors intercept direct radiation over a large area and focus it onto a small absorber area. Examples of concentrating collectors include parabolic trough systems and parabolic collectors.", "marks": "2"},
+
+    
+    {"question": "What is the most common type of solar thermal system?", "answer": "The most common type of solar thermal system is the flat plate collector. It consists of a dark plate absorber, a transparent cover that allows sunlight to pass through, heat transport fluid (e.g., air, water) to remove heat from the absorber, and a heat-insulated backing to avoid heat loss.", "marks": "2"},
+
+    
+    {"question": "What is the heat loss coefficient of a collector?", "answer": "The heat loss coefficient of a collector is a measure of how much heat is lost from the collector to the surrounding environment. It is represented by the symbol U and is expressed in units of watts per square meter per degree Celsius (W/m2°C).", "marks": "2"},
+
+    
+    {"question": "What is an example of a passive solar thermal system?", "answer": "An example of a passive system for space heating is a sunspace or solar greenhouse on the south side of the house.", "marks": "2"},
+
+    
+    {"question": "What is the most common type of concentrating collector?", "answer": "The most common type of concentrating collector is the parabolic trough system. These solar collectors use mirrored parabolic troughs to focus the sun’s energy to a fluid-carrying receiver tube located at the focal point of a parabolic curved trough reflector.", "marks": "2"},
+
+    
+    {"question": "What is the ideal concentrator shape?", "answer": "The ideal concentrator shape is parabolic, created either by a single reflective surface or multiple reflectors, or facets.", "marks": "2"},
+
+    
+    {"question": "What was the first SWH constructed in Nepal?", "answer": "In 1974 Balaju Yantra Shala(BYS) constructed its first SWH using a old electric heater tank and self made collector.", "marks": "2"},
+
+    
+    {"question": "What is the most common type of solar water heater in Nepal?", "answer": "In Nepal, the most common type of solar water heater is the thermosyphon solar water heater. This type of solar water heater uses the property of hot water to rise above cold water.", "marks": "2"},
+
+    
+    {"question": "What was the first public use of solar thermal system in Nepal?", "answer": "With some improvement BYS supplied to Buda Nilkantha Boarding school,which was the first public use of Solar thermal system in Nepal.", "marks": "2"},
+
+    
+    {"question": "What is the most common configuration of a solar water heater?", "answer": "The most common configurations of a solar water heater are the open loop and closed loop systems. In an open loop system, water runs through the solar panels and is stored in the storage tank to be used. In a closed loop system, the water that circulates through the solar panel is separate from the water used, and a heat exchanger is used to transfer the heat to the consumer's hot water supply.", "marks": "2"},
+
+    
+    {"question": "What is the most common use of solar thermal technology for domestic water heating at low temperature?", "answer": "Solar Water Heater(SWH) is the most common use of solar thermal technology for domestic water heating at low temperature (below 100?", "marks": "2"},
+
+    
+    {"question": "What is the most common form of solar water heater?", "answer": "In its simplest form it is a piece of black plastic pipe, filled with water, and laid in the sun.", "marks": "2"},
+
+    
+    {"question": "What is the most common use of solar thermal technology in Nepal?", "answer": "The most common use of solar thermal technology in Nepal is for solar water heating. Solar water heaters are widely used in Nepal, and the most common type is the thermosyphon solar water heater. This type of solar water heater uses the property of hot water to rise above cold water.", "marks": "2"},
+
+    
+    {"question": "How long does the cycle last?", "answer": "This cycle will continue until the temperature of the water in the tank is equal to that of the panel.", "marks": "2"},
+
+    
+    {"question": "Where was the first SWH installed?", "answer": "In Nepal, a SWH was installed which was locally made at Department of Mines and Geology.", "marks": "2"},
+
+    
+    {"question": "When was the first prototype SWH manufactured?", "answer": "Other report points out that the first prototype SWH was manufactured in 1968 by late Rev.", "marks": "2"},
+
+    
+    {"question": "What is the most common type of solar dryer?", "answer": "The most common type of solar dryer is the open sun dryer. It is a simple and low-cost technology that uses natural convection to dry agricultural products. The open sun dryer consists of a flat bed made of a material that absorbs solar radiation, such as black polyethylene or metal, and a transparent cover that allows sunlight to pass through.", "marks": "2"},
+
+    
+    {"question": "What is the typical design of an ETC?", "answer": "Typically, the water piping in an ETC is surrounded by two concentric tubes of glass with a vacuum in between that admits heat from the sun (to heat the pipe) but which limits heat loss back to the environment.", "marks": "2"},
+
+    
+    {"question": "What is the main difference between a solar dryer and an open loop system?", "answer": "TA solar dryer and an open loop system are two different technologies used in solar thermal applications. A solar dryer is a device used to dry agricultural products using solar energy. It consists of a flat bed made of a material that absorbs solar radiation, such as black polyethylene or metal, and a transparent cover that allows sunlight to pass through. The agricultural products are spread out on the bed and exposed to the sun's heat, which causes the moisture in the products to evaporate. On the other hand, an open loop system is a type of solar water heating system where water runs through the solar panels and is stored in the storage tank to be used. The water used in the system is the same as the water that runs through the solar panels. Therefore, the main difference between a solar dryer and an open loop system is that a solar dryer is used for drying agricultural products, while an open loop system is used for solar water heating.", "marks": "4"},
+
+    
+    {"question": "How long does the life of the vacuum vary?", "answer": "Life of the vacuum varies from collector to collector, anywhere from 5 years to 15 years.", "marks": "2"},
+
+    
+    {"question": "What is the purpose of a one-way valve?", "answer": "A one-way valve is usually fitted in the system to prevent the reverse occurring at night when the temperature drops.", "marks": "2"},
+
+    
+    {"question": "What is the main purpose of a solar dryer?", "answer": "The main purpose of a solar dryer is to dry food and other materials using solar energy. Solar dryers take advantage of the sun's heat to evaporate moisture from the materials being dried.", "marks": "2"},
+
+    
+    {"question": "What are the main characteristics of a solar dryer?", "answer": "The main characteristic of a solar dryer is that it uses solar energy to dry food and other materials.", "marks": "2"},
+
+    
+    {"question": "How much food is produced in a solar dryer?", "answer": "The amount of food that can be produced in a solar dryer depends on the size and capacity of the dryer. Solar dryers are designed to dry food and other materials using solar energy, which is an environmentally friendly and cost-effective way to dry food.", "marks": "2"},
+
+    
+    {"question": "How many tons of food were lost in 1976?", "answer": "A estimate showed that a minimum of 107 million tons of food were lost in 1976 out of 750 million tones produced including durable and perishables.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of solar thermal power?", "answer": "TThe advantages of solar thermal power are: 1. Renewable: Solar thermal power is a renewable source of energy, which means it is sustainable and can be used indefinitely. 2. Environmentally friendly: Solar thermal power does not produce any greenhouse gases or other harmful emissions, making it a clean and environmentally friendly source of energy. 3. Cost-effective: Once installed, solar thermal power plants have low operating costs, as they do not require fuel and have minimal maintenance requirements. 4. Energy security: Solar thermal power reduces dependence on fossil fuels, which are finite and subject to price fluctuations and supply disruptions. 5. Scalable: Solar thermal power plants can be built in a range of sizes, from small-scale systems for individual homes to large-scale power plants that can supply electricity to entire cities. 6. Versatile: Solar thermal power can be used for a variety of applications, including electricity generation, water heating, and space heating.", "marks": "6"},
+
+    
+    {"question": "What are the advantages of solar drier?", "answer": "The advantages of solar driers are: 1. Reduction of losses. 2. Avoidance of biological and biochemical processes during storage. 3. Prevention of germination and growth of fungi and bacteria. 4. Conservation of nutritional value and taste. 5. Extension of life. Controlled drying also contributes to product quality, storage capability, hygiene improvement, and reduction of wastage.", "marks": "4"},
+
+    
+    {"question": "What is the best way to dry food?", "answer": "The best way to dry food is through controlled drying using a solar dryer. Controlled drying allows for control of temperature and humidity, which contributes to product quality, storage capability, hygiene improvement, and reduction of wastage.", "marks": "2"},
+
+    
+    {"question": "What is the difference between a solar oven and a solar cooker?", "answer": "A solar oven is a box with a glass cover that is lined with insulation and a reflective surface is applied to concentrate the heat onto the pots. The other approach is to reflect the sun's rays onto a pot, often with a parabolic dish. The pots can be painted black to help with heat absorption. On the other hand, a solar cooker is a device that uses solar thermal power for cooking.", "marks": "3"},
+
+    
+    {"question": "What is the main difference between solar oven and direct solar concentrator?", "answer": "A solar oven is a box with a glass cover that is lined with insulation and a reflective surface is applied to concentrate the heat onto the pots. The box is designed to trap the heat and cook food using solar energy. On the other hand, a direct solar concentrator is a device that uses mirrors or lenses to concentrate solar energy onto a small area, where the food is placed for cooking.", "marks": "3"},
+
+    
+    {"question": "What is the best way to dry a pot?", "answer": "The best way to dry a pot is to use a clean, dry cloth or towel to wipe it dry. Make sure to remove any excess water or moisture from the pot before storing it to prevent rust or other damage. If the pot has any hard-to-reach areas or crevices, you can use a clean, dry brush to remove any remaining moisture. It is not recommended to air dry pots as it can lead to water spots or streaks on the surface.", "marks": "3"},
+
+    
+    {"question": "What are the advantages of controlled drying?", "answer": "The advantages of controlled drying are control of temperature and humidity for drying which contributes to product quality, storage capability, hygiene improvement and reduction of wastage.", "marks": "2"},
+
+    
+     {"question": "What is the main purpose of solar thermal power plants?", "answer": "The main purpose of solar thermal power plants is to generate mechanical and electrical energy from solar energy by processes based mainly on concentrating collectors and heat engines.", "marks": "2"},
+
+    
+    {"question": "What is the difference between direct and indirect solar drying?", "answer": "Direct solar drying is a type of solar drying where the product is directly exposed to the sun's rays. The product is placed on a flat surface or hung on a line in direct sunlight to dry.Indirect solar drying, on the other hand, is a type of solar drying where the product is not directly exposed to the sun's rays. The product is placed in a covered area or a solar dryer where the sun's rays are used to heat the air, which is then circulated around the product to dry it.", "marks": "3"},
+
+    
+    {"question": "What is the principle of drying?", "answer": "Drying is governed by the principle that for given place, for given amount of absolute humidity, relative humidity increases with decrease in temperature and vice-versa.", "marks": "2"},
+
+    
+    {"question": "What is the main purpose of solar cookers?", "answer": "Solar Cooker Solar cookers are used for cooking by Solar thermal power.", "marks": "2"},
+
+    
+    {"question": "What is the direct mode of solar concentrator?", "answer": "In the direct mode, the solar concentrator focuses the sun's rays directly onto the cooking pot or food. This is typically done using a parabolic dish or a Fresnel lens. The concentrated solar energy heats up the pot or food, which cooks the food. Direct solar concentrators are typically used for high-temperature cooking, such as frying or baking.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of solar concentrators?", "answer": "The advantages of solar concentrators are: 1. High efficiency: Solar concentrators can achieve high temperatures and high energy conversion efficiency due to their ability to focus the sun's rays onto a small area. 2. Reduced land use: Solar concentrators require less land area compared to other solar technologies, such as photovoltaic panels. 3. Reduced water use: Solar concentrators can be designed to use dry cooling systems, which reduces water consumption. 4. Reduced greenhouse gas emissions: Solar concentrators generate electricity without emitting greenhouse gases, which helps to reduce the carbon footprint. 5. Long lifespan: Solar concentrators have a long lifespan and require minimal maintenance, which makes them a cost-effective and reliable source of energy. 6. Versatility: Solar concentrators can be used for a variety of applications, including electricity generation, water heating, and space heating. Overall, solar concentrators offer a sustainable and renewable source of energy that can reduce dependence on fossil fuels and help to mitigate climate change.", "marks": "6"},
+
+    
+    {"question": "What is the other approach to solar drying?", "answer": "TThe other approach to solar drying is controlled drying, which involves using a solar dryer to dry the product. Controlled drying allows for control of temperature and humidity, which contributes to product quality, storage capability, hygiene improvement, and reduction of wastage.", "marks": "2"},
+
+    
+    {"question": "What is the difference between a series and parallel solar cell?", "answer": "The main difference between a series and parallel solar cell connection is the way the solar cells are connected to each other in a solar panel. In a series connection, the solar cells are connected end-to-end, positive to negative, to form a string. The voltage of each solar cell is added together, resulting in a higher total voltage output. The current output remains the same as that of a single solar cell. Series connections are used to increase the voltage of a solar panel, which is important for charging batteries or powering devices that require a higher voltage. In a parallel connection, the solar cells are connected positive to positive and negative to negative. The current of each solar cell is added together, resulting in a higher total current output. The voltage output remains the same as that of a single solar cell. Parallel connections are used to increase the current output of a solar panel, which is important for powering devices that require a higher current. In summary, a series connection increases the voltage output of a solar panel, while a parallel connection increases the current output.", "marks": "6"},
+
+    
+    {"question": "How many valence electrons in silicon?", "answer": "Silicon has four valence electrons in its outermost shell.", "marks": "2"},
+
+    
+    {"question": "How can we increase the conductivity of silicon?", "answer": "Its conductivity can be substantially increased by adding suitable external atoms in a process known as semiconductor doping.", "marks": "2"},
+
+    
+    {"question": "How many electrons are in a silicon crystal?", "answer": "In a silicon crystal, eight electrons are arrayed around each silicon atom, which means that the desired electron configuration has been attained.", "marks": "2"},
+
+    
+    {"question": "How does the electric field in a silicon cell work?", "answer": "The electric field in a silicon solar cell is created by the junction between p-type and n-type semiconductors, and it separates the electrons and holes that are generated when light is absorbed by the semiconductor, creating a flow of electrons that can be harnessed as electrical energy.", "marks": "2"},
+
+    
+    {"question": "When does the solar cell reach its open circuit voltage?", "answer": "The solar cell reaches its open-circuit voltage when the space charge (and thus the electric field strength in the barrier layer) is reduced until it is no longer strong enough to separate electron-hole pairs. At this point, the solar cell has reached its maximum voltage output, which is the open-circuit voltage.", "marks": "2"},
+
+    
+    {"question": "What is doping?", "answer": "Doping is a process involving targeted semiconductor contamination that is carried out in a controlled manner.", "marks": "2"},
+
+    
+    {"question": "What is a solar cell?", "answer": "Solar Cell is basically a large diode with a barrier layer that is exposed to light.", "marks": "2"},
+
+    
+    {"question": "What is the difference between monocrystalline and bulk crystalline silicon?", "answer": "The main difference between monocrystalline and bulk crystalline silicon is their crystal structure, which affects their electrical conductivity and efficiency in solar cells. Monocrystalline silicon has a single, continuous crystal lattice structure, resulting in high efficiency and uniform appearance, while bulk crystalline silicon contains many small crystals, resulting in lower efficiency and non-uniform appearance.", "marks": "2"},
+
+    
+    {"question": "What is the most common form of silicon used in solar cells?", "answer": "The most common form of silicon used in solar cells is monocrystalline silicon.", "marks": "2"},
+
+    
+    {"question": "What is the most common type of solar cell?", "answer": "The most common type of solar cell is the crystalline silicon solar cell.", "marks": "2"},
+
+    
+    {"question": "What is the composition of monocrystalline silicon?", "answer": "It consists of silicon in which the crystal lattice of the entire solid is continuous, unbroken to its edges, and free of any grain boundaries.", "marks": "2"},
+
+    
+    {"question": "What is the difference between monocrystalline and polycrystalline silicon?", "answer": "the main difference between monocrystalline and polycrystalline silicon is their crystal structure, which affects their electrical conductivity and efficiency in solar cells. Monocrystalline silicon has a single, continuous crystal lattice structure, resulting in high efficiency and uniform appearance, while polycrystalline silicon contains many small crystals, resulting in lower efficiency and non-uniform appearance.", "marks": "2"},
+
+    
+    {"question": "How many percent of monocrystalline silicon are used in solar cells?", "answer": "Monocrystalline silicon is used in the manufacturing of high-performance solar cells, and lab efficiencies of 25.0 percent for mono-Si cells are the highest in the commercial PV market.", "marks": "2"},
+
+    
+    {"question": "What is the structure of a solar cell?", "answer": "The structure of a solar cell consists of a p-n junction between two semiconducting materials, usually silicon, with several layers including an anti-reflective coating, p-type silicon, n-type silicon, and a metal contact.", "marks": "2"},
+
+    
+    {"question": "What is the most well-developed thin film technology to date?", "answer": "The most well-developed thin film technology to date is amorphous silicon (a-Si).", "marks": "2"},
+
+    
+    {"question": "What are the advantages of monocrystalline silicon?", "answer": "The advantages of monocrystalline silicon include high efficiency, uniform appearance, durability, high purity, low temperature coefficient, and space efficiency.", "marks": "2"},
+
+    
+    {"question": "What is the function of the turbine?", "answer": "The turbine converts the kinetic energy of falling water into mechanical energy.", "marks": "2"},
+
+    
+    {"question": "What is the power potential of a hydropower plant in Nepal?", "answer": "The power potential of a hydropower plant in Nepal depends on its capacity and available head. The capacity of hydropower plants in Nepal ranges from Pico Hydro (up to 5 kW) to Large Hydro (above 50,000 kW).", "marks": "2"},
+
+    
+    {"question": "What is the power potential of a hydro turbine in Nepal?", "answer": "The power potential of a hydro turbine in Nepal depends on various factors such as the weight density of water, level difference between intake and tailwater, and water flow rate at intake. The formula for calculating the power potential of a hydropower plant in Nepal is P = gρHQ/1000, where P is the power potential in kW, gρ is the weight density of water (9810 Nm-2), Hg is the level difference between intake and tailwater (m), and Qs is the water flow rate at intake (m3.s-1).", "marks": "2"},
+
+    
+    {"question": "What is the power output of a hydro turbine in Nepal?", "answer": "Power output depends upon season as there is no storage of water in reservoir.", "marks": "2"},
+
+    
+    {"question": "What is a hydraulic turbine?", "answer": "A hydraulic turbine is a roto-dynamic fluid machine, which converts hydraulic energy into mechanical energy.", "marks": "2"},
+
+    
+    {"question": "What type of hydropower is there in Nepal?", "answer": "There are six types of hydropower plants in Nepal based on their capacity: Pico Hydro (up to 5 kW), Micro Hydro (up to 100 kW), Mini Hydro (> 100 kW to 1000 kW), Small Hydro (> 1000 kW to 10000 kW), Medium Hydro (> 10000 kW to 50000 kW), and Large Hydro (> 50000 kW). In terms of available head, the text mentions three types of hydropower plants in Nepal: Ultra Low Head (below 3m), Low Head (above 3m and up to 40m), and High Head (above 40m). The text also mentions three types of hydropower plants based on water usage: Run off River Type, Reservoir/Pondage Type, and Pump storage type.", "marks": "3"},
+
+    
+    {"question": "What is the difference between the Impulse and Reaction Turbine?", "answer": "The main difference between these two types of turbines is the way they convert the energy of falling water into mechanical energy. In an impulse turbine, the pressure energy of water is completely converted into kinetic energy before hitting the turbine runner. The water jet strikes the runner bucket at high speed, causing the runner to rotate. There is no pressure difference between the inlet and outlet of the turbine runner. In a reaction turbine, there is a pressure difference between the inlet and outlet of the turbine runner. The pressure energy of water is partially converted into kinetic energy at the inlet of the runner, and the remaining pressure energy is converted into kinetic energy at the outlet of the runner. The energy transformation occurs due to the reaction effect of pressure differences. Impulse turbines are suitable for high head applications, while reaction turbines are suitable for low head applications. Impulse turbines have a higher specific speed than reaction turbines, but they have a lower part flow efficiency. Reaction turbines have a higher part flow efficiency, but they are more expensive to fabricate than impulse turbines.", "marks": "4"},
+
+    
+    {"question": "What is the difference between a pelton and a reaction turbine?", "answer": "The main difference between these two types of turbines is the way they convert the energy of falling water into mechanical energy. Pelton turbine is an impulse turbine that uses one or more high-speed water jets to strike the buckets of the turbine runner. The water jet is directed by a nozzle and strikes the buckets at an angle, causing the runner to rotate. There is no pressure difference between the inlet and outlet of the turbine runner. Reaction turbine is a type of hydraulic turbine that uses the reaction force of water to rotate the turbine runner. The pressure energy of water is partially converted into kinetic energy at the inlet of the runner, and the remaining pressure energy is converted into kinetic energy at the outlet of the runner. The energy transformation occurs due to the reaction effect of pressure differences. Pelton turbines are suitable for high head applications, while reaction turbines are suitable for low head applications. Pelton turbines have a higher specific speed than reaction turbines, but they have a lower part flow efficiency. Reaction turbines have a higher part flow efficiency, but they are more expensive to fabricate than Pelton turbines.", "marks": "4"},
+
+    
+    {"question": "What is the difference between a pelton tubine and a francis turbine?", "answer": "The main differences between these two types of turbines are: 1. Working principle: Pelton turbine is an impulse turbine that uses one or more high-speed water jets to strike the buckets of the turbine runner, while Francis turbine is a reaction turbine that uses the reaction force of water to rotate the turbine runner. 2. Head range: Pelton turbines are suitable for high head applications, while Francis turbines are suitable for medium to low head applications. 3. Runner design: The runner of a Pelton turbine has a disc shape with one or more buckets, while the runner of a Francis turbine has a cylindrical shape with curved blades. 4. Number of blades: The number of blades in a Pelton turbine is typically lower than that in a Francis turbine. 5. Efficiency: Pelton turbines have a higher efficiency than Francis turbines at high heads, while Francis turbines have a higher efficiency than Pelton turbines at low heads. 6. Cost: Pelton turbines are generally more expensive to fabricate than Francis turbines due to their complex shape and the need for high precision manufacturing.", "marks": "6"},
+
+    
+    {"question": "What is the difference between a propellor and a pelton?", "answer": "he main differences between these two types of turbines are: 1. Working principle: Pelton turbine is an impulse turbine that uses one or more high-speed water jets to strike the buckets of the turbine runner, while propeller turbine is a reaction turbine that uses the reaction force of water to rotate the turbine runner. 2. Head range: Pelton turbines are suitable for high head applications, while propeller turbines are suitable for low head applications. 3. Runner design: The runner of a Pelton turbine has a disc shape with one or more buckets, while the runner of a propeller turbine has a cylindrical shape with curved blades. 4. Number of blades: The number of blades in a Pelton turbine is typically lower than that in a propeller turbine. 5. Rotational speed: Propeller turbines have a higher rotational speed than Pelton turbines. 6. Efficiency: Pelton turbines have a higher efficiency than propeller turbines at high heads, while propeller turbines have a higher efficiency than Pelton turbines at low heads. 7. Cost: Pelton turbines are generally more expensive to fabricate than propeller turbines due to their complex shape and the need for high precision manufacturing.", "marks": "6"},
+
+    
+    {"question": "What is the difference between a pelton tubine and a kaplan turbine?", "answer": "The main differences between these two types of turbines are: 1. Working principle: Pelton turbine is an impulse turbine that uses one or more high-speed water jets to strike the buckets of the turbine runner, while Kaplan turbine is a reaction turbine that uses the reaction force of water to rotate the turbine runner. Kaplan turbine is an axial-flow turbine with adjustable blades. 2. Head range: Pelton turbines are suitable for high head applications, while Kaplan turbines are suitable for low head applications. 3. Runner design: The runner of a Pelton turbine has a disc shape with one or more buckets, while the runner of a Kaplan turbine has a propeller-like shape with adjustable blades. 4. Number of blades: The number of blades in a Pelton turbine is typically lower than that in a Kaplan turbine. 5. Efficiency: Kaplan turbines have a higher efficiency than Pelton turbines at low heads, while Pelton turbines have a higher efficiency than Kaplan turbines at high heads. 6. Cost: Kaplan turbines are generally less expensive to fabricate than Pelton turbines due to their simpler design.", "marks": "6"},
+
+    
+    {"question": "What is the difference between a runner and a pelton bucket?", "answer": "A runner is a rotating component of a hydraulic turbine that converts the energy of falling water into mechanical energy. It consists of a disc or cylinder with blades or buckets mounted on it. The water flows through the runner, causing it to rotate and drive the generator. A Pelton bucket is a type of bucket used in a Pelton turbine, which is an impulse turbine. The Pelton bucket is a curved, spoon-shaped bucket that is mounted on the runner of the turbine. The water jet strikes the Pelton bucket at an angle, causing the bucket to rotate and drive the runner. The Pelton bucket is designed to efficiently convert the kinetic energy of the water jet into mechanical energy.", "marks": "4"},
+
+    
+    {"question": "What are the disadvantages of a runner?", "answer": "Some disadvantages or negative aspects are the fabrications of runner and vanes are difficult because of their complex shape also vanes are more fragile than pelton buckets.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of a runner?", "answer": "The main advantages are low cost, small contact and small number of blades thus less friction.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of a runner?", "answer": "They have higher specific speed and the discharged liquid do not interfere with incoming fluid.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of a Kaplan turbine?", "answer": "The main advantages of a Kaplan turbine are: 1. Good efficiency for high flow and low head: Kaplan turbines are designed to operate efficiently at low heads and high flow rates, making them suitable for many hydropower applications. 2. Adjustable blades: The blades of a Kaplan turbine are adjustable, which allows for greater control over the flow of water and the power output of the turbine. This makes Kaplan turbines more versatile than other types of turbines. 3. Compact size: Kaplan turbines are generally more compact than other types of turbines for the same power output, which makes them easier to install and maintain. 4. Good part load efficiency: Kaplan turbines have good part load efficiency, which means they can operate efficiently even when the flow of water is reduced. 5. Low frictional loss: Kaplan turbines have a small number of blades, which reduces frictional loss and increases efficiency.", "marks": "6"},
+
+    
+    {"question": "What are the disadvantages of Kaplan Turbine?", "answer": "Disadvantages are large loading on blades due to few number of blades, not suitable for high head and low flow, and they can be expensive to design, manufacture, and install.", "marks": "2"},
+
+    
+    {"question": "What are the main components of a micro hydropower plant?", "answer": "The main components of a micro hydropower plant are: Intake, Penstock, Turbine, Generator, Control system, Powerhouse, Transmission lines, Switchgear and Transformer", "marks": "2"},
+
+    
+    {"question": "Where were the earliest known windmills?", "answer": "The earliest known windmills were in Persia (Iran).", "marks": "2"},
+
+    
+    {"question": "What is the most common method of wind energy measurement?", "answer": "The measurement of wind speeds is usually done using cup anemometer which has vertical axis and three cups which capture the wind and rotates.", "marks": "2"},
+
+    
+    {"question": "When was the first wind energy generator installed?", "answer": "The first wind energy generator of 20KW capacity(10KW each) was installed in mountainous area of Nepal(Kagbeni) in 1989 as demonstration project.", "marks": "2"},
+
+    
+    {"question": "Why does the wind speed increase with altitude?", "answer": "Wind speed increases with altitude due to the decrease in surface roughness and the decrease in frictional drag as the distance from the ground increases. This allows the wind to flow more freely and at higher speeds at higher altitudes.", "marks": "2"},
+
+    
+    {"question": "Why is wind energy called a renewable energy source?", "answer": "Wind is called a renewable energy source because the wind will blow as long as the sun shines.", "marks": "2"},
+
+    
+    {"question": "What is a wind turbine?", "answer": "A wind turbine is a rotating machine which converts the kinetic energy in wind into mechanical energy.", "marks": "2"},
+
+    
+    {"question": "What are the main components of wind turbine?", "answer": "The main components of a wind turbine are:Rotor blades, Hub, Low-speed shaft, Gearbox, Generator, High-speed shaft, Brakes, Yaw drive mechanism, Nacelle, Tower and Control system.", "marks": "2"},
+
+    
+    {"question": "What is the main purpose of wind turbine control systems?", "answer": "The main purpose of wind turbine control systems is to manage the safe, automatic, continuous operation of the turbine.", "marks": "2"},
+
+    
+    {"question": "what is the yaw drive mechanism?", "answer": "The yaw drive mechanism is a component of a wind turbine that rotates the nacelle and rotor blades to face the wind direction. The yaw drive mechanism is operated by the electronic controller, which senses the wind direction using a wind vane.", "marks": "2"},
+
+    
+    {"question": "What is the power coefficient of the wind turbine?", "answer": "Cp = power coefficient, percentage of power in the wind that is converted into mechanical energy.", "marks": "2"},
+
+    
+    {"question": "What is the cooling unit for wind turbine?", "answer": "Cooling Unit: Cooling needed for generator may be air or liquid cooled.", "marks": "2"},
+
+    
+    {"question": "What is the difference between a substation and a transmission system?", "answer": "A substation is a part of the electrical power system that is used to transform the voltage of electricity from high to low or vice versa. It is a facility that contains transformers, switches, and other equipment that is used to control and distribute electrical power.On the other hand, the transmission system is the part of the electrical power system that is used to transport electricity from the power plants to the substations. It consists of high-voltage power lines, transformers, and other equipment that is used to transmit electrical power over long distances.The main difference between a substation and a transmission system is that a substation is used to transform the voltage of electricity, while the transmission system is used to transport electricity over long distances.", "marks": "4"},
+
+    
+    {"question": "What is the role of the supervisory controller?", "answer": "The supervisory controller switches between turbine operating states(power production, low wind shutdown, etc.", "marks": "2"},
+
+    
+    {"question": "What is the power collection system for a wind turbine?", "answer": "The power collection system for a wind turbine is the component that collects the electrical energy generated by the generator and sends it to the grid or to a local load. The power collection system typically includes a transformer, switchgear, and transmission lines.", "marks": "2"},
+
+    
+    {"question": "What is the best wind farm location?", "answer": "An ideal location would have a near constant flow of non-turbulent wind throughout the year, with a minimum likelihood of sudden powerful bursts of wind.", "marks": "2"},
+
+    
+    {"question": "What is the purpose of a dynamic controller?", "answer": "The purpose of a dynamic controller in wind turbine control systems is to manage the safe, automatic, continuous operation of various turbine subsystems in each turbine.", "marks": "2"},
+
+    
+    {"question": "What is the role of a dynamic controller?", "answer": "The dynamic controller is necessary to ensure consistent dynamic response and improved product quality while minimizing turbine loads.", "marks": "2"},
+
+    
+    {"question": "How much wind speed does an economic wind farm require?", "answer": "As a general rule, economic wind generators require wind speed of 16 km/h (10 mph) or greater to construct wind farm.", "marks": "2"},
+
+    
+    {"question": "What is a wind farm?", "answer": "A wind farm or wind park is a group of wind turbines in the same location used to produce electricity.", "marks": "2"},
+
+    
+    {"question": "What is the role of the supervisory controller?", "answer":"The role of the supervisory controller in wind turbine control systems is to manage the safe, automatic, continuous operation of each individual turbine. This controller is responsible for monitoring the turbine's performance, detecting any faults or malfunctions, and taking corrective actions as necessary. It also communicates with the wind farm controller to coordinate the operation of multiple turbines in the wind farm. The supervisory controller is an essential component of the hierarchical control system used in wind turbines.", "marks": "2"},
+ 
+    
+    {"question": "How many MW of power was generated by the Gansu Wind Farm in China in 2012?", "answer": "The largest wind farm in the world, Gansu Wind Farm in China has a capacity of over 6,000 MW of power in 2012.", "marks": "2"},
+
+    
+    {"question": "How many MW of wind power is at the Alta Wind Energy Center in California?", "answer": "The Alta Wind Energy Center in California, United States is the largest onshore wind farm outside of China, with a capacity of 1,020 MW.", "marks": "2"},
+
+    
+    {"question": "What is the difference between dynamic controllers and turbine actuators?", "answer": "dynamic controllers are responsible for managing the safe, automatic, continuous operation of various turbine subsystems in each turbine. These separate controllers operate hierarchically with interlocking control loops. The dynamic controller is necessary to ensure consistent dynamic response and improved product quality while minimizing turbine loads. On the other hand, turbine actuators are devices that convert electrical signals from the control system into mechanical motion to control the operation of various turbine subsystems, such as the pitch angle of the blades or the position of the yaw drive mechanism. In other words, turbine actuators are the physical components that carry out the commands of the dynamic controller.", "marks": "4"},
+
+    
+    {"question": "Where are the largest operational onshore wind farms located?", "answer": "Many of the largest operational onshore wind farms are located in China and the United States.", "marks": "2"},
+
+    
+    {"question": "What are the main functions of a turbine controller?", "answer": "The main functions of turbine controllers are to ensure safe and efficient operation of the turbine, maximize energy capture from the wind, and minimize turbine loads.", "marks": "2"},
+
+    
+    {"question": "What is the definition of a large wind farm?", "answer": "A large wind farm may consist of several hundred individual wind turbines and cover an extended area of hundreds of square miles, but the land between the turbines may be used for agricultural or other purposes.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of wind Energy?", "answer": "The advantages of wind turbines are: 1. The wind is free and can be captured efficiently with modern technology. 2. Once the wind turbine is built, the energy it produces does not cause greenhouse gases or other pollutants. 3. Wind turbines take up only a small plot of land, leaving the land below available for other uses. 4. Wind farms can be an interesting feature of the landscape. 5. Remote areas that are not connected to the electricity power grid can use wind turbines to produce their own supply. 6. Wind turbines are available in a range of sizes, which means a vast range of people and businesses can use them. Single households to small towns and villages can make good use of the range of wind turbines available today.", "marks": "4"},
+
+    
+    {"question": "What are the disadvantages of wind energy?", "answer": "The disadvantages of wind turbines are: 1. The strength of the wind is not constant and it varies from zero to storm force. This means that wind turbines do not produce the same amount of electricity all the time. There will be times when they produce no electricity at all. 2. Many people feel that the countryside should be left untouched, without these large structures being built. The landscape should be left in its natural form for everyone to enjoy. 3. Wind turbines are noisy. Each one can generate the same level of noise as a family car travelling at 70 mph. 4. Birds and bats are affected if wind farm or turbine are constructed on their way. 5. When wind turbines are being manufactured some pollution is produced. Therefore wind power does produce some pollution. 6. Large wind farms are needed to provide entire communities with enough electricity.", "marks": "4"},
+
+    
+    {"question": "How many plots of land can be used for wind turbines?", "answer": "Although wind turbines can be very tall each takes up only a small plot of land.", "marks": "2"},
+
+    
+    {"question": "What is the effect of wind turbines on the environment?", "answer": "When wind turbines are being manufactured some pollution is produced.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of wind farms?", "answer": "Large wind farms are needed to provide entire communities with enough electricity.", "marks": "2"},
+
+    
+    {"question": "What is the strength of the wind?", "answer": "The strength of the wind is not constant and it varies from zero to storm force.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of wind turbines?", "answer": "Wind turbines can be installed in remote areas, providing electricity to off-grid communities.Wind turbines have a relatively small land footprint compared to other forms of energy generation.Wind turbines can be installed in a variety of sizes, from small turbines for individual homes to large wind farms for utility-scale electricity generation.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of wind turbines?", "answer": "Remote areas that are not connected to the electricity power grid can use wind turbines to produce their own supply.", "marks": "2"},
+
+    
+    {"question": "What is the main advantage of geothermal energy?", "answer": "The main advantages of geothermal energy are: 1. Geothermal energy is renewable, meaning that as long as we don’t pump too much cold water into the earth, the energy will just keep on coming. 2. Geothermal energy doesn’t produce pollution, and at the same time, it doesn’t contribute to the greenhouse effect. 3. The power stations for geothermal energy don’t take up a whole bunch of room, and because of this, they tend to have less of an impact on the surrounding environment. 4. Because geothermal energy is energy in and of itself, no outside sources of fuel are needed to keep the power houses running. 5. Geothermal efficiency offers an even more exciting benefit to the frugal homeowner - once you’ve built the geothermal power station, the energy is nearly, well, free! While it may require a little energy to actually run the pump, you can tap into the energy that is already being produced to handle this task. 6. Geothermal power plants provide steady state and predictable baseload power.", "marks": "4"},
+
+    
+    {"question": "What is the difference between geothermal and conventional systems?", "answer": "Geothermal heat pump systems as an alternative to conventional heating and cooling systems. The main difference between geothermal and conventional systems is that geothermal systems use the earth as a heat source or heat sink, while conventional systems use the outside air. Geothermal systems are more efficient because the temperature of the earth is more stable than the temperature of the air, especially in extreme weather conditions. Additionally, geothermal systems do not require a separate furnace or air conditioner, as they can provide both heating and cooling. However, geothermal systems have higher setup costs than conventional systems, although the difference is usually returned in energy savings over time.", "marks": "4"},
+
+    
+    {"question": "What is the most common type of geothermal plant?", "answer": "Flashed steam plants are the most common type of geothermal plant.", "marks": "2"},
+
+    
+    {"question": "What are the advantages of geothermal heat pumps?", "answer": "Geothermal heat pumps or ground source heat pumps (GSHP) are used as a central heating and/or cooling system that transfers heat to or from the ground. They use the earth as a heat source in the winter or a heat sink in the summer.Geothermal heat pumps are more efficient than conventional heating and cooling systems, and their setup costs are higher, but the difference is usually returned in energy savings in 3 to 10 years, and even shorter lengths of time with federal, state, and utility tax credits and incentives.", "marks": "3"},
+
+    
+    {"question": "What is the average working life of a geothermal heat pump?", "answer": "Geothermal heat pump systems are reasonably warranted by manufacturers, and their working life is estimated at 25 years for inside components and 50+ years for the ground loop.", "marks": "2"},
+
+    
+    {"question": "What are the three power plant technologies used to produce electricity?", "answer": "Three power plant technologies being used to convert hydrothermal fluids to produce electricity: dry steam plants, flashed steam plants, and binary cycle plants.", "marks": "2"},
+
+    
+    {"question": "What is a geothermal heat pump?", "answer": "A geothermal heat pump or ground source heat pump (GSHP) is a central heating and/or cooling system that transfers heat to or from the ground.", "marks": "2"},
+
+    
+    {"question": "What is the most common application of geothermal energy?", "answer": "The most common application of geothermal energy is for heating and cooling buildings. This is done through the use of geothermal heat pumps, which extract heat from the Earth and transfer it to buildings for heating in the winter. In the summer, the process is reversed, and the heat pumps extract heat from the buildings and transfer it to the Earth for cooling.", "marks": "2"},
+
+    
+    {"question": "What is the most important aspect of geothermal energy?", "answer": "The most important aspect of geothermal energy is that it is a renewable and sustainable source of energy that can provide reliable and clean electricity and heat. Unlike fossil fuels, which are finite and contribute to greenhouse gas emissions, geothermal energy is derived from the natural heat of the earth and has the potential to provide energy for millions of years.", "marks": "2"},
+
+    
+    
+    {"question": "How much success rate is geothermal energy in Nepal?", "answer": "The success rate for discovering geothermal resources in new, untapped areas is approximately 20%.", "marks": "2"}
+ 
+]

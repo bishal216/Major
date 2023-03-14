@@ -1,0 +1,274 @@
+Chapter 4 Decision Support and Intelligent System
+4.1 Decision Support System
+• Decision support system (DSS) is a computer based information system that supports organizational decision making activities.
+• A decision support system (DSS) is a computer program application that analyzes business data and presents it so that users can make business decisions more easily.
+• It helps to make decisions about unstructured and semi-structured problems.
+• A properly designed DSS is an interactive software-based system intended to help decision makers compile useful information from a combination of raw data, documents, and personal knowledge, or business models to identify and solve problems and make decisions.
+Based on relationship with user
+1. Passive DSS
+• It is a system that aids the process of decision making but that can not bring the explicit decision solutions.
+2. Active DSS
+• It is a system that is able to bring explicit decision solutions for a problem.
+3. Cooperative DSS
+• It is a system that allows iterative process between human and system to achieve best solution.
+Based on Mode of Assistance
+1. Communication driven DSS
+• It enables cooperation, supporting more than one person working on a shared task.
+2. Data driven DSS
+• It emphasizes access to and manipulation of a time series of internal company data and, sometimes, external data.
+3. Document driven DSS
+• It manages, retrieves, and manipulates unstructured information in a variety of electronic formats.
+4. Knowledge driven DSS
+• It provides specialized problem-solving expertise stored as facts, rules, procedures, or in similar structures.
+5. Model driven DSS
+• It emphasizes access to and manipulation of a statistical, financial, optimization, or simulation model.
+Components of DSS
+1. Database:
+• It is a well organized collection of current and historical data from a number of applications and groups.
+• It provides easy access to data and information from variety of applications.
+• It is able to maintain data integrity.
+• The data are extracted from various relevant databases and stored especially for decision support system only.
+2. Model:
+• A model represents an abstract representation of different components and relationships of a phenomenon.
+• The model can be classified as:
+(a) Behavioral Model
+(b)Management Science Model
+(c) Operation Research Model
+3. User Interface:
+• It allows interaction between the user of the system and the DSS database and model.
+• The user interface is responsible to deal with the end user of the system providing them with friendly interface.
+
+
+Behavioral Model:
+• It focuses on studying and understanding the trends among the variables.
+• It tends to find the correlation and regression among the variables.
+Management Science Model:
+• It is based on the principle of management and accounting.
+• It includes budget system, cost accounting, inventory management and so on.
+Operations Research Model:
+• It is based on the different mathematical formula.
+• It represents the different real life problems depending on the various variables and parameters in the form of algebraic expressions.
+• Eg: linear programming, material requirement planning, mathematical programming techniques and so on.
+Analytical Model of DSS:
+• It focuses on identifying the problem and implementing the solution.
+• The steps in analytical model of DSS are as follows:
+1. Problem identification
+2. Define objectives
+3. Pre-decision.
+4. Generate alternatives
+5. Evaluate alternatives
+6. Make a choice
+7. Implement choice
+8. Evaluate choice
+Difference between DSS and MIS:
+	DSS	MIS
+•
+•
+•
+•
+•
+DSS provides support for unstructured or semi structured decision making.
+DSS makes use of qualitative data for decision making.
+DSS focuses on leadership and decision making.
+DSS helps an organization to choose right path for its progress.
+Flow of information is only upward in case of DSS.
+•
+•
+•
+•
+•
+MIS provides support for structured decision making.
+MIS makes use of quantitative data for decision making.
+MIS focuses on information gathered and report planning.
+MIS helps to achieve operational efficiency.
+Flow of information is on both sides (up and down) in case of MIS.
+4.2 Group Decision Support System (GDSS)
+• Group Decision Support System is an interactive computer based system that facilitates a number of decision-makers (working together in a group) in finding solutions to problems that are unstructured in nature.
+• GDSS takes inputs from multiple users interacting simultaneously with the systems to arrive at a decision as a group.
+• It improves the quality and effectiveness of the group meetings.
+• It reduces time of high level managers to reach at efficient decisions.
+Advantages over DSS:
+1. Better comprehensive consideration of the problems and the various relating issues.
+2. Better group understanding of the problem.
+3. Less likelihood of argue with the decision made.
+4. Better group commitment to the decision.
+5. Better communication to/with the implementers.
+Components of GDSS
+1. Hardware:
+• It includes electronic hardware like computer, equipment used for networking, electronic display boards and audio visual equipment.
+• It also consists of conference infrastructures.
+• All these hardware facilitates the support for group decision support system.
+2. Software Tools:
+• It includes various tools and techniques that helps the decision makers to plan, organize ideas, gather information, establish priorities, take decisions and document the meeting proceedings.
+• The tools and techniques consist of electronic questionnaire, idea organizer, priority setting tools, policy formation tools, modeling tools, dialogue manager, database management system and so on.
+3. People:
+• It includes members to participate in the meeting, a trained facilitator who helps with the proceedings of the meeting, and an expert staff to support the hardware and software.
+
+Features of GDSS
+1. It is easy and simple to use because of its interactive and user friendly user interface.
+2. It facilitates users at different locations to make decisions as a group that results in better decisions.
+3. The facilitator provides general support to the group and helps them to use the system.
+4. It emphasizes on unstructured and semi structured decisions.
+5. It supports all phases of decision making (intelligence, design, choice and implementation).
+6. The participants are able to share their ideas more openly.
+4.3 Enterprise and Executive Decision Support System (EDSS)
+• Executive support system is a specialized decision support system that serves the information that is needed by the various top executives.
+• It assists the top level executives in taking and performing various types of decisions.
+• It also includes communication, office automation, analysis support and so on.
+Characteristics of ESS:
+1. Informational characteristics
+i. Flexibility and ease of use.
+ii. Provides the timely information with the short response time and also with the quick retrieval.
+iii. Produces the correct information. iv. Produces the relevant information.
+v. Produces the validated information.
+2. User interface/orientation characteristics
+i. Consists of the sophisticated self help.
+ii. Contains the user friendly interfaces consisting of the graphic user. iii. Can be used from many places. iv. Offers secure reliable, confidential access along with the access procedure. v. Is very much customized.
+vi. Suites the management style of the individual executives.
+3. Managerial / executive characteristics
+i. Supports the over all vision, mission and the strategy. ii. Provides the support for the strategic management.
+iii. Sometimes helps to deal with the situations that have a high degree of risk. iv. Is linked to the value added business processes.
+v. Supports the need/ access for/ to the external data/ databases. vi. Is very much result oriented in the nature.
+Benefits of ESS:
+1. Achievement of the various organizational objectives.
+2. Facilitates access to the information by integrating many sources of the data.
+3. Facilitates broad, aggregated perspective and the context.
+4. Offers broad highly aggregated information.
+5. User’s productivity is also improved to a large extent.
+6. Communication capability and the quality are increased.
+7. Provides with the better strategic planning and the control.
+8. Facilitates pro active rather than a reactive response.
+9. Provides the competitive advantage.
+10.Encourages the development of a more open and active information culture.
+11.The cause of a particular problem can be founded.
+4.4 Knowledge Management and Knowledge Based Expert System
+• An expert system is an intelligent program that solves problems in a narrow problem area by using expert specific knowledge rather than an algorithm.
+• It simulates the decision making process of a human expert in a specific domain.
+Features
+a) Reasoning capacity
+b) Cope with uncertainty
+c) Use of knowledge not data
+d) Symbolic knowledge representation
+e) Use meta knowledge
+f) Use user interface
+Role of Expert System in Information System
+• Organization can realize benefits in consistency, accuracy, and reliability in problem-solving activities.
+• It replicates the human expert knowledge which may be facts or heuristic information.
+• It provides faster and accurate results than the human expert if designed properly.
+• An organization should face significant loss in losing an expert. Such system overcome this fact.
+• Improvements in reliability and quality frequently appear when expert systems distribute expert advice, opinion, and explanation on demand.
+• It is able to handle enormously complex task without loosing its quality of output.
+• Expert systems can reduce production downtime and, as a result, increase output and quality.
+4.5 AI Neural Networks, Virtual Reality and Intelligent Agents
+Virtual Reality
+• Virtual reality (VR) is a computer technology that generate realistic images, sounds and other sensations that simulate a user's physical presence in a virtual or imaginary environment.
+• With the help of virtual reality in information system, the users can quickly get the broader view of the problem, the alternative solutions and the effects of those solutions in the future trends.
+Areas of Information System that uses Artificial Intelligence
+1. Decision Support System
+2. Strategy Formation
+3. Business Automation
+4. Human Resource Development
+4.6 Data Mining and Data Warehousing
+What is Data Mining?
+• Data mining is the process of finding patterns in the given set of data.
+• It is also defined as the process of extracting information from huge sets of data.
+• Such patterns generally provides some meaningful information to the intended users.
+• It uses statistical analysis.
+• The applications of data mining are as follows:
+1. Market analysis
+2. Fraud detection
+3. Customer retention
+4. Production control
+What is Data Warehousing?
+• Data warehousing is the process of aggregating data from multiple sources into a common repository.
+• Data warehouse is a database which is kept separate from the operational database, which basically consists of consolidated historical data.
+• A data warehouse helps executives to organize, understand, and use their data to take strategic decisions.
+• The features of a data warehouse are as follows:
+1. Subject oriented
+2. Integrated
+3. Time variant
+4. Non-volatile
+Relation of Data Mining and Data Warehousing:
+• Data warehousing is the process in which the data from different sources are aggregated to a single database.
+• Data mining is the process of analyzing the data stored in the data warehouse to generate some meaningful patterns.
+• Data mining is the process that is incomplete without data warehousing.
+• The general flow of data analysis is:
+Data from different source ====> Data warehouse =====> Data mining =====> Useful patterns
+Necessity of Data Warehousing
+A data warehouses is kept separate from operational databases due to the following reasons:
+1. An operational database is constructed for well-known tasks and workloads such as searching particular records, indexing, etc. In contract, data warehouse queries are often complex and they present a general form of data.
+2. Operational databases support concurrent processing of multiple transactions.Concurrency control and recovery mechanisms are required for operational databases to ensure robustness and consistency of the database.
+3. An operational database query allows to read and modify operations, while a data warehouse query needs only read only access of stored data.
+4. An operational database maintains current data. On the other hand, a data warehouse maintains historical data.
+4.7 OLAP and OLTP
+On-Line Transaction Processing (OLTP):
+• Online Transaction Processing is a information system type that prioritizes transaction processing, dealing with operational data.
+• These systems gather input information and store them on a database, in a large scale.
+• he main emphasis for OLTP systems is put on very fast query processing, maintaining data integrity in multi-access environments and an effectiveness measured by number of transactions per second.
+• Eg: A banking transaction system
+On-Line Analytical Processing (OLAP):
+• Online analytical processing is a computer technology term referring to systems focused on analysing data in a specific database.
+• Example: In a hospital there is 20 years of very complete patient information stored. Someone on the administration wants a detailed report of the most common deseases, sucess rate of treatment, intership days and a lot of relevant data. For this, we apply OLAP operations to our data warehouse with historical information, and throught complex queries we get these results. Then they can be reported to the administration for further analysis.
+Differences:
+
+OLTP System
+Online Transaction
+Processing
+(Operational System)
+OLAP System
+Online Analytical
+Processing
+(Data Warehouse)
+Source of data
+Purpose of data
+What the data
+Inserts and
+Updates
+Queries
+Processing
+Speed
+Space
+Requirements
+Operational data; OLTPs are the original source of the data.
+Consolidation data; OLAP data comes from the various OLTP Databases
+To help with planning, problem solving, and decision support
+Multi-dimensional views of various kinds of business activities
+Periodic long-running batch jobs refresh the data
+Often complex queries involving aggregations
+Depends on the amount of data involved; batch data refreshes and complex queries may take many
+hours; query speed can be improved by creating indexes
+Larger due to the existence of aggregation structures and history data; requires more indexes than
+
+To control and run fundamental business tasks
+
+
+Reveals a snapshot of ongoing business processes
+
+
+Short and fast inserts and updates initiated by end users
+
+
+Relatively standardized and simple queries Returning relatively few records
+
+
+Typically very fast
+
+
+Can be relatively small if historical data is archived
+
+Database Design
+Backup and
+Recovery
+
+OLTP
+Typically de-normalized with fewer tables; use of star and/or snowflake schemas
+Instead of regular backups, some environments may consider simply reloading the OLTP data as a
+recovery meth
+
+Highly normalized with many tables
+
+
+Backup religiously; operational data is critical to run the
+business, data loss is likely to
+entail significant monetary loss
+and legal liability

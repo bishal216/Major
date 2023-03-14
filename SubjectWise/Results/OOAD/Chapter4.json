@@ -1,0 +1,83 @@
+
+[
+  {
+    "question": "What is the point of having a roadmap?",
+    "answer": "But having a roadmap provides a starting point for experimentation and discussion.",
+    "marks": 4
+  },
+  {
+    "question": "What is the strength of an iterative and incremental development process?",
+    "answer": "A strength of an iterative and incremental development process is that the results of a prior iteration can feed into the beginning of the next iteration (see Figure ).",
+    "marks": 2
+  },
+  {
+    "question": "What is the definition of a class in a OO language?",
+    "answer": "1 Fig 4.",
+    "marks": 3
+  },
+  {
+    "question": "What is the best way to create a class definition in a OO language?",
+    "answer": ") generated during OO design modeling will provide a great base that scales up with elegance and robustness to meet the new problems encountered during programming.",
+    "marks": 4
+  },
+  {
+    "question": "What is the main difference between the create method and the class diagram?",
+    "answer": "The create method is often excluded from the class diagram because of its commonality and multiple interpretations, depending on the target language.",
+    "marks": 2
+  },
+  {
+    "question": "What languages are amenable to the object design principles and mapping to code presented in this case?",
+    "answer": "However, this is not meant to imply a special endorsement of Java; C#, Visual Basic, C++, Smalltalk, Python, and many more languages are amenable to the object design principles and mapping to code presented in this case study.",
+    "marks": 2
+  },
+  {
+    "question": "What is the definition of a class?",
+    "answer": "1 Defining a Class with Method Signatures and Attributes From the DCD, a mapping to the attribute definitions (Java fields) and method signatures for the Java definitionof SalesLineItem is straightforward, as shown in Figure 4.",
+    "marks": 3
+  },
+  {
+    "question": "What is the implementation model?",
+    "answer": "This is all the implementation artifacts, such as the source code, database definitions, JSP/XML/HTML pages, and so forth.",
+    "marks": 2
+  },
+  {
+    "question": "What is the UP Implementation Model?",
+    "answer": "Thus, the code being created in this chapter can be considered part of the UP Implementation Model.",
+    "marks": 2
+  },
+  {
+    "question": "What is the key and pragmatic attitude in iterative and evolutionary methods?",
+    "answer": "That's a key and pragmatic attitude in iterative and evolutionary methods.",
+    "marks": 3
+  },
+  {
+    "question": "How can a class be created from a diagram?",
+    "answer": "If the DCD was drawn in a UML tool, it can generate the basic class definition from the diagrams.",
+    "marks": 2
+  },
+  {
+    "question": "What is the basic class definition in OO?",
+    "answer": "This is sufficient to create a basic class definition in an OO language.",
+    "marks": 2
+  },
+  {
+    "question": "What is the addition in the source code of the constructor?",
+    "answer": "Note the addition in the source code of the Java constructor SalesLineItem(.",
+    "marks": 3
+  },
+{"question": "What is the best way to create a class definition?", "answer": "3 Creating Class Definitions from DCDs (Design Class Diagrams) At the very least, DCDs depict the class or interface name, super classes, operation signatures, and attributes of a class.", "marks": 3},
+{"question": "What is the definition of a sales line item in java?", "answer": "1: SalesLineItem in Java.", "marks": 1},
+{"question": "Why is Java used for the examples?", "answer": "1 Language Samples Java is used for the examples because of its widespread use and familiarity.", "marks": 1},
+{"question": "What is the definition of a class?", "answer": "2 Mapping Designs to Code Implementation in an object-oriented language requires writing source code for: • Class and interface definitions • Method definitions 4.", "marks": 2},
+{"question": "What is the name of the end of an association?", "answer": "Each end of an association is called a role.", "marks": 2},
+{"question": "What is the definition of a reference attribute in a class diagram?", "answer": "4.", "marks": 4},
+{"question": "What is the name of the class?", "answer": "Fig: Role names may be used to generate instance variable names.", "marks": 2},
+{"question": "What is the definition of the enterItem method?", "answer": "2 illustrates the Java definition of the enterItem method.", "marks": 2},
+{"question": "What are the attributes of a class suggested by?", "answer": "The reference attributes of a class are suggested by the associations and navigability in a class diagram.", "marks": 2},
+{"question": "What is the definition of the fig?", "answer": "Fig: Mapping date and time to Java.", "marks": 2},
+{"question": "What is the definition of reference attribute in a class diagram?", "answer": "2 Adding Reference Attributes A reference attribute is an attribute that refers to another complex object, not to a primitive type such as a String, Number, and so on.", "marks": 2},
+{"question": "What does a reference attribute mean in Java?", "answer": "In Java, this means that an instance field referring to a ProductSpecification instance is suggested.", "marks": 2},
+{"question": "What is the definition of the register?", "answer": "For this example, we will explore the implementation of the Register and its enterItem method.", "marks": 2},
+{"question": "What is the definition of a reference attribute in a class diagram?", "answer": "2.", "marks": 2},
+{"question": "What is the meaning of the following paragraph?", "answer": "4 Creating Methods from Interaction Diagrams The sequence of the messages in an interaction diagram translates to a series of statements in the method definitions.", "marks": 4},
+{"question": "What is the definition of a reference attribute in a class diagram?", "answer": "3.", "marks": 3}]

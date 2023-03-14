@@ -11,6 +11,7 @@ def generate_MCQ_question(text,numOfQues=10,ansstyle = 'all'):
 def main():
 
     text = open('sampleText/owl_rescue.txt','r', encoding='utf8').read()
+   
         # Regex
     # regex_main(text)
     # T5

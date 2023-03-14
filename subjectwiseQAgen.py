@@ -7,9 +7,9 @@ def main():
     # for subject in subjects:
         # for i in range(1,subject[1]+1,1):
             # fileDir = 'SubjectWise/datasets/'+subject[0]+'/chapter'+str(i)+'.txt'
-            fileDir = 'SubjectWise/datasets/OnM/chapter4.txt'
-            opFileDir = 'SubjectWise/questions/OnM/chapter4.txt'
-            fin = codecs.open(fileDir, 'r', encoding='utf-8')
+            fileDir = 'SubjectWise/datasets/Software/Chapter 10.txt'
+            opFileDir = 'SubjectWise/questions/SE/Chapter10.txt'
+            fin = codecs.open(fileDir, 'r', encoding='ansi')
             # opFileDir = 'SubjectWise/questions/'+subject[0]+'/chapter'+str(i)+'.txt'
             text = fin.read()
             qg = QuestionGenerator()

@@ -1,0 +1,176 @@
+Chapter 1 Introduction to Information System
+1.1 Classification and Evolution of Information System
+What is Information System?
+• Information system is the system that arranges data, processes, information technology and manpower of an organization so as to collect, process, store and provide the information that helps to sustain and support organizational progress in the competitive world.
+• It converts the raw data within the organization into the valuable information needed for organizational goal.
+What is data and information?
+• Data is the raw fact that has no any significance and use if not processed.
+• Data is processed to generate information.
+• Information is those processed data that provides some meaning and can be used for decision making and organizational improvements.
+Types of information
+1. Operational Information:
+• Those information that are needed to perform the daily operations of an organization are called operational information.
+• Eg: daily account of sales and stocks, low stock item list, profit and loss account and so on.
+• These information are used by line managers to facilitate proper survival of the organization by taking appropriate decisions that would facilitates the user’s expectations and needs.
+2. Tactical Information:
+• Those information that are used to generate tactics to facilitate improvement in profit and performance of an organization.
+It is generally collected on weekly or monthly basis.
+• Eg: Whether to provide discount on some stocks.
+• It is used by middle managers.
+3. Strategic Information:
+• Those information needed for long term improvement and planning are called strategic information.
+• It includes information on organizational expansion and new opportunities.
+• Such information is generally unstructured.
+• It is taken on quarterly or yearly basis.
+• It is used by the top level managers.
+• It helps in decisions like whether to open a branch, whether to initiate customer cards, etc.
+4. . Statutory Information:
+• Those information that are needed to provide to the government about the organizational structure and status are called statutory information.
+• Eg: VAT filling, audits and so on.
+Types of Information System
+1. Transactional Processing System (TPS):
+• TPS is the information system that is responsible for collection and processing of data related to daily transactions within an organization.
+• It provides automation of the transactions maintained manually in an organization.
+• It is the system that directly deals with the customers of an organization because transaction takes place between the organization and the customers.
+• This system provides huge volume of information than other systems.
+• It is generally used by the low level staffs who interacts with the customers directly.
+2. Management Information System (MIS):
+MIS is an information system that aids the management of an organization to successfully coordinate with other members to develop broad long term vision of an organization.
+• It provides various reports of an organization that helps to plan for the proper management system within an organization.
+• It is designed with the motto that a proper management within an organization always leads towards success.
+• It provides information that improves the management strategies of an organization.
+• Eg: Observation of the sales and demands using statistical analysis and control production on that basis to meet the user demand.
+3. Decision Support System (DSS):
+• DSS is the information system that is responsible to generate information required to take decisions for long term strategic plans within an organization.
+• It uses data from various internal sources (sales, production, finance) as well as external sources (population trend, raw material, pricing).
+• Since decision making affects the future of an organization, there must be precise collection of data for information generation which is one of the most tedious task.
+• It uses various tools like statistical analysis, simulation models, data mining, artificial intelligence and so on.
+4. Expert System (ES):
+• ES is the extended decision support system that collects the knowledge from the expert of the respective domain and then simulates that collected knowledge base to the one who do not even have the domain knowledge.
+• It is the application of artificial intelligence that helps in improvement of the decision making process.
+5. Office Information System (OIS):
+• OIS is the information system that is responsible to provide the appropriate information to appropriate person at appropriate time.
+Information should be obtained by all the members of an organization as well as the customers but the information that each one obtain may differ based on their necessity to emphasize their work flow.
+• This managed information flow is aided by OIS.
+• It uses various technologies like electronic form, office automation, electronic messaging and so on.
+6. Personal and Work Group Information System:
+• - Personal Information System is the information system that is designed to meet the needs of a single user so as to boost the productivity of an individual.
+• - Work group information system is the information system that are designed to meet the needs of a work group so as to boost the productivity of a group. Classification of Information System
+Based on Breath of Support:
+• This classification of information system is based on how much support one gets from an organization structure.
+• It includes functional, enterprise wide and inter-organizational information system.
+• Functional system is organized within the traditional departments.
+• Enterprise information system is organized over several departments of an organization or within overall enterprise.
+• Inter-organizational information system connects two or more organizations.
+Based on Organizational Level
+• This classification includes clerical level, operational level and knowledgework level information system.
+• Clerical level includes the information that are collected by the workers through direct communication with the customers and supports the managers.
+• Operational level includes the line managers that carry out daily operations of an organization in an efficient manner.
+Knowledge-work level includes the advisors and top level managers that are domain experts, who are responsible to integrate the information and knowledge for organizational goals.
+1.2 IS in Functional Areas
+The information system is used in following functional areas:
+1. Production
+2. Marketing
+3. Material purchase and store
+4. Accounting
+5. Education
+6. Human Resource Development
+7. Research and Development
+1.3 Information System Architecture
+The architecture of information system consist of five major components:
+1. Hardware
+2. Software
+3. Database
+4. Network
+5. People
+• Hardware consists of input and output devices, processor, operating system and media devices that facilitate the functioning of an information system. The different hardware helps to collect the raw data and store the data as well as information.
+• Software consists of various programs and procedures that eases and manages the information system. It basically helps to manage the raw data and useful information. It is responsible for conversion of raw data into useful information.
+Network consists of various hubs, communication media and network devices. It is responsible for communication and transparency of the information flow within an organization.
+• Database consists of data organized in the required structure. It is responsible for structuring of data and information of an information system of an organization.
+• People consists of device operators, network administrators and system specialists as well as managers who are responsible to make proper use of information system for organizational progress.
+1.4 Qualities of Information System
+1. The information generated by the system must be accurate. For information accuracy, the input raw data should be correctly chosen and should be processed properly as per the necessity of the organization.
+2. The information system should be able to integrate all the necessary data and generate the information needed by the whole areas of the organization.
+3. The information should be generated on time and should be provided to the right people at right time.
+4. All the information should be revealed to the right people even if it is bad because such information can lead to future improvements of an organization.
+5. The information should be customer oriented so as to meet the customer demands and gain trust from the customer for the sake of organizational growth.
+6. The information system must have all the data from the past up to the present time so as to generate the fruitful results.
+7. The information system should use attractive and noticeable formats like graphs to represent the results that help in quick and better understanding about the organization.
+
+1.5 Managing Information System Resources
+• Information system consists of many resources and one of them is supply chain.
+• Supply chain is the description of how the materials, information, finance and services flow from the raw materials suppliers to the organization to the end customers using services generated by the organization.
+• Generally, information system uses software solutions to manage the information system resources.
+• The software solutions for managing supply chain activities includes:
+1. Enterprise Resource Planning (ERM)
+2. Supply Chain Management (SCM)
+3. Customer Relationship Management (CRM)
+1.6 Balanced Scorecard - Case Studies
+• Balanced scorecard is the document that contains all the information needed for an organization required for its success from organizational goals to strategic planning.
+• It helps to keep the organization balanced from all perspective like customer perspective, financial perspective, strategic perspective and future growth perspective.
+• It should be cascaded to all the units of an organization to ensure successful strategic implementation.
+• It analyzes the mission and vision of an organization so as to develop necessary strategic themes and strategy map to ensure those themes.
+• The strategic initiatives are followed to achieve the vision of an organization taking care of the performance measures and meeting the customer demand for growth of an organization.
+Benefits of Using Balanced Scorecard
+1. 1. Better strategic planning:
+• Balanced scorecard provides a powerful framework to build and communicate appropriate strategy based on the organizational needs and goals.
+• Through strategy map, consensus is reached over a set of interrelated strategic objectives.
+• It ensures performance of current state and identification of future performance for the strategy.
+2. Improved Strategy Communication and Execution:
+• Balanced scorecard contains the strategy and all its interrelated objectives in a single paper that allows communicating the organizational strategy within the organization as well as outside of the organization.
+• The operational units and managers can get the greater picture of the organizational strategy and can easily understand what needs to be implemented.
+• This makes the staffs to implement the strategy in an efficient way as it is already understood by all.
+• The managers hence engage the staff for the strategic execution and can manage the work flow in an efficient way.
+3. Better Management Information:
+• Balanced scorecard ensures design of key performance measures for various strategic objectives ensuring organization to measure what really matters to an organization.
+• It ensures that the organization gets quality management information which when used can guide management process and decision making process that eventually affects the organizational goal.
+4. Improved Performance Reporting
+• Balanced scorecard provides the strategic planning and implementation details.
+• This helps to design the appropriate performance measures required to meet the strategic objectives.
+• The proper choice of performance measures improves the performance reports in a transparent manner.
+• Such performance reports are communicated both internally and externally so as to flow information to all and gain feedback for performance improvement.
+5. Better Strategic Alignment:
+• Balanced scorecard provides the strategic objectives to an organization.
+• Cascading the balanced scorecard to all the organizational units helps to create link between strategy and operation.
+• This ensures that all the organizational units are working towards the common strategy.
+6. Better Organizational Alignment:
+• Balanced scorecard provides foundation for the strategic planning.
+• It helps to align the organizational processes such as budgeting, risk management and so on with strategic priorities.
+• This helps to make the organization strategy focused.
+
+From Perspective to Strategic Objectives to Performance Measures
+Perspective Strategic Objectives	Performance Measures
+Financial
+Increase shareholder value Increase profit generated by each salesperson
+Net income
+Return on assets
+Return on sales
+Return on equity
+Product cost per unit
+Customer cost per unit
+Profit per salesperson
+Customer
+Acquire new customer
+Retain customer
+Develop profitable customers
+Number of new customers
+Percentage of customer retained
+Customer profitability
+Internal 
+Business 
+Process
+Improve Manufacturing quality
+Introduce new products
+Minimize invoice error rate
+On time delivery by suppliers
+Increase proprietary products
+Percentage of error free invoice Percentage of defective product units
+Percentage of on time delivery
+Number of patents
+Learning and
+Growth
+Increase information system capabilities
+Enhance employee skills
+Percentage of processes with real time feedback
+Employee turnover rate
+Average job related training hours per employee

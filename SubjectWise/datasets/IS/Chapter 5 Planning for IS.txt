@@ -1,0 +1,36 @@
+Chapter 5 Planning for IS
+5.1 Information System Planning
+Necessity of IS Planning
+• Information system environment is very complex. So, planning for information system is very much crucial to get most out of it.
+• The plan describes the structure and content of the information system and how it is to be developed.
+• The information system plan should be based on the organizational strategic plan. It helps in design of suitable information system that would assist in achieving organizational goals.
+• It also helps to understand the current status of the organizational information system and what can be done to improve the information system to achieve reliability and quality.
+• Information system planning is done by Chief Information Officer.
+5.2 Strategic Information System
+• Strategic information system is the information system that is responsible to implement the business strategy for organizational progress.
+• Such system applies the information system resources to strategic business opportunities in such a way that the computer system affect the organizational products and activities.
+• It links business and computer strategies.
+• It shapes an organizational competitive strategy.
+• It helps an organization to gain a competitive advantage and meet other strategic enterprise objectives.
+Benefits of Using Strategic Information System
+1. Creating barriers to the competitor's entry:
+• It helps to provide a product that is difficult to duplicate.
+• This makes the competitors stop competing with the organizational products and services.
+2. Database to improve marketing:
+• It provides all the previous data about sales through a database.
+• It makes use of historical sales and marketing data to find improvement in future market.
+3. Customer and Supplier Retention:
+• It focuses on the customer and supplier providing them with highly reliable services such that they do not switch over to a competitor.
+• It helps in maintaining proper relationships with the customer.
+• It provides customers with the dedicated and quality services on time that helps to generate trust towards the organization among the customers.
+4. Identify Marketing and Sales Strategy:
+• It helps to analyze the historical data on sales and marketing so as to determine new strategy for market improvement.
+• It may includes lowering of cost of the materials or services as per the demand so as to increase the customers.
+5.3 Tactical Information System
+• Tactical information system is the information system that is responsible for planning short range tactics emphasizing the current operation of an organization.
+• It helps to know how the organization, in the short time period, can improve its organizational operations.
+• Tactical plans are usually developed in the areas of production, marketing, personnel, finance and plant facilities.
+5.4 Operational Information System
+• Operational information system is the information system that is responsible to aid the daily operations of an organization.
+• It focuses on how the organization can improve its daily operations.
+• It processes operational information to plan for operational progress.

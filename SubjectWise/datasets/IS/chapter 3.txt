@@ -1,0 +1,153 @@
+Chapter 3 Enterprise Management System
+3.1 Enterprise Management System (EMS)
+Enterprise Information System
+• Enterprise is the term that encompasses the large business community including all the members of that business.
+• Enterprise incorporates various functions across the large business including human resources, engineering design, production, controlling, maintenance, sales, finance, quality and so on.
+• Enterprise system is a large scale application software packages that support business processes, information flows, reporting and data analytics in complex organization.
+• Enterprise system is designed to manage large volumes of critical data and to provide high levels of transaction performance and data security.
+• Enterprise information system is the information system that allows companies to integrate information across operation on a company.
+• Enterprise management system is an enterprise information system designed to coordinate all the resources, information and activities needed to complete business process.
+Components of EMS
+The components of enterprise management system are as follows:
+1. Enterprise Resource Planning
+2. Supply Chain Management
+3. Customer Relations Management
+Necessity of Enterprise System:
+1. It is able to integrate all the functionality of an enterprise to achieve faster performance.
+2. It provides automation on information system that helps to track the organizational status in real time.
+3. It provides information to the right people at right time.
+4. It helps in transparent flow of information across all the units of an enterprise.
+3.2 Enterprise Resource Planning (ERP)
+• An ERP system is an attempt to integrate all the functionality and operations across a company to a single computer system that can serve all those operations as per the necessity.
+• ERP system integrates customers, suppliers to the enterprise operation.
+• It intends to carry out all the business processes of an organization from a single control interface or computer following a set of best practices.
+Features of ERP:
+1. Financial management: (Provides financial functionality and analysis reports for different departments)
+2. Human resource management (It provides functionality for personnel management, organization management, payroll management, time management, personal development)
+3. Manufacturing (It provides functionality like bill of material, sales and distribution plan)
+4. Supplier and purchase order management (It is integrated to supply chain process to control production planning) Benefits of ERP:
+1. It integrates all the data in a single source that makes the data and information to flow easily and transparently across the intended departments.
+2. It is a real time system that considers customers as well as suppliers along with the internal processes as a part of the enterprise that helps to improve internal as well as external communication and understand about the demands on timely manner.
+3. It helps in increasing productivity of an organization based on the customer current demands.
+4. As all the information is integrated to a single computer system, it minimizes the operating costs of the information system.
+5. It helps to trace the past and present business activities and lay foundation to improve those activities in future for achieving enterprise progress.
+6. It helps the enterprise to survive in this competitive world by gaining trust from the customers as the customers are directly involved as a part of an enterprise.
+7. It helps to make better use of available resources.
+Challenges to ERP Implementation:
+1. The ERP technical capabilities are limited.
+2. The ERP system is inconsistent with existing business processes.
+3. It increases implementation and maintenance costs of an enterprise.
+4. The overall employee responsibilities should be changed based on ERP system which may be time consuming and difficult for the staffs as well as managers to adapt to.
+5. Implementing ERP requires technical knowledge as well as resources. If the enterprise do not possess such personnel within the enterprise, it would cost more.
+6. The enterprise strategy should be implemented and executed as per the ERP system.
+3.3 Supply Chain Management (SCM)
+• SCM deals with the control of materials, information and financial flow in a network of suppliers, manufacturers, distributors and customers.
+• It helps to track goods across departments within an organization in real time.
+• It is responsible for managing how and from where the raw materials will enter into the organization so as to produce a product; and how and to whom the produced services will be delivered.
+• It is responsible for all the activities from production to end customers.
+• Supply chain management helps to link the organization with the suppliers and the customers so as to meet the demand of the users through balanced supply of services as per the need.
+• The supply chain includes a chain as follows:
+          Supplier ======> Storage ==> Manufacturer ==> Storage ==> Distributor ==> Retailer ==> Customer Features of SCM:
+1. Process Customer Requirements (It enhances speed of customer requirement processing. It is responsible to check for availability of raw materials, product manufacturing and passing the product to the logistic team. The software tracks the entire process.)
+2. Inventory management (It helps to effectively manage the quantity of stocked goods)
+3. Purchase order processing (It reduces time and effort needed to generate and manage purchase orders)
+4. Supplier relationship management (It is responsible for strategic planning and managing of all supplier interactions. The software is used to assess the supplier assets and capabilities so as to choose the best business strategy)
+5. Warehouse Management (It helps to effectively support a warehouse management system for movement and storage of products.)
+Functionality of SCM:
+1. Sourcing of raw materials and component for a product or skills.
+2. Manufacturing or creating a finished product or service.
+3. Ensuring the product or service is transported, warehoused and is always available for the targeted users.
+4. Timely delivery to the end consumer.
+Challenges of SCM:
+1. SCM is not able to perform all the functions that an organization hopes for.
+2. Customer demands for the product immediately which is difficult to handle by the SCM.
+3. The delivery of the product to the end customer is difficult for which an organization should collaborate with others.
+4. If SCM system is not reliable, an organization may face problems to track about their stocks and further productions.
+3.4 Customer Relationship Management (CRM)
+• Customer Relationship Management refers to the practices, strategies and technologies that organization use to manage and analyze customer interactions and data throughout the customer lifecycle, with the goal of improving business relationships with customers, assisting in customer retention and driving sales growth.
+• It is an approach to manage organization's interaction with current and potential customers.
+• It uses data analysis about customer's history with a company.
+• It collects information from different channels or points of contact between customer and the company such as website, telephone, live chat, mail, social media, marketing materials and so on.
+• It also provides staffs who directly face customers with the detail information about customer, their purchase history, buying preferences and concerns so as to make the interaction more efficient and effective.
+• It is used to build and manage customer relationships through marketing, observing relationships as they mature through distinct phases, managing these relationships at each stage and recognizing that the distribution of a value of a relationship to the firm is not homogeneous.
+Features of CRM
+1. 1. Marketing Automation:
+• It is responsible to enhance marketing efforts to customers.
+• For eg: the CRM system can automatically send the customers with the marketing materials via social media or email.
+2. Sales Force Automation:
+• It is responsible to track all the contacts and follow ups between customer and sales person so as to prevent duplicate efforts.
+3. Contact Center Automation:
+• It is responsible to automate the customer contact with the company.
+• It can be implemented via a recorded audio or through chat bots.
+4. Location Based Services:
+• The CRM system include technology that can create geographic marketing campaigns based on customer's physical locations.
+Benefits of CRM
+1. It enhances ability to target profitable customers.
+2. It integrates assistance across different channels.
+3. It enhances sales force efficiency and effectiveness.
+4. It helps in customizing products and services based on user demands.
+5. It improves service to the customers.
+6. It helps to connect customer and all the units of an organization together in a single platform.
+7. It helps to improve the relationship of an organization with the customer that increases organizational reputation and trust among the customers.
+3.5 Role of IS and IT in Enterprise Management
+• Information systems help an organization to make adequate use of its data, reduce workload and assist with compliance with various mandatory regulations.
+Information Storage and Analysis
+• Through the adoption of information systems, enterprises can make use of sophisticated and comprehensive databases that can contain all imaginable pieces of data about the organization.
+• Information systems store, update and even analyze the information, which the company can then use to pinpoint solutions to current or future problems.
+• These systems can integrate data from various sources, inside and outside the company, keeping the company up to date with internal performance and external opportunities and threats.
+Assist Decision Making
+• An organization’s management team uses information systems to formulate strategic plans and make decisions for the organization's survival and progress.
+• The analysis of data and comparison to market trends helps organizations to analyze the adequacy and quality of their strategic decisions.
+Assist Business Processes
+• Information systems helps businesses in developing a larger number of value added-systems in the company.
+• For example, a company can integrate information systems with the manufacturing cycle to ensure that the output it produces complies with the requirements of the various quality management standards.
+• The use of information systems simplifies business processes and removes unnecessary activities.
+• Information systems add controls to employee processes, ensuring that only users with the applicable rights can perform certain tasks.
+• Information systems eliminate repetitive tasks and increase accuracy, allowing employees to concentrate on more high-level functions.
+• Information systems provides means for better project planning and implementation through effective monitoring and comparison against established criteria.
+3.6 Enterprise Engineering
+• Enterprise engineering is the discipline, principles and practices to design whole or part of an enterprise.
+• It is an enterprise life cycle oriented discipline for the identification, design and implementation of enterprises and their continuous evolution.
+• It examines each aspect of the enterprise such as business process, information flow, material flow and organizational structure.
+Methodologies
+The formal methodologies and methods used to offer organization reusable business process solutions are as follows:
+1. Computer Integrated Manufacturing Open Systems Architecture (It provides templates to encode business, people and information technology of an enterprise requirements.)
+2. Integrated Definition (It shows business process flows through a variety of decomposed business functions with corresponding information inputs, outputs and actors.)
+3. Petri Nets (It is used to model manufacturing systems and provide formalisms for the modeling of concurrent systems with the ability to create simple state representation, concurrent system transitions and allow duration of transitions.)
+4. Unified Enterprise Modeling Language (It is the object oriented enterprise modeling tool in which emphasis is placed on the usage of enterprise objects from which complex enterprise systems are made.)
+5. Enterprise Function Diagrams (It is a modeling technique for the representation of enterprise functions and their corresponding interactions. It provides easy to use and detailed representation about a business process and its corresponding functions, inputs, outputs and triggers.)
+3.7 Electronic Organization
+• Electronic organizations are the organizations established and operated, based on the Internet and other related technologies in an environment referred to as Internet Culture.
+• These organizations will be placing the Internet at the center of their business and encouraging ubiquitous use of network technologies.
+• All the activities of electronic organization is based on the Internet.
+• It includes developing strategies for running Internet based companies improving communication between employees, customers, and suppliers and collaborating with partners to electronically coordinate design and production.
+• For example: The bus system that provides passengers access to information and booking over the Internet is an example of electronic organization.
+• Electronic organizations affect four components of the management process: planning, organizing, leading and controlling.
+Features of electronic organization:
+1. It does not have central geographic location.
+2. It interacts through computer networks and technologies.
+3. It removes necessity of location specific services and face to face communication.
+4. Management of production process is done through electronic links.
+5. Support to customer is extended through electronic information system.
+3.8 Loose Integration vs Full Integration
+Loose Integration
+• Loosely integrated system is one in which each of its components has, or makes use of, little or no knowledge of the definitions of other separate components.
+• Components in a loosely integrated system can be replaced with alternative implementations that provide the same services.
+• It provides a system that have less constraints to platform and environment.
+Tight Integration
+• Tight integration is the system that works on the inter connectivity and interprocessing of two or more systems simultaneously to deliver a cohesive/integrated solution.
+• The entire logic is distributed across several hardware and software components, which all need to be operational and connected to deliver the business logic/process.
+• For example, a bank ATM machine depends on the ATM machine hardware, built-in firmware/applications and the primary banking application to allow a customer to withdraw cash or access any ATM-specific services.
+3.9 Process Alignment
+• Process alignment is the activity of resolving differences between business processes.
+• It means harmonizing components of one process between each other to reach their better collaboration and coordination.
+• It makes sure that every component of a process fits to other components so they have no disagreement with each other, but they work together consistently and are in synergy (coordination to provide combined outcome) towards process outcomes.
+• It helps to provide the desired outcomes of a process to the organization on time and with quality.
+• It comprises identifying ineffective areas in the processes and redesigning them to be more productive and less error prone.
+• Opportunities for process alignment can be detected by the process of auditing.
+Ways for process alignment:
+1. Retooling of ineffective process areas.
+2. Documenting the process requirements and workflows.
+3. Education and training of the process staff.
+4. Implementing the best practices and innovation.
+5. Attaining a better operational visibility and measurability.

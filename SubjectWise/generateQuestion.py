@@ -56,8 +56,7 @@ def generate(subject):
                 result = {'question': question,'answer':answer,'mark': marks}
                 questionSet.append(result)
                 questions=[]
-    for i,item in enumerate(questionSet):
-        print(str(i+1)+'.'+str(item)+'/n')
-        return questionSet         
+    print( [d['question']+','+d['mark'] for d in questionSet])
+    return questionSet         
 
-# generate("OnM") 
+generate("OnM") 

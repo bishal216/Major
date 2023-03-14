@@ -2,7 +2,6 @@ import main
 from flask import Flask,render_template,request
 import SubjectWise.generateQuestion as genSubwiseQue
 
-
 app = Flask(__name__)
 @app.route('/',methods = ['GET','POST'])
 def home():

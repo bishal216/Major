@@ -1,0 +1,44 @@
+Chapter 6 Implementation of Information System
+6.1 Change Management in Information System
+Change Management
+• On implementation of information system, many changes may be resulted in an organization.
+• Some of the areas that the information system affects are as follows:
+1. Organizational structure
+2. Centralization of Authority
+3. Job content
+4. Relationships
+• Change management is the organizational process that analyze and define all the changes faced by an organization and develop programs to reduce the cost and risk and to maximize the benefits of the changes.
+• It is a structured approach to facilitates the adoption of new changes within the system.
+Importance of Change Management in IS Implementation
+• Information system is the dynamic aspect of an organization. Changes are necessary over time.
+• The information system's reliability is based on the new technologies for which changes are important to be made.
+• Change management helps to manage the possible changes without affecting the current operation of an organization.
+• Change management also helps to adopt changes in an efficient manner for organizational progress.
+• Change management detects all the possible problems that may be faced by an organization on adopting to new changes and develop strategies to overcome effects of those changes.
+Change Management Tactics to be applied:
+• Change management process is the sequence of steps that is to be followed to take most out of the changes faced by an organization.
+• The tactics to be applied for a successful change management process are as follows:
+1. Preparing for the change:
+• It involves the process of understanding the problem and the need to change.
+• It helps in understanding the environmental factors affecting the business.
+2. Managing change:
+• The vision is created for the necessary changes to be applied.
+• The possible resistance to changes are identified.
+• A change management plan is formulated.
+• A path for change management is created.
+• A project deployment plan is made.
+3. Reinforcing change:
+• A deployment plan for the necessary changes are executed.
+• For executing change, an appropriate change model is used.
+• The fundamental changes are made to an organizational system.
+• Reviews and feedback are collected about the changes made.
+• Defects caused by the changes are identified and the corrective actions are performed to make changes more sustainable for organizational operations.
+6.2 Next Generation Balanced Scorecard
+Importance of BSC in IS Implementation:
+• Balanced scorecard measures and manages the direction of a strategically focused company through financial as well as non-financial performance indicators and key figures.
+Next Generation BSC:
+• Next generation balanced scorecard is the concept or implementation of the things that are lacking in the previous balanced scorecard which must be implemented for successful strategic achievement by an organization.
+• It includes critical alignment, shared responsibility and cause and effect relationships which are not included in the traditional balanced scorecard.
+• It implements the concept that the balanced scorecard should be broken down to the underlying levels by taking few of the operational goals and key figures from each individual strategic goals from top to down.
+• It then assigns each of the measured variables that can be influenced, to the responsible employees in the sense of the performance agreement.
+• It also manages a comprehensive target and key figures library to keep track of the different sectors for strategic controlling.
