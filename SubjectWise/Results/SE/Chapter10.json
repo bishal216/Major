@@ -1,0 +1,216 @@
+[
+    {
+        "question": "What is the definition of CM?",
+        "answer": "Configuration management (CM) is concerned with the policies, processes, and tools for managing changing software systems.","marks":2
+    },{
+        "question": "What is the definition of CM?",
+        "answer": "Release management: This involves preparing software for external release and keeping track of the system versions that have been released for customers use.","marks":2
+    },{
+        "question": "What is the definition of a continuous change request?",
+        "answer": "Software systems are subject to continual change requests:?","marks":2
+    },{
+        "question": "What is the definition of CM?",
+        "answer": "Change Management: This involves keeping track of requests for the changes to the software from customers and developers, working out the costs and impact of making these changes, and deciding if and when the changes should be implemented.","marks":2
+    },{
+        "question": "What is the definition of CM?",
+        "answer": "2.","marks":2
+    },{
+        "question": "What is the definition of a software configuration?",
+        "answer": "Work products 3.","marks":2
+    },{
+        "question": "What is the purpose of CM?",
+        "answer": "the CM database used to record configuration information CM is useful for the individual projects as it is easy for one person to forget what changes have been made.","marks":2
+    },{
+        "question": "What is the definition of a software configuration?",
+        "answer": "Computer programs 2.","marks":2
+    },{
+        "question": "Who is the author of the chapter?",
+        "answer": "CHAPTER 10 Configuration Management -Mr.","marks":2
+    },{
+        "question": "What is the role of change management?",
+        "answer": "Change management is concerned with keeping track of these changes and ensuring that they are implemented in the most cost-effective way.","marks":2
+    },{
+        "question": "What is the definition of a document scheme?",
+        "answer": "the types of documents to be managed and a document scheme.","marks":2
+    },{
+        "question": "What is the purpose of CM?",
+        "answer": "2 Change Management Change management is concerned with analyzing the costs and benefits of the proposed changes, approving those changes that are worthwhile, and tracking which components in the system have been changed.","marks":2
+    },{
+        "question": "What are the tools that should be used to assist the CM process?",
+        "answer": "the tools which should be used to assist the CM process and only limitation on their use.","marks":2
+    },{
+        "question": "What is the importance of CM for a team project?",
+        "answer": "It is essential for the team projects where several developers are working at the same time on a software system.","marks":2
+    },{
+        "question": "Who is subject to continual change requests?",
+        "answer": "From users, developers, market forces?","marks":2
+    },{
+        "question": "What is the definition of a software configuration?",
+        "answer": "Data The items that comprise all information produced as part of the software process are collectively called a software configuration.","marks":2
+    },{
+        "question": "What are the policies for change control and version management?",
+        "answer": "policies for the change control and version management.","marks":2
+    },{
+        "question": "What is the definition of a software configuration?",
+        "answer": "1 Configuration management planning The output of the software process is information that may be divided into three broad categories: 1.","marks":2
+    },{
+        "question": "What is the process of building a software system?",
+        "answer": "System Building: This is the process of assembling program components, data, and libraries, and then compiling and linking these to create an executable system.","marks":2
+    },{
+        "question": "What is the role of CM?",
+        "answer": "The CM ensures that teams have access to information about a system that is underdevelopment and do not interfere with each other\u2019s work.","marks":2
+    },{
+        "question": "What are the activities of a software system product?",
+        "answer": "The CM of a software system product involves four closely related activities: 1.","marks":2
+    },{
+        "question": "What is the definition of CM?",
+        "answer": "Version Management: This involves keeping track of the multiple versions of system components and ensuring that changes made to components by different developers do not interfere with each other.","marks":2
+    },{
+        "question": "Who takes responsibility for the CM procedures and creation baseline?",
+        "answer": "who takes responsibility for the CM procedures and creation baseline 3.","marks":2
+    },{
+        "question": "What is the difference between a hierarchical naming scheme and a change management system?",
+        "answer": "\u2022 A hierarchical naming scheme leads to fewer errors in version identification.","marks":2
+    },{
+        "question": "What is the basic technique for identifying a system version?",
+        "answer": "\u2022 There are three basic techniques for component identification a) Version numbering b) Attribute-based identification a) C) Change-oriented identification A)Version numbering \u2022 Simple naming scheme uses a linear derivation Eg.","marks":2
+    },{
+        "question": "What is the definition of a version?",
+        "answer": "2, V2.","marks":2
+    },{
+        "question": "What is the definition of a change request?",
+        "answer": "2 etc.","marks":2
+    },{
+        "question": "What is the definition of a change request form?",
+        "answer": "* This form records the change proposed, requestor of change, the reason why change was suggested and the urgency of change (from requestor of the change).","marks":2
+    },{
+        "question": "What is the process of building a system?",
+        "answer": "System Building System building is the process of creating a complete,executable system by compiling and linking the system components, external libraries etc.","marks":2
+    },{
+        "question": "What should be done when a new release is installed?",
+        "answer": "All files required for a release should be re-created when a new release is installed.","marks":2
+    },{
+        "question": "What is the difference between naming a version and a version?",
+        "answer": "10.","marks":2
+    },{
+        "question": "What is the difference between a change set and a version?",
+        "answer": "\u2022 Each proposed change has a change set that describes changes made to implement that change.","marks":2
+    },{
+        "question": "What is the correct version of the component?",
+        "answer": "> Is the appropriate component version specified?","marks":2
+    },{
+        "question": "What is the difference between a version and a change set?",
+        "answer": "c) Change-oriented identification \u2022 Integrates versions and the changes made to create these versions.","marks":2
+    },{
+        "question": "What is the best way to build a CM system?",
+        "answer": "4.","marks":2
+    },{
+        "question": "What is the best way to integrate a CM system?",
+        "answer": "Integrated workbenches Provide whole-process, integrated support for configuration management.","marks":2
+    },{
+        "question": "What is the purpose of the change history recording?",
+        "answer": "> Change history recording \u2022 Record reasons for version creation.","marks":2
+    },{
+        "question": "What is the difference between versions?",
+        "answer": "> Storage management \u2022 System stores the differences between versions rather than all the version code.","marks":2
+    },{
+        "question": "What is the best way to do this?",
+        "answer": "Parallel working on different versions.","marks":2
+    },{
+        "question": "What is the correct version of the compiler and other software tools?",
+        "answer": "> Is the right version of the compiler and other software tools specified?","marks":2
+    },{
+        "question": "What is the main difference between a CM and a stand-alone tool?",
+        "answer": "> Large amounts of data must be managed.","marks":2
+    },{
+        "question": "What are the CASE tools for configuration management?",
+        "answer": "5 CASE tools for configuration management > CASE tools are available to support all CM activities.","marks":2
+    },{
+        "question": "What is the difference between a standard and a CM workbench?",
+        "answer": "2.","marks":2
+    },{
+        "question": "What are the best tools for CM?",
+        "answer": "> Mature CASE tools to support configuration management are available ranging from stand-alone tools to integrated CM workbenches.","marks":2
+    },{
+        "question": "What are the advantages of CM workbenches?",
+        "answer": "CM workbenches 1.","marks":2
+    },{
+        "question": "What is the cost of integrating a CM tool?",
+        "answer": "However, the cost is less flexibility in the tools used.","marks":2
+    },{
+        "question": "What is the best way to build a CM system?",
+        "answer": "3.","marks":2
+    },{
+        "question": "What is the difference between a CM and a version management system?",
+        "answer": "Change management tools Change management is a procedural process so it can be modeled and integrated with a version management system.","marks":2
+    },{
+        "question": "What is the best way to build a CM system?",
+        "answer": "More tightly integrated tools so easier to use.","marks":2
+    },{
+        "question": "What are the differences between the two?",
+        "answer": "Standards vary from place to place.","marks":2
+    },{
+        "question": "What is the main difference between a change management tool and a VM?",
+        "answer": "Change management tools > Form editor to support processing the change request forms > Workflow system to define who does what and to automate information transfer > Change database that manages change proposals and is linked to a VM system.","marks":2
+    },{
+        "question": "What is the simplest way to build a system?",
+        "answer": "Fig: system building 10.","marks":2
+    },{
+        "question": "What are the advantages of using open workbenches?",
+        "answer": "Open workbenches Tools for each stage in the CM process are integrated through organizational procedures and scripts.","marks":2
+    },{
+        "question": "What is the definition of a formal document naming scheme?",
+        "answer": "A formal document naming scheme should be established and documents should be managed in a database.","marks":2
+    },{
+        "question": "What is the definition of a requirement?",
+        "answer": "(068 Chaitra) Explain requirement management process with necessary illustration.","marks":2
+    },{
+        "question": "What are the requirements for a restaurant information system?",
+        "answer": "List functional and non-functional requirements for this Restaurant Information System.","marks":2
+    },{
+        "question": "What are the characteristics of a good software requirement specification?",
+        "answer": "List out requirement elicitation techniques.","marks":2
+    },{
+        "question": "What are the problems in formation of requirements?",
+        "answer": "What are the problems in formation of requirements?","marks":2
+    },{
+        "question": "What is the definition of a configuration data base?",
+        "answer": "The configuration data base should record information about changes and change requests.","marks":2
+    },{
+        "question": "What are the key points of a good software requirement specification?",
+        "answer": "Key points?","marks":2
+    },{
+        "question": "What is the difference between a project and a document?",
+        "answer": "> Project support \u2022 Can manage groups of files associated with a project rather than just single files.","marks":2
+    },{
+        "question": "What are the main features of CASE tools?",
+        "answer": "CASE tools are available to support all CM activities?","marks":2
+    },{
+        "question": "What is the importance of requirement engineering?",
+        "answer": "(068 Baisakh) Explain the importance of requirement engineering.","marks":2
+    },{
+        "question": "What is the definition of a requirement?",
+        "answer": "(068 Chaitra) Explain software requirement specification (SRS).","marks":2
+    },{
+        "question": "What are the characteristics of a good software requirement specification document?",
+        "answer": "What are the characteristics of a good software requirement specification document?","marks":2
+    },{
+        "question": "What is the definition of a consistent scheme of version identification?",
+        "answer": "A consistent scheme of version identification should be established using version numbers, attributes or change sets.","marks":2
+    },{
+        "question": "What is the definition of a system building?",
+        "answer": "System building involves assembling components into a system.","marks":2
+    },{
+        "question": "What are the components of a system release?",
+        "answer": "System releases include executable code, data, configuration files and documentation.","marks":2
+    },{
+        "question": "What is the role of the restaurant information system?",
+        "answer": "Questions A restaurant uses an information system that takes customer orders, sends the order to the kitchen, the goods sold and inventory and generates reports for management.","marks":2
+    },{
+        "question": "What are the main features of a CASE tool?",
+        "answer": "CASE tools may be stand-alone tools or may be integrated systems which integrate support for version management, system building and change management.","marks":2
+    },{
+        "question": "What is the definition of a configuration management?",
+        "answer": "Configuration management is the management of system change to software products.","marks":2
+    }
+]

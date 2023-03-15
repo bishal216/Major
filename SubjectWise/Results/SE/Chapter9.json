@@ -1,0 +1,244 @@
+[{
+    "question": "What is the difference between the predicted resources and the actual resources used?",
+    "answer": "From one project to another, we want to minimize the difference between the predicted resources needed to complete a project and the actual resources used, including staff, equipment, and calendar time.","marks":3
+},{
+    "question": "What does the QA team do?",
+    "answer": "This means they manage the testing of the software before it is released to customers.","marks":3
+},{
+    "question": "What is a filter for the software process?",
+    "answer": "This are applied at various points during software engineering and serve to uncover errors and defects that can be removed.","marks":2
+},{
+    "question": "What is the definition of quality assurance?",
+    "answer": "Quality assurance (QA) is the definition of process and the standards that should lead to high quality products and introduction of quality process into manufacturing process In software industry, different companies and industry sectors quality assurance is used in different ways; sometimes Q/A simply means the definition of procedures, processes and standards that are aimed at ensuring software quality is achieved.","marks":4
+},{
+    "question": "What is the definition of QA?",
+    "answer": "In general, we would like to make sure our testing program covers a known percentage of the software, from one release to another.","marks":2
+},{
+    "question": "What is the definition of QA?",
+    "answer": "How might a software development organization need to control variation?","marks":2
+},{
+    "question": "What is the definition of quality management?",
+    "answer": "1 Quality concept With development of software it is necessary to develop a concept.","marks":3
+},{
+    "question": "What is the meaning of the passage?",
+    "answer": "(Our customers will likely be upset if the third release of a product has ten times as many defects as the previous release.","marks":3
+},{
+    "question": "What is the purpose of the chapter 9 QUALITY MANAGEMENT?",
+    "answer": "Not only do we want to minimize the number of defects that are released to the field, we\u2019d like to ensure that the variance in the number of bugs is also minimized from one release to another.","marks":5
+},{
+    "question": "What is the definition of quality assurance?",
+    "answer": "2 Quality Assurance The terms quality assurance is widely used in manufacturing industry.","marks":3
+},{
+    "question": "What is the definition of Q/A?",
+    "answer": "In other cases Q/A also includes all configuration, management, verification and validation activities that are applied after a product has been handed over by a development team.","marks":3
+},{
+    "question": "What is the role of the QA team in software development?",
+    "answer": "The QA team in most companies is responsible for managing the release testing process.","marks":4
+},{
+    "question": "What is the purpose of the article?",
+    "answer": ") We would like to minimize the differences in speed and accuracy of our hotline support responses to customer problems.","marks":3
+},{
+    "question": "What is the definition of quality assurance?",
+    "answer": "Software Quality Assurance encompasses > A quality management approach, > Effective software engineering technology (methods and tools), > Formal technical reviews that are applied throughout the software process, > A multitiered testing strategy, > Control of software documentation and the changes made to it, > A procedure to ensure compliance with software development standards (when applicable), and > Measurement and reporting mechanisms.","marks":4
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "The FTR also serves to promote backup & continuing because number of people becomes familiar with parts of the software.","marks":3
+    },{
+    "question": "What are the main objectives of a formal technical review?",
+    "answer": "Review Meeting: Regardless of the FTR format that is chosen every meeting should abide by following constraints: > Between 3 to 5 people should be involved in review meeting > Advance preparation should occur but should be less than 2 hours of work for each person > The duration of the review meeting should not be more than 2 hours Given these constrains it should be obvious that an FTR focuses on a specific part of the overall software for example rather than attempting to review an entire design, walkthroughs are conducted for each components the individuals who has developed the work product \u2013 the producers- informs the project leader that the work product is complete and a review is required.","marks":5
+},{
+    "question": "What is a formal technical review?",
+    "answer": "4 FORMAL TECHNICAL REVIEWS A formal technical review is software quality activity performed by software engineers for following objectives; > To uncover error in function, logic or implementation for any representation of the software.","marks":2
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "Each FTR is conducted as meeting and will be successful only if properly planned, controlled, and attended.","marks":3
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "The project leader contacts a review leader who evaluates the product for readiness, generates copies of product materials and distributes it to two or three reviewers for advance preparation.","marks":3
+},{
+    "question": "What is the most effective filter form a quality assurance point?",
+    "answer": "A formal technical review is the most effective filter form a quality assurance point.","marks":3
+},{
+    "question": "What is a formal technical review?",
+    "answer": "An informal meeting around a coffee shop is a form of review, if technical problem are discussed.","marks":2
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "The reviewer including review leader reviews the product and establishes an agenda for the review meeting.","marks":3
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "> Verify software if it has met is requirement.","marks":2
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "After the review meeting one of the reviewer records the valid problems or errors that are discovered.","marks":3
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "In addition FTR serves as a training ground for junior engineers to observe different approach of software analysis, design and construction.","marks":3
+},{
+    "question": "What is a formal technical review?",
+    "answer": "A formal presentation of software design to an audience of customers management and technical staffs is also form of review.","marks":3
+},{
+    "question": "What is the purpose of a formal technical review?",
+    "answer": "> Ensure that software has been represented according to predefined standards.","marks":3
+},{
+    "question": "What is the purpose of the review issue?",
+    "answer": "The review issue is a single page form.","marks":4
+},{
+    "question": "What is the main purpose of the FTR?",
+    "answer": "Review the product not the producer: > FTR should leave warm feeling of accomplishment.","marks":3
+},{
+    "question": "What is the FTR?",
+    "answer": "> FTR must be kept on track and on schedule > FTR must be responsive and shouldn\u2019t be afraid to nudge people.","marks":3
+},{
+    "question": "What is the best way to conduct a formal review?",
+    "answer": "5 Take written notes: It is good to make notes on wall board so that wording and priorities can be assessed by other reviewers;.","marks":3
+},{
+    "question": "What is the purpose of the review issue?",
+    "answer": "The review issue serves two purposes: 1.","marks":3
+},{
+    "question": "How many people must be preparing for the FTR?",
+    "answer": "6 Limit the number of participants and insist upon advance preparation: Number of people must be minimum and review team member must be preparing in advance.","marks":3
+},{
+    "question": "What is the purpose of the FTR?",
+    "answer": "To serve an action item check list that guides the producer as correctness are made.","marks":3
+},{
+    "question": "What is the tone of the meeting?",
+    "answer": "> Tone of meeting should be loose and constructive.","marks":2
+},{
+    "question": "What is the best way to conduct a formal review?",
+    "answer": "Accept the product provisionally (with minor errors that could be correct but further additional review is not required.","marks":3
+},{
+    "question": "What should be the main focus of the training?",
+    "answer": "The training should stress both issues and human Psychological side of review.","marks":3},
+{
+    "question": "What is the purpose of the FTR?",
+    "answer": "To identify the problem areas within the product.","marks":3
+},{
+    "question": "What is the purpose of the FTR?",
+    "answer": "7 Develop a checklist for each product that is likely to be reviewer: A checklist helps the review leader to structure the FTR meeting and helps each to focus on important issues.","marks":4
+},{
+    "question": "What is the best way to conduct a formal review?",
+    "answer": "> Errors should be pointed out gently.","marks":3
+},{
+    "question": "What is the best way to conduct a formal review?",
+    "answer": "Set an agenda and maintain it.","marks":3
+},{
+    "question": "What is the purpose of the FTR?",
+    "answer": "Review Reporting and Record Keeping During the FTR, a reviewer (the recorder) actively records all issues that have been raised.","marks":3
+},{
+    "question": "What is the FTR summary report?",
+    "answer": "In addition a FTR summary report is completed which answers 3 questions: > Who was reviewed?","marks":3
+},{
+    "question": "What is the best way to conduct a formal review?",
+    "answer": "4 Enunciate problems but don\u2019t try to solve every problem noted: Review is time for discussing related problems rather than solving problems instantly.","marks":3
+},{
+    "question": "What is the best way to conduct a formal review?",
+    "answer": "3 Limit debate and rebuttal > When an issue is raised there may be universal agreement.","marks":3
+},{
+    "question": "What is the definition of reliability?",
+    "answer": "Software reliability is not independent.","marks":2
+},{
+    "question": "What is the definition of a software quality assurance?",
+    "answer": "The software can then behave unpredictably and produce unexpected outputs.","marks":3
+},{
+    "question": "What is the definition of a statistical quality assurance?",
+    "answer": "> Once the vital few causes have been identified move to correct the problems that have caused the defects.","marks":3
+},{
+    "question": "What is the definition of a statistical quality assurance?",
+    "answer": "> An attempt is made to trade each defect to its underlying cause.","marks":3
+},{
+    "question": "What is the definition of a statistical quality assurance?",
+    "answer": "> Information about software defects is collected and categorized.","marks":3
+},{
+    "question": "What is the definition of a statistical quality assurance?",
+    "answer": "A strict and detailed syntax and semantics ( meaning of words and sentences) can be defined for every programming language and a strict and detailed approach to the specification of the software requirement is required, if requirement and programming language can be represented in strict and detailed manner then we can apply mathematical proof of correctness to demonstrate that a program conforms exactly to its specifications.","marks":3
+},{
+    "question": "What is the definition of failure?",
+    "answer": "Failure is non- conformance to the software requirement.","marks":2
+},{
+    "question": "What is the definition of a statistical quality assurance?",
+    "answer": "As there are restrictions on costs and time the data is gathered carefully so that each data has some purpose and gets its expected precision.","marks":3
+},{
+    "question": "What is the definition of a formal SQA?",
+    "answer": "Over past 2 decades software engineering community has argued for more formal SQA is required.","marks":2
+},{
+    "question": "What is the definition of statistical quality assurance?",
+    "answer": "Once sufficient data or information is gathered, statistical studies are done.","marks":2
+},{
+    "question": "What is the definition of statistical quality assurance?",
+    "answer": "Statistical samples are obtained from the software products to test for reliability of the software.","marks":3
+},{
+    "question": "What is the definition of a failure?",
+    "answer": "Hardware failure can generate spurious signals that are outside the range of inputs expected by the software.","marks":2
+},{
+    "question": "What is the definition of reliability?",
+    "answer": "For reliability testing, data is gathered from various stages of development, such as the design and operating stages.","marks":3
+},{
+    "question": "What is the definition of reliability?",
+    "answer": "7 Software reliability Ability: The probability that the system, at a point in time, will be operational and able to deliver the requested service.","marks":3
+},{
+    "question": "What is the definition of reliability?",
+    "answer": "To achieve the satisfactory results from reliability testing one must take care of some reliability characteristics.","marks":3
+},{
+    "question": "How are time constraints handled?",
+    "answer": "Time constraints are handled by applying fixed dates or deadlines for the tests to be performed.","marks":2
+},{
+    "question": "What is the definition of a proof of correctness?",
+    "answer": "To prove programs correctness we can use Dijkistra and linger, mills and Witt etc.","marks":3
+},{
+    "question": "What is the definition of statistical quality assurance?",
+    "answer": "6 STATISTICAL SOFTWARE QUALITY ASSURANCE Statistical is quality assurance reflects a growing trend throughout industry to become more quantitative about quality.","marks":3
+},{
+    "question": "How do you measure the quality of software?",
+    "answer": "> Using the Pareto principle, isolate 20percent.","marks":4
+},{
+    "question": "What is the definition of a prediction model?",
+    "answer": "Estimation modeling These modeling techniques follow observation and analyzes with statistical inference.","marks":3
+},{
+    "question": "What are the main attributes of software reliability?",
+    "answer": "GOOD QUALITY, RELIABILITY AND MAINTAINABILITY ARE IMPORTANT ATTRIBUTES OF ENTERPRISE APPLICATIONS AND HAVE A HUGE IMPACT ON THE SUCCESS ON THE ECONOMICS OF THE BUSINESSES POWERED.","marks":4
+},{
+    "question": "What is the focus of the testing?",
+    "answer": "if there are predefined deadlines), then intensified stress testing is used.","marks":2
+},{
+    "question": "What is the definition of a software model?",
+    "answer": "Estimation Model Estimation model uses the current data from the current software development effort and doesn't use the conceptual development phases and can estimate at any time.","marks":2
+},{
+    "question": "What are the main components of the software model?",
+    "answer": "They usually made prior development and regular test phases.","marks":3
+},{
+    "question": "What are the three terms used in software metrics?",
+    "answer": "If the restrictions are on operation time or if the focus is on first point for improvement, then one can apply compressed time accelerations to reduce the testing time.","marks":3
+},{
+    "question": "What is the definition of a software model?",
+    "answer": "There is no single model which can be used in every situation.","marks":2
+},{
+    "question": "what is the definition of reliability?",
+    "answer": "Measurement of reliability in Mean Time between Failures (MTBF) MTBF=MTTF+MTTR Where, MTTF: Mean time to failure MTTR: Mean time to repair Ability= MTTF/(MTTF+MTTR)*100 Reliability= MTTF/(1+MTBF) Over 225 models have been developed since early 1970s, but how to quantify software reliability still remains unsolved.","marks":2
+},{
+    "question": "What are the main parts of the ISO 9126 standard?",
+    "answer": "The standard is divided into four parts, which address, respectively, the following subjects: quality model; external metrics; internal metrics; and quality in use metrics.","marks":2
+},{
+    "question": "What is the definition of a quality measure?",
+    "answer": "> Interpretation: The evaluation of metrics in an effort to gain insight into the quality of the representation.","marks":2
+},{
+    "question": "What is the definition of a quality measure?",
+    "answer": "10 ISO Standard ISO 9126 is an international standard for the evaluation of software quality.","marks":2
+},{
+    "question": "What is the definition of quality?",
+    "answer": "Quality Mode The quality model established in the first part of the standard, ISO 9126-1, classifies software quality in a structured set of characteristics and sub-characteristics.","marks":2
+},{
+    "question": "What are the definitions of the definition of a quality measure?",
+    "answer": "These are also considered as nonfunctional requirements metrics.","marks":2
+},{
+    "question": "What is the definition of a quality model?",
+    "answer": "> Feedback:Recommendations derived from the interpretation of product metrics and passed on to the software development team \u2013 9.","marks":2
+},{
+    "question": "What is the definition of a metric?",
+    "answer": "9 Matrices for analysis and design model Metrics for the analysis > Functionality delivered \u2013 Provides an indirect measure of the functionality that is packaged within the software > System size \u2013 Measures the overall size of the system defined in terms of information available as part of the analysis model > Specification quality \u2013 Provides an indication of the specificity and completeness of a requirements specification Metrics for the Design Model > Architectural metrics \u2013 Provide an indication of the quality of the architectural design > Component-level metrics \u2013 Measure the complexity of software components and other characteristics that have a bearing on quality > Interface design metrics \u2013 Focus primarily on usability > Specialized object-oriented design metrics \u2013 Measure characteristics of classes and their communication and collaboration characteristics 9.","marks":4
+},{
+    "question": "What is the definition of a measure?",
+    "answer": ", identification) of software measures and metrics appropriate for the representation of the software that is being considered > Collection: The mechanism used to accumulate data required to derive the formulated metrics > Analysis: The computation of metrics and the application of mathematical tools.","marks":3
+},{
+    "question": "What is the definition of a measure?",
+    "answer": "* Measure :Provides a quantitative indication of the extent, amount, dimension, capacity, or size of some attribute of a product or process * Measurement: The act of determining a measure * Metric:(IEEE) A quantitative measure of the degree to which a system, component, or process possesses a given attribute * Indicator: A metric or combination of metrics that provides insight into the software process, a software project, or the product itself Activities of a Measurement Process > Formulation: The derivation (i.","marks":3
+}]

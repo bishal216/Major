@@ -1,10 +1,5 @@
-[
-{"question": "What do companies buy to create new technology?", "answer": "Companies buy resources needed to create new technology.", "marks": "2"},
-
-
+[{"question": "What do companies buy to create new technology?", "answer": "Companies buy resources needed to create new technology.", "marks": "2"},
 {"question": "What is the definition of technology?", "answer": "Technology is the practical use of human knowledge to extend human abilities and to satisfy human needs and wants.", "marks": "2"},
-
-
 {"question": "Define technology", "answer": "Technology is the practical use of human knowledge to extend human abilities and to satisfy human needs and wants.", "marks": "2"},
 
 
@@ -23,7 +18,7 @@
 {"question": "What is the most important aspect of technology?", "answer": "The most important aspect of technology is knowledge technology, as it is essential for people to have the knowledge and skills to make products and use technology effectively.", "marks": "2"},
 
 
-{"question": "How does technology advance?", "answer": "Technology advances by adapting, so each new product is an improvement over an existing one."},
+{"question": "How does technology advance?", "answer": "Technology advances by adapting, so each new product is an improvement over an existing one.","marks":"4"},
 {"question": "What are the resources of technology?", "answer": "Resources of technology include people, information, tools and machines, capital, time,materials, and energy.", "marks": "3"},
 
 

@@ -1,0 +1,35 @@
+{% extends "baseHTML.html" %}
+{% block title %}Generate Question from Text{% endblock %}
+{% block content %}
+    <div class="container">
+    <h3>Generated Questions</h3>
+        {% if questions %}
+    <div class='block'>
+    <ol>
+        {% for q in questions %}
+            <li>
+                {{ q.question }} <br>
+                {% if q.options %}
+                <ul>
+                    {% for option in q.options %}
+                        <li>{{ option }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ol>
+</div>
+{% endif %}
+<h3 class='GenAns'>Generated Answers</h3>
+    <div class="block">
+        
+        <ol>
+            {% for a in answers%}
+            <li>{{a}}</li>
+            {% endfor %}
+        </ol>
+    </div>
+</div>
+    
+{% endblock %}

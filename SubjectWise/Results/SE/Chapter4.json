@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is a \u2018soft\u2019 real-time system?",
+        "answer": "* A \u2018hard\u2019 real-time system is a system whose operation is incorrect if results are not produced according to the timing specification.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "> For each stimuli & response, identify the timing constraints > Aggregate the stimulus & response processing into concurrent process A process may be associated with each class of stimulus & response.",
+        "marks": 3
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "Chapter 4 Real time software design Definition A real-time system is a software system where the correct functioning of the system depends on the results produced by the system and the time at which this result are produced.",
+        "marks": 4
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "* Aperiodic stimuli which occur at unpredictable time interval.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "> Design a scheduling system which will ensure that processes are started in time to meet their deadlines.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "4.",
+        "marks": 2
+    },
+    {
+        "question": "What is the difference between a real time system and a real time system?",
+        "answer": "Fig: hardware and software design > Identify the stimuli to be processed and the required responses to the stimuli.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "> Design decision should be made on the basis of Non-functional system requirements.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "* Periodic stimulus system & stimuli which occurs at the prediction time intervals.",
+        "marks": 2
+    },
+    {
+        "question": "What is the difference between hardware and software?",
+        "answer": "Partition function to either hardware of software.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "> Design algorithms to process each class of stimulus & response.",
+        "marks": 2
+    },
+    {
+        "question": "What is a \u2018soft\u2019 real-time system?",
+        "answer": "* A \u2018soft\u2019 real-time system is a system groups whose operation is degraded if results are not produced according to the specified timing requirement.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "Stimulus system * Given a stimulus, system must produce a response within a specified time.",
+        "marks": 2
+    },
+    {
+        "question": "What is the difference between a real time system and a real time system?",
+        "answer": "1 System Design > Design both the hardware & software associated with system.",
+        "marks": 2
+    },
+    {
+        "question": "What is the role of the actuator?",
+        "answer": "Actuator > Generates control signals for actuator.",
+        "marks": 2
+    },
+    {
+        "question": "What is the generality of the stimulus response system of a real-time system?",
+        "answer": "General Model of Real Time System Fig : The sensor-system activator model of an embedded real-time system Sensor/actuator process Response Fig : Sensor/actuator control process > The generality of the stimulus response system of a real-time system leads to the generic architectural model where there are three types of process.",
+        "marks": 6
+    },
+    {
+        "question": "What are the requirements for a real-time system?",
+        "answer": "These must meet the given timing requirements.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "Data processor: > Carries out processing of collected information and compute response.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "Sensor control process: * collect information from sensor * May buffer information collected in response to a sensor stimulus.",
+        "marks": 2
+    },
+    {
+        "question": "What is the difference between hardware and software?",
+        "answer": "> Hardware delivers better performance but potentially longer development & less scope for change.",
+        "marks": 3
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "1.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a state machine?",
+        "answer": "> UML includes notations for defining state machine model.",
+        "marks": 2
+    },
+    {
+        "question": "What is the best way to program in real time?",
+        "answer": "Hard teal time system may help to program in assembly language to ensure that deadline are made.",
+        "marks": 4
+    },
+    {
+        "question": "What is the difference between a real time and a specialized operating system?",
+        "answer": "II.",
+        "marks": 1
+    },
+    {
+        "question": "What is the difference between ada and ada?",
+        "answer": "Language such as C allows efficient program to be written but do not have constructs to support concurrency or shared resource management.",
+        "marks": 4
+    },
+    {
+        "question": "What is the definition of a real time operating system?",
+        "answer": "4.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time program?",
+        "answer": "Real time Program I.",
+        "marks": 2
+    },
+    {
+        "question": "What is the purpose of ada?",
+        "answer": "Ada is a language design to support real time system design so includes a general purpose concurrency management.",
+        "marks": 2
+    },
+    {
+        "question": "What is the role of the executive?",
+        "answer": "> Responsible for process management and resource allocation > Doesn\u2019t include facilities such as file management.",
+        "marks": 2
+    },
+    {
+        "question": "What does the term \"real time\" mean?",
+        "answer": "> May mean that certain design strategies such as object oriented design cannot be used because of additional overhead involved.",
+        "marks": 2
+    },
+    {
+        "question": "What is the difference between the two?",
+        "answer": "2 Real \u2013time operating system/executives > Executive is analogous to an OS in a general purpose computer > Are specialized operating system which manage the processes in RTS.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time operating system?",
+        "answer": "Timing constraints > May require extensive simulation and experiment to ensure that they are made by the system.",
+        "marks": 2
+    },
+    {
+        "question": "What is the difference between ada and ada?",
+        "answer": "III.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a finite state machine?",
+        "answer": "> Finite state machine can be used for modelling real time system.",
+        "marks": 2
+    },
+    {
+        "question": "What is the definition of a real time system?",
+        "answer": "Full power Number Time Full power Half power Time Door closed Start Half power Door open Door-closed Cancel System fault Fig: Microwave oven state machine State machine modelling > The effect of stimulus in real-time system may trigger a transition from one state to another.",
+        "marks": 3
+    },
+    {
+        "question": "What does the term \"real time\" mean?",
+        "answer": "> May mean that low level programming language features have to be used for performance reason.",
+        "marks": 2
+    },
+    {
+        "question": "What is the best way to integrate a real-time execution or operating system?",
+        "answer": "> Integrate using a real-time execution or operating system.",
+        "marks": 2
+    },
+    {
+        "question": "What is the simplest way to detect a break-in?",
+        "answer": "> When a sensor indicates a break-in, the system switches on light around the area & calls police automatically.",
+        "marks": 2
+    },
+    {
+        "question": "How long does it take to call police?",
+        "answer": "Communication Call to police within 2 sec of alarm 8.",
+        "marks": 2
+    },
+    {
+        "question": "How long does it take to switch to backup power?",
+        "answer": "Power failure Switch to backup within 50 ms.",
+        "marks": 2
+    },
+    {
+        "question": "What is the best time to activate the alarm?",
+        "answer": "> Introduce alarm -> stimulus generated by system sensor, response is to call the police, switch on building lights & audible alarm.",
+        "marks": 2
+    },
+    {
+        "question": "how long does it take to activate an alarm?",
+        "answer": "4 sec of an alarm being raised by a.",
+        "marks": 2
+    },
+    {
+        "question": "How does the system detect a break-in?",
+        "answer": "> The system should include provision for operation without a main power supply Sensor > Movement detectors, window sensors, door sensors > 50 window sensor, 50 door sensors, 200 movement sensor > Voltage drop sensor Action > When an intruder is detected, police are called automatically > Lights are switched on in rooms with active sensors > An audible alarm is switched on > The system switches automatically to backup power when a voltage drop is detected Stimuli to be pressed > Power failure -> generated aperiodically by a circuit monitor when received, the system must switched to backup power within 50 ms.",
+        "marks": 6
+    },
+    {
+        "question": "How often is the door alarm plowed?",
+        "answer": "Door alarm Polled twice per second 3.",
+        "marks": 2
+    },
+    {
+        "question": "What is the best way to detect a break-in?",
+        "answer": "Voice synthesizer Message should be available within.",
+        "marks": 2
+    },
+    {
+        "question": "How long does it take to switch on the lights?",
+        "answer": "Audible Switch on within 12 second 6.",
+        "marks": 2
+    },
+    {
+        "question": "How many seconds must be used to activate the alarm?",
+        "answer": "Timing constraints Stimulus/response Timing requirement 1.",
+        "marks": 2
+    },
+    {
+        "question": "How many seconds is the system able to respond to an alarm?",
+        "answer": "2.",
+        "marks": 2
+    },
+    {
+        "question": "What is the simplest way to detect a break-in?",
+        "answer": "sensor 4.",
+        "marks": 2
+    },
+    {
+        "question": "What is the purpose of the system?",
+        "answer": "3 Monitoring & control system > Important class of real-time systems > Continuously check sensory & take actions depending on sensor value > Monitoring system examine sensor & report their results > Control systems take values & control hardware actuator Burglar alarm systems > This system requires to monitor sensors on doors & windows to detect the presence of intrudes in a building.",
+        "marks": 5
+    },
+    {
+        "question": "What is the simplest way to detect a break-in?",
+        "answer": "Released resources Ready processor Executing process Fig: Real time executive components 4.",
+        "marks": 2
+    },
+    {
+        "question": "What is the best way to collect data from sensors?",
+        "answer": "4 Data acquisition system > Collect data from sensors for subsequent processing & analyzer > Data collection processes and processing processes may have different periods and deadlines.",
+        "marks": 2
+    }
+]

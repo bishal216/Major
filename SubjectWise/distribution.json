@@ -1,4 +1,8 @@
 [
     {"subject":"OnM","markDistribution":[32,16,16,16] },
-    {"subject":"OnM","markDistribution":[40,16,16,8] }
+    {"subject":"OnM","markDistribution":[40,16,16,8] },
+    {"subject":"EPP","markDistribution":[4,8,6,8,6,8]},
+    {"subject":"EES","markDistribution":[10,10,20,10]},
+    {"subject":"OOAD","markDistribution":[18,14,21,27]},
+    {"subject":"SE","markDistribution":[20,5,10,5,5,3,10,8,10,4]}
 ]

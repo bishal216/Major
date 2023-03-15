@@ -1,0 +1,246 @@
+    [{
+        "question": "What is the overall idea of integration testing?",
+        "answer": "The overall idea is a \"building block\" approach, in which verified assemblages are added to a verified base which is then used to support the integration testing of further assemblages.","marks":4
+    },{
+        "question": "What is the purpose of integration testing?",
+        "answer": "However, if the test cases and their results are not recorded properly, the entire integration process will be more complicated and may prevent the testing team from achieving the goal of integration testing.","marks":3
+    },{
+        "question": "How much does testing cost?",
+        "answer": "Testing costs 1/3 to 12 of the total cost of software development process.","marks":2
+    },{
+        "question": "What is the best way to test a system?",
+        "answer": "The Big Bang method is very effective for saving time in the integration testing process.","marks":2
+    },{
+        "question": "What is the role of independent testing?",
+        "answer": "An independent testing team is responsible for system testing.","marks":2
+    },{
+        "question": "What is the purpose of integration testing?",
+        "answer": "The tests are based on system specification.","marks":2
+    },{
+        "question": "What is the purpose of integration testing?",
+        "answer": "CHAPTER-8 SOFTWARE TESTING AND COST ESTIMATION -Ela Thakur Software testing is the process of exercising with the specific intent of finding errors prior to delivery to the end user.","marks":4
+    },{
+        "question": "What is the purpose of integration testing?",
+        "answer": "Test cases are constructed to test that all components within assemblages interact correctly, for example across procedure calls or process activations, and this is done after testing individual modules, i.","marks":5
+    },{
+        "question": "What is the purpose of integration testing?",
+        "answer": "Testing is part of a broader process of software verification and validation.","marks":2
+    },{
+        "question": "What is the purpose of integration testing?",
+        "answer": "There are two phases in system testing: a) Integration testing: (IOE Q:Explain Integration testing 067 asadh) In this type of testing the test team has access to the system code.","marks":4
+    },{
+        "question": "What is the main purpose of integration testing?",
+        "answer": "Testing results in higher quality software, more satisfied user and lower maintenance cost, more accurate and reliable results.","marks":2
+    },{
+        "question": "What is the purpose of integration testing?",
+        "answer": "SYSTEM TESTING: System testing fully exercise the computer based system to verify the system elements have been properly integrated and perform allocated functions.","marks":3
+    },{
+        "question": "What is the difference between Big Bang and Bottom Up?",
+        "answer": "Big Bang In this approach, all or most of the developed modules are coupled together to form a complete software system or major part of the system and then used for integration testing.","marks":2
+    },{
+        "question": "What types of integration testing are there?",
+        "answer": "Some different types of integration testing are big bang, top-down, and bottom-up.","marks":3
+    },{
+        "question": "When is the top down approach helpful?",
+        "answer": "This approach is helpful only when all or most of the modules of the same development level are ready.","marks":2
+    },{
+        "question": "What is the difference between release testing and a black-box testing process?",
+        "answer": "Release testing is usually a black-box testing process where tests are derived from the system specification.","marks":3
+    },{
+        "question": "What is the difference between a top down and a bottom up approach to integrated testing?",
+        "answer": "All the bottom or low-level modules, procedures or functions are integrated and then tested.","marks":2
+    },{
+        "question": "What is the main advantage of system testing?",
+        "answer": "System testing by the development team should focus on discovering bugs in the system.","marks":3
+    },{
+        "question": "What is the difference between top down and bottom up testing?",
+        "answer": "Top-down and Bottom-up Bottom Up Testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components.","marks":3
+    },{
+        "question": "What is the main advantage of the Bottom-Up approach?",
+        "answer": "The main advantage of the Bottom-Up approach is that bugs are more easily found.","marks":2
+    },{
+        "question": "What is the difference between component testing and release testing?",
+        "answer": "Component testing should focus on testing component interfaces.","marks":2
+    },{
+        "question": "What is the difference between top down and bottom up testing?",
+        "answer": "This method also helps to determine the levels of software developed and makes it easier to report testing progress in the form of a percentage.","marks":2
+    },{
+        "question": "What is the difference between a black-box and a release testing?",
+        "answer": "The system is treated as black-box whose behavior.","marks":2
+    },{
+        "question": "What is the difference between top down and bottom up testing?",
+        "answer": "With Top-Down, it is easier to find a missing branch link b) Release testing: In this type of testing a separate testing team tests a complete version of the system before it is released to users.","marks":5
+    },{
+        "question": "What is the difference between a composite and a top down approach?",
+        "answer": "COMPONENT TESTING: Several individual units are integrated to create composite components.","marks":4
+    },{
+        "question": "What is the difference between a test case design and a release testing?",
+        "answer": "TEST CASE DESIGN: Test case design involves designing the text cases (inputs and outputs) used to test the system.","marks":2
+    },{
+        "question": "What is the goal of test case design?",
+        "answer": "The goal of test case design is to create a set of tests that are effective in validation and defect testing.","marks":3
+    },{
+        "question": "What is the difference between a top down and a bottom up approach?",
+        "answer": "The components may be: * Individual function or methods within an object * Object classes with several attributes and methods * Composite components with defined interfaces used to access their functionality Tester: developer Individual testing team Fig: Testing Phases 8.","marks":4
+    },{
+        "question": "What is the difference between top down and bottom up testing?",
+        "answer": "Top Down Testing is an approach to integrated testing where the top integrated modules are tested and the branch of the module is tested step by step until the end of the related module.","marks":2
+    },{
+        "question": "What is the difference between a top down and a bottom up approach?",
+        "answer": "Another name for this is \u2018functional testing\u2019, so called because the tester is only concerned with functionality and not the implementation of the software.","marks":5
+    },{
+        "question": "What is the purpose of release testing?",
+        "answer": "The aim of release testing is to check that the system meets the requirements of system stakeholders.","marks":2
+    },{
+        "question": "What is the difference between integration testing and release testing?",
+        "answer": "After the integration testing of lower level integrated modules, the next level of modules will be formed and can be used for integration testing.","marks":2
+    },{
+        "question": "What is the main approach to testing?",
+        "answer": "The public (usually) interfaces to classes, modules or libraries are tested with a variety of input arguments to validate that the results that are returned are correct.","marks":3
+    },{
+        "question": "What is the difference between white-box and st?",
+        "answer": "In white-box testing an internal perspective of the system, as well as programming skills, are used to design test cases.","marks":2
+    },{
+        "question": "What is the definition of a test automation technique?",
+        "answer": "This technique tries to define test cases that uncover classes of errors, thereby reducing the total number of test cases that must be developed.","marks":4
+    },{
+        "question": "What is a testing framework?",
+        "answer": "A testing framework generates user interface events such as keystrokes and mouse clicks, and observes the changes that result in the user interface, to validate that the observable behavior of the program is correct.","marks":2
+    },{
+        "question": "What is the main focus of the metric for testing?",
+        "answer": "METRICS FOR TESTING: Majority of metric for testing proposed focus on the process of testing,not the technical characteristics of the test themselves.","marks":4
+    },{
+        "question": "What are the most common metric used in testing?",
+        "answer": "* Halstead metrics applied to testing: Testing effort can be estimated using metrics derived from Halstead measures.","marks":2
+    },{
+        "question": "What is the definition of test automation?",
+        "answer": "TEST AUTOMATION: In software testing, test automation is the use of special software (separate from the software being tested) to control the execution of tests and the comparison of actual outcomes to predicted outcomes.","marks":3
+    },{
+        "question": "What is the difference between a test automation and a test automation?",
+        "answer": "It reduces testing costs by supporting the test process with range of software tools.","marks":2
+    },{
+        "question": "What is the definition of a test automation?",
+        "answer": "* Design approaches: * Requirement-based testing: Used in validation testing technique where we consider each requirement and tests for that requirement.","marks":2
+    },{
+        "question": "What is a test automation technique?",
+        "answer": "black-box testing).","marks":3
+    },{
+        "question": "What is the most common approach to testing?",
+        "answer": "System such as \u2018Junit\u2019 supports the automatic execution of tests.","marks":2
+    },{
+        "question": "What is a partition testing technique?",
+        "answer": "* Partition Testing: It is a software testing technique that divides the input data of a software unit into partitions of equivalent data from which test cases can be derived.","marks":3
+    },{
+        "question": "What is the difference between a test and a design approach?",
+        "answer": "The tester chooses inputs to exercise paths through the code and determine the appropriate outputs.","marks":4
+    },{
+        "question": "Who is unknown in the project?",
+        "answer": "People in the project may be unknown.","marks":3
+    },{
+        "question": "what is the cost of a software project?",
+        "answer": "The estimate defines the budget and the product is adjusted to meet the budget.","marks":2
+    },{
+        "question": "what is a pl?",
+        "answer": "PL=1/ [(n1/2)*(N2/n2)] e=V/ PL Where; PL is program level e is Halstead effort V is program volume n1 is no.","marks":2
+    },{
+        "question": "What is the difference between the cost of a project and the cost of a project?",
+        "answer": "Project cost estimates may be self-fulfilling.","marks":3
+    },{
+        "question": "what is the number of distinct operands in a program?",
+        "answer": "of distinct operands that appears in a program N2 is the total no.","marks":2
+    },{
+        "question": "what is the number of distinct operations that appears in a program?",
+        "answer": "of operand occurrence The percentage of overall testing effort to be allocated to a module \u2018K\u2019 can be estimated as: K=e(K)/?","marks":2
+    },{
+        "question": "What is the percentage of effort to be allocated to a module?",
+        "answer": "7.","marks":2
+    },{
+        "question": "What is the no. of distinct operations that appears in a program?",
+        "answer": "of distinct operations that appears in program n2 is the no.","marks":2
+    },{
+        "question": "What is the percentage of effort to be allocated to a module?",
+        "answer": "6.","marks":2
+    },{
+        "question": "how many lines of code is delivered?",
+        "answer": "of pages of system documentation * Useful for programming in FORTRAN, Assembly or COBOL * More expressive the programming language, the lower apparent productivity Example: A system which might be coded in 5000 lines of assembly code.","marks":2
+    },{
+        "question": "What is the definition of productivity?",
+        "answer": "Function-related measures: Productivity is expressed in terms of the amount of useful functionality produced in some given time.","marks":2
+
+    },{
+        "question": "how many lines/ month?",
+        "answer": "The development time for the various phases in 28 weeks, Then; productivity= (5000/28) *4 =714 lines/ month 8.","marks":2
+    },{
+        "question": "What is the value of the initial estimate?",
+        "answer": "Initial estimates are based on inadequate information in a user requirement definition.","marks":2
+    },{
+        "question": "what is the ratio between the amount of software produced to the labor and expense of producing it?",
+        "answer": "SOFTWARE PRODUCTIVITY: Software productivity is the ratio between the amount of software produced to the labor and expense of producing it.","marks":2
+    },{
+        "question": "what is the e of halstead?",
+        "answer": "ESTIMATION TECHNIQUES There is no simple way to make an accurate estimate of the effort required to develop a software system.","marks":2
+    },{
+        "question": "What is the number of pages of system documentation?",
+        "answer": "of delivered object code instruction or no.","marks":2
+    },{
+        "question": "what is the sum of effort across all modules of the system?",
+        "answer": "e(i) is the sum of effort across all modules of the system 8.","marks":2
+    },{
+        "question": "what is the %reuse of the application point in the delivered system?",
+        "answer": "Formula for effort computation for system prototype: PM= [NAP*(1 - %reuse/100)] / [PROD] Where; PM is effort estimation in person-motion NAP is the total no.","marks":2
+    },{
+        "question": "How can I calculate the time required for a project?",
+        "answer": "Staff required cannot be computed by dividing the development time by the required schedule.","marks":2
+    },{
+        "question": "what is the cost of a project?",
+        "answer": "Effort = A* sizeB*M Where; A is an organization-dependent constant B reflects the disproportionate effort for large project M is a multiplier reflecting product, process and people attributes * COCOMO MODEL(CONSTRUCTIVE COST MODEDL): This is an empirical model that was derived by collecting data from a large number of software projects.","marks":4
+    },{
+        "question": "What is the difference between a project and a staff?",
+        "answer": "PROJECT DURATION AND STAFFING: As well as effort estimation, managers must estimate the calendar time required in completing a project and the staff required.","marks":2
+    },{
+        "question": "what is the cost of a project?",
+        "answer": "ALGORITHM COST MODELLING Cost is estimated as a mathematical function of product, project and process attributes whose values are estimated by project manager.","marks":2
+    },{
+        "question": "What is the cost of a project?",
+        "answer": "01)] Where; PM is the effort computation B is the exponent computed (B is 1 for the early prototyping mode) Time required is independent of the number of people working in the project.","marks":2
+    },{
+        "question": "How many times does the cost of a project change?",
+        "answer": "25x 1: Feasibility 2: Requirement Design 3: Code 4: Delivery Fig: Estimation Uncertainty 8.","marks":2
+    },{
+        "question": "What is the best way to estimate the cost of a project?",
+        "answer": "We can always run regression tests to check the changes to the program have not introduced new bugs.","marks":4
+    },{
+        "question": "What is the definition of a regression test suite?",
+        "answer": "> A test suite is developed incrementally as a program is developed.","marks":2
+    },{
+        "question": "What is the cost of a project?",
+        "answer": "* Parkinson\u2019s law * Pricing to win 4x 2x 1 2 3 4 5 0.","marks":2
+    },{
+        "question": "What is the value of the effort in the delivered system?",
+        "answer": "of application points in the delivered system %reuse is an estimation of the amount of reused code in the development PROD is the application-point productivity 8.","marks":3
+    },{
+        "question": "What is the purpose of regression testing?",
+        "answer": "One of the main reasons for regression testing is to determine whether a change in one part of the software affects other parts of the software.","marks":2
+    },{
+        "question": "What is the purpose of testing a software?",
+        "answer": "4) Testing starts from requirements gathering, In other words early testing reduces the amount of money, rework involved etc.","marks":2
+    },{
+        "question": "What is the purpose of regression testing?",
+        "answer": "Example A software may not have any reported defects (all defects identified are fixed) but still it may fail in the production environment.","marks":2
+    },{
+        "question": "What is the purpose of testing a software?",
+        "answer": "It is impossible for us to test each and every notice that is being generated to each customer.","marks":2
+    },{
+        "question": "What is the purpose of testing a software?",
+        "answer": "3) Testing a software is to find out the defects - not to prove that the software is error free.","marks":3
+    },{
+        "question": "What are the basic principles of software testing?",
+        "answer": "List out possible errors of black-box testing.","marks":2
+    },{
+        "question": "What is the purpose of regression testing?",
+        "answer": "Regression testing can be used to test a system efficiently by systematically selecting the appropriate minimum set of tests needed to adequately cover a particular change.","marks":2
+    },{
+        "question": "What is the purpose of regression testing?",
+        "answer": "But an application built for storing the addresses in a Personal computer need not be tested rigorous similar to the previous application.","marks":2
+    }
+]

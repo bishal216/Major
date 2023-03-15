@@ -1,0 +1,20 @@
+{% extends 'baseHTML.html' %}
+
+{% block title %}Subjectwise QuestionSet Generation{% endblock %}
+
+{% block content %}
+<div class="container">
+    <form action="{{ url_for('submitSubject') }}" method="post">
+        <label for="dropdown">Select an option:</label>
+        <select name="dropdown" id="dropdown">
+          <option value="OnM">Organization and Management</option>
+          <option value="OOAD">Object oriented Analysis and Design</option>
+          <option value="SE">Software Engineering</option>
+          <option value="EES">Energy, Environment and Society</option>
+          <option value="EPP">Engineering Professional Practice</option>
+        </select>
+        <br><br>
+        <input type="submit" value="Submit">
+      </form>
+</div>
+{% endblock %}

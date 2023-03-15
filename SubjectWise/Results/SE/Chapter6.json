@@ -1,0 +1,135 @@
+[
+    {
+        "question": "What is the definition of a component?",
+        "answer": "According to Councill and Heinemann: * A software component is a software element that conforms to a component model and can be independently deployed and composed without modification according to a composition standard.","marks":2
+    },{
+        "question": "What is the definition of a software component?",
+        "answer": "According g to Szyperski: * A software component is a unit of composition with contractually specified interfaces and explicit context dependencies only.","marks":2
+    },{
+        "question": "What are the characteristics of a component?",
+        "answer": "\u2022 Components are more abstract than objects and classes.","marks":2
+    },{
+        "question": "What is the definition of a component?",
+        "answer": "\u2022 CBSE emerged from the failure of object-oriented development to support effective reuse.","marks":2
+    },{
+        "question": "What is the definition of a component?",
+        "answer": "Thus, they can be considered to be stand-alone service providers.","marks":2
+    },{
+        "question": "What is the definition of a component?",
+        "answer": "* Components can be composed with other components without knowledge of their implementation & can be deployed as an executable unit.","marks":2
+    },{
+        "question": "What is the definition of a component?",
+        "answer": "2 The CBSE process \u2022 Component-based software engineering (CBSE) is an approach to software development that relies on software reuse.","marks":2
+    },{
+        "question": "What are the common services that are likely to be required by many different components?",
+        "answer": "Support service: Which are common services that are likely to be required by many different components 6.","marks":3
+    },{
+        "question": "What are the main reasons for the failure of the CBSE process?",
+        "answer": "Single object classes are too detailed and specific.","marks":3
+    },{
+        "question": "What is a component?",
+        "answer": "1 Component and Component Model * A component is a s/w unit whose functionality and dependencies and completely defined by a set of public interface.","marks":2
+    },{
+        "question": "What is the definition of interface?",
+        "answer": "Provides interface defines the services provided by the component.","marks":2
+    },{
+        "question": "What is the definition of a component?",
+        "answer": "A software component can be deployed independently and is subject to composition by third-parties.","marks":2
+    },{
+        "question": "What is the definition of a component?",
+        "answer": "6.","marks":2
+    },{
+        "question": "What are the components that are related to each other?",
+        "answer": "] Component characteristics \u2022 Standardised \u2013 Following a standard component model \u2022 Independent \u2013 Usable without Adaptors \u2022 Compostable \u2013 External interactions use public interface \u2022 Deployable \u2013 Stand-alone entity \u2022 Documented \u2013 Full Documentation Components have two related interface i.","marks":4
+    },{
+        "question": "What is the definition of a platform service?",
+        "answer": "Platform service: Which enables components to communicate & interoperate in a distributed environment?","marks":2
+    },{
+        "question": "What is the definition of interface?",
+        "answer": "Requires interface specifies what services must be provide by other components in the system if a component is to operate correctly Fig: A component Component Model * Defines a set of standards for components, including interfaces standard, usage standards and deployment standards.","marks":2
+    },{
+        "question": "What is the principal sequence of the CBSE process?",
+        "answer": "In practice there are many loops and feedback cycles (.","marks":2
+    },{
+        "question": "What is the idea of CBSE?",
+        "answer": "The idea of CBSE is to raise the level of abstartcion of reusable entites.","marks":2
+    },{
+        "question": "What is the best way to use a component?",
+        "answer": "1 CBSE process reuse This figure shows the ideal/general process for CBSE without showing iterations and feedback loops.","marks":3
+    },{
+        "question": "What is the main purpose of CBSE?",
+        "answer": "This will not only reduce the effort needed for system development but will also have a positive impact on the costs involved.","marks":2
+    },{
+        "question": "What is the main promise of CBSE?",
+        "answer": "Effective reuse was/is also one of the major promises of OO.","marks":2
+    },{
+        "question": "What is the main promise of CBSE?",
+        "answer": ", single operations instead of applications).","marks":2
+    },{
+        "question": "What is the main purpose of CBSE?",
+        "answer": "> Searching again to find if there are better components that meet the revised requirements.","marks":2
+    },{
+        "question": "What is the main purpose of CBSE?",
+        "answer": "\u2022 CBSE requires knowledge, careful planning, and methodological support.","marks":2
+    },{
+        "question": "What is the purpose of CBSE?",
+        "answer": "\u2022 CBSE is inteneded to provide an effective and efficient means for reuse, by building systems out of existing parts or components.","marks":2
+    },{
+        "question": "What is the main purpose of CBSE?",
+        "answer": "Otherwise CBSE is likely to fail.","marks":2
+    },{
+        "question": "What is the meaning of tehy?",
+        "answer": "Thus tehy can be seen as standalone entittes or in other words: One man\u2018s component can be another mans system.","marks":2
+    },{
+        "question": "What are the principles of CBSE?",
+        "answer": "CBSE and design principles \u2022 Apart from the reuse, CBSE is based on sound software engineering principles: > Component are independent?","marks":2
+    },{
+        "question": "What are the main principles of CBSE?",
+        "answer": "do not interfere with each other; > Component implementations are hidden; > Communication is through well-defined interfaces; > Component platforms are shared and reduce development costs.","marks":2
+    },{
+        "question": "What is the process of CBSE?",
+        "answer": "\u2022 This involves: > Developing outline requirements; > Searching for components then modifying requirements according to available functionality.","marks":2
+    },{
+        "question": "What is the main promise of CBSE?",
+        "answer": "Also this sounds easy the general idea is not new but hasn\u2018t been succesfully realized yet.","marks":2
+    },{
+        "question": "What is the main idea of CBSE?",
+        "answer": "> Component interfaces and application are \u201estandardized\u201c to ease application CBSE process \u2022 When reusing components, it is essential to make trade-offs between ideal requirements and the services actually provided by available components.","marks":2
+    },{
+        "question": "What is the importance of a reusable component?",
+        "answer": "Although this sounds easy, ist practical application requires knowledge (oprovided services, side effects, providwers, market,.","marks":2
+    },{
+        "question": "What is the main purpose of CBSE?",
+        "answer": ") and methodological support applying sound engineering practices.","marks":2
+    },{
+        "question": "What is the principle sequence of CBSE?",
+        "answer": "), However, the principal sequence is the same.","marks":2
+    },{
+        "question": "What is the definition of s/w?",
+        "answer": "Development with reuse: Process of developing new application using existing components and services.","marks":2
+    },{
+        "question": "What is the definition of s/w engineer?",
+        "answer": "Development for reuse: Concerned with developing components that will be reused in other application.","marks":2
+    },{
+        "question": "What type of incompatibility can occur when composing components?",
+        "answer": "Operator incompatibility iii.","marks":2
+    },{
+        "question": "what is a component composition?",
+        "answer": "Sequential composition We can create new component from two existing component s by calling the exixting component in sequence.","marks":2
+    },{
+        "question": "what are the types of s/w process that support component based s/w?",
+        "answer": "There are s/w process that support component based s/w engineers 2 types of CBSE process are: 1.","marks":2
+    },{
+        "question": "what is component composition?",
+        "answer": "3 Component Composition Component composition is the process of integrating components with each other, and specially written \u2018glue code\u2019 to create a system or another component.","marks":2
+    },{
+        "question": "What is the difference between a sequential composition and an additive composition?",
+        "answer": "Additive composition This occurs when two or more component are put together to create a new component, which combine their functionality.","marks":2
+    },{
+        "question": "What is the difference between a sequential and a additive composition?",
+        "answer": "Hierarchical composition This type of composition occurs when one component calls directly on the services provided by another component.","marks":2
+    },{
+        "question": "What is the difference between a reusable component and a reusable component?",
+        "answer": "When composing reusable components that have not been written for specific application, one may need to write adaptors or \u2018glue code\u2019 to reconcile the different component interfaces.","marks":3
+    }
+]

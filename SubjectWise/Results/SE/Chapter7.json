@@ -1,0 +1,198 @@
+[
+    {
+        "question": "What is the definition of a V&V plan?",
+        "answer": "Consistency The extent to which the product is consistentwithin itself and with other products c.","marks":2
+    },{
+        "question": "What is the definition of a V & V plan?",
+        "answer": "1 Planning verification and validation The development of a V &V plan is essential to the success of a project.","marks":2
+    },{
+        "question": "What is the definition of a V&V plan?",
+        "answer": "Validation Validation is the process of evaluating a system or component during or at the end of the developmentprocess to determine whether it satisfies specified requirements.","marks":3
+    },{
+        "question": "How many inspections are there?",
+        "answer": "2 software inspections 7.","marks":2
+    },{
+        "question": "What are the requirements of a project?",
+        "answer": "Selection of V&V Techniques Specific techniques must be selected for each of the project\u2019sevolving products.","marks":2
+    },{
+        "question": "What is the process of 'end-to-end' verification?",
+        "answer": "Validation occurs through the utilization of various testing approaches.","marks":2
+    },{
+        "question": "What is the definition of critical system verification and validation?",
+        "answer": "4 Critical system verification and validation Verification It is an act of reviewing, inspecting, testing, checking, auditing, or otherwiseestablishing and documenting whether items, processes, services ordocuments conform to specified requirements.","marks":4
+    },{
+        "question": "What is the definition of a product?",
+        "answer": "Sufficiency The extent to which the product is complete.","marks":2
+    },{
+        "question": "What are the requirements of a V&V plan?",
+        "answer": "Identification of V&V Goals V&V goals must be identified from the requirements andspecifications.","marks":3
+    },{
+        "question": "What is the role of the project manager?",
+        "answer": "Organizational Responsibilities The organizational structure of a project is a keyplanning consideration for project managers.","marks":2
+    },{
+        "question": "What is the definition of a critical system verification and validation?",
+        "answer": "It can also be defined as the process of evaluating a system or component to determine whether the products of a given development phase satisfy the conditions imposed at the start of the phase.","marks":2
+    },{
+        "question": "What are the main goals of the V&V plan?",
+        "answer": "Correctness The extent to which the product is fault free.","marks":2
+    },{
+        "question": "What is the importance of planning?",
+        "answer": "Careful planning is required to get the most out of testing and inspection process.","marks":2
+    },{
+        "question": "What are the goals of a V&V plan?",
+        "answer": "These goals must address those attributesof the product that correspond to its userexpectations.","marks":2
+    },{
+        "question": "What is the definition of 'end-to-end' verification?",
+        "answer": "Validationis, therefore, 'end-to-end' verification.","marks":2
+    },{
+        "question": "What is the definition of a necessity?",
+        "answer": "Necessity The extent to which everything in the product isnecessary.","marks":2
+    },{
+        "question": "What is the importance of a plan for a project?",
+        "answer": "The plan must be developed early in the project.","marks":3
+    },{
+        "question": "What is the process of inspection?",
+        "answer": "Secondly, the required codes and documents are distributed to the inspection team in advance.","marks":2
+    },{
+        "question": "What is the role of inspection in the development of software?",
+        "answer": "Problem Tracking Software V&V plandeveloping a mechanism for documenting problems \u2022 when the problem occurred \u2022 where the problem occurred \u2022 evidence of the problem \u2022priority for solving problem * The V model of development 7.","marks":4
+    },{
+        "question": "What are the advantages of software inspections?",
+        "answer": "2 Software Inspections (static verifications) Software inspections can be used for the detection of defects in detailed designs before coding, and in code before testing.","marks":2
+    },{
+        "question": "What is the definition of a V&V inspection?",
+        "answer": "A precise specification must be available.","marks":2
+    },{
+        "question": "What is the role of the inspection team?",
+        "answer": "Management must accept that inspection will increase costs early in the software process.","marks":2
+    },{
+        "question": "What is the purpose of software inspections?",
+        "answer": "Software inspections are concerned with the analysis of the static system representation to discover problems (static verification).","marks":2
+    },{
+        "question": "What is the definition of a V&V approach?",
+        "answer": "Integrating V&V Approaches Once a set of V&V objectives has been identified,an overall integrated V&V approach must be deter-mined.","marks":2
+    },{
+        "question": "What is the planning of a V&V approach?",
+        "answer": "The planning of this integrated V&Vapproach is very dependent upon the nature of theproduct and the process used to develop it.","marks":2
+    },{
+        "question": "What is the difference between a static inspection and a static inspection?",
+        "answer": "Inspection is based on reading techniques.","marks":2
+    },{
+        "question": "What is the difference between inspection and testing?",
+        "answer": "As inspection is static process there is no interaction between errors,consequently an inspection can discover many errors.","marks":2
+    },{
+        "question": "What are the main purposes of software inspections?",
+        "answer": "They may also be used to verify system requirements, design models and even the proposed system tests.","marks":2
+    },{
+        "question": "What is the definition of a system inspection?",
+        "answer": "Syntactically correct code must be available.","marks":2
+    },{
+        "question": "What is the importance of a checklist?",
+        "answer": "An error checklist must be present.","marks":2
+    },{
+        "question": "What is the difference between pre inspection and testing?",
+        "answer": "Pre inspection however may or may not be required.","marks":2
+    },{
+        "question": "What is the process of inspection?",
+        "answer": "Then, inspection takes place and errors are discovered.","marks":2
+    },{
+        "question": "What is the difference between a static inspection and a manual inspection?",
+        "answer": "Inspection is a manual, static technique that can be applied early in the development cycle.","marks":2
+    },{
+        "question": "What are the advantages of inspection?",
+        "answer": "Inspection considers inefficiencies, inappropriate algorithms and poor programming styles that could make system difficult.","marks":3
+    },{
+        "question": "Who leads the inspection meeting?",
+        "answer": "Moderator: The moderator leads the inspection and chairs the inspection meeting.","marks":2
+    },{
+        "question": "What are the three roles of inspectors?",
+        "answer": "designer, coder and tester).","marks":2
+    },{
+        "question": "What is the definition of a static verification technique?",
+        "answer": "4 Verification and Formal Methods (FM) FM can be used when a mathematical specification of the system is produced.","marks":2
+    },{
+        "question": "What is the cost of a specification?",
+        "answer": "It is very expensive to develop a specification and even more expensive to show that a program meets that specification.","marks":2
+    },{
+        "question": "What is the best argument for FM?",
+        "answer": "Requires specialized notations that are not understood by domain experts.","marks":2
+    },{
+        "question": "What is the role of the moderator?",
+        "answer": "The person should have implementation skills, but not necessarily be knowledgeable about the item under inspection.","marks":2
+    },{
+        "question": "What is the cost of failure?",
+        "answer": "The cost of failure is so high that it is cheaper to find and remove faults than to pay for system failure.","marks":2
+    },{
+        "question": "What is the role of an inspector?",
+        "answer": "Inspector: Inspectors identify and describe defects in the review items under inspection.","marks":2
+    },{
+        "question": "What is the cost of critical system verification and validation?",
+        "answer": "4 Critical system Verification and Validation * Verification and Validation cost V and V costs for critical system involves additional validation processes and analysis than for other system.","marks":2
+    },{
+        "question": "What is the role of the reader in the inspection?",
+        "answer": "Reader: The reader guides the inspection team through the review items during the inspection meetings.","marks":2
+    },{
+        "question": "What is the best way to get a moderator to do the inspection?",
+        "answer": "Ideally they should receive some training in inspection procedures.","marks":2
+    },{
+        "question": "Who is responsible for all rework?",
+        "answer": "The author is present to answer questions about the items under inspection, and is responsible for all rework.","marks":2
+    },{
+        "question": "What percentage of systems are desiring software quality but not high-integrity?",
+        "answer": "10-18% systems desiring software quality but not high-integrity.","marks":2
+    },{
+        "question": "Who is often drawn from outside the project?",
+        "answer": "For this reason moderators are often drawn from staff outside the project.","marks":2
+    },{
+        "question": "What are the ultimate static verification techniques?",
+        "answer": "They involve detailed mathematical analysis if the specifications and may develop format arguments that a program conforms to its mathematical specification.","marks":2
+    },{
+        "question": "Who is the author?",
+        "answer": "Author: The author is the person who has produced the items under inspection.","marks":2
+    },{
+        "question": "What are the ultimate static verification techniques?",
+        "answer": "They are the ultimate static verification techniques.","marks":2
+    },{
+        "question": "What is the role of the author?",
+        "answer": "In the interests of objectivity, no person may share the author role with another role.","marks":2
+    },{
+        "question": "What is the best way to test a system?",
+        "answer": "* Arguments for FM Producing a mathematical specification requires a detailed analysis of the requirements and this is likely to uncover errors.","marks":2
+    },{
+        "question": "What are the types of cases that are used to prove that a level of safety has been?",
+        "answer": "Safety and dependability cases: These are structured documents that set out detailed argument and evidence that a required level if safety or dependability has been achieved.","marks":4
+    },{
+        "question": "What is the purpose of the security assessment?",
+        "answer": "Security assessment: Intended to demonstrate that the system can't enter some state rather than to demonstrate that the system can do something.","marks":2
+    },{
+        "question": "What is the definition of critical system verification and validation?",
+        "answer": "* Critical system verification and validation includes: 1.","marks":2
+    },{
+        "question": "What are the four complementary approaches for security checking?",
+        "answer": "* Security assessment There are four complementary approaches for security checking: 1.","marks":2
+    },{
+        "question": "What is the purpose of the review?",
+        "answer": "Review to verify that the algorithm and data structure design are consistent with the specified behavior.","marks":2
+    },{
+        "question": "What is the difference between security and verification?",
+        "answer": "Review the consistency of the code and the algorithm and the data structure design.","marks":2
+    },{
+        "question": "What is the definition of safety assurance?",
+        "answer": "However, quantitative measurements of safety is impossible.","marks":2
+    },{
+        "question": "What is the difference between security and verification?",
+        "answer": "Review the adequacy of the system test cases.","marks":2
+    },{
+        "question": "What is the definition of safety assurance?",
+        "answer": "Safety assurance: Concerned with establishing confidence labels in the system.","marks":2
+    },{
+        "question": "What type of review is recommended for safety critical system?",
+        "answer": "* Process et al(1990) suggests five types of review for safety critical system: 1.","marks":2
+    },{
+        "question": "What is the difference between review for safety critical system and validation?",
+        "answer": "Review for correct intended function.","marks":4
+    },{
+        "question": "What is the difference between review for safety critical system and validation?",
+        "answer": "Review for maintainable, understandable structure.","marks":4
+    }
+]

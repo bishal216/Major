@@ -1,0 +1,174 @@
+[
+    {
+        "question": "What is the best way to reuse a program?",
+        "answer": "* Accelerated development- Embed standards in reusable components.","marks":2
+    },{
+        "question": "What is the definition of a reuse?",
+        "answer": "Component reuse * Components of an application from sub- systems to single objects may be reused.","marks":2
+    },{
+        "question": "What is the meaning of a pattern?",
+        "answer": "Pattern element > Name * A meaningful pattern identifier > Problem Description > Solution * Not a concrete design but a template for a design solution that can be installed in different ways.","marks":2
+    },{
+        "question": "What is the definition of a design pattern?",
+        "answer": "* It should be sufficiently abstract to be reused in different settings.","marks":2
+    },{
+        "question": "What is the best way to reuse components?",
+        "answer": "* Effective use of specialists- Reuse components instead of people 5.","marks":2
+    },{
+        "question": "What is the definition of a reuse?",
+        "answer": "Object and function reuse * Software Components that implement a single well-defined object or function may be reused.","marks":2
+    },{
+        "question": "What is the definition of a design pattern?",
+        "answer": "Design Patterns 2.","marks":2
+    },{
+        "question": "What is the approach to concept reuse?",
+        "answer": "* Approach to concept reuse is 1.","marks":2
+    },{
+        "question": "What is the best way to reuse a program?",
+        "answer": "3.","marks":2
+    },{
+        "question": "What is the definition of a reuse?",
+        "answer": "* The whole of an application system may be reused either by incorporating it without change into other system(COTS reuse) or by developing application families." ,"marks":3
+    },{
+        "question": "What is the best way to reuse a system?",
+        "answer": "* Standard compliance- Embed standards in reusable components.","marks":2
+    },{
+        "question": "What is the definition of a design pattern?",
+        "answer": "2 Design Pattern * Way of reusing abstract knowledge about a problem and its solution.","marks":2
+    },{
+        "question": "What are the advantages of reusing components?",
+        "answer": "Advantages * Increased reliability- components exercised in working system * Reduced process risk- Reuse components instead of people.","marks":2
+    },{
+        "question": "What is the definition of a reuse?",
+        "answer": "* Reuse is possible at a range of levels from simple functions to complete application systems.","marks":2
+    },{
+        "question": "What is the definition of a design pattern?",
+        "answer": "2.","marks":2
+    },{
+        "question": "What is the definition of a reuse?",
+        "answer": "* Covers the range of possible reuse technologies Fig: Reuse Language Concept Reuse * When we reuse program, we have to follow the design decision made by the original developer of the program * This may limit the opportunities for reuse * However, more abstract form of reuse is concept reuse when a particular approach is described in an implementation independent way and an implementation is then developed.","marks":6
+    },{
+        "question": "What is a pattern?",
+        "answer": "* A pattern is a description of the problem and the essence of its solution.","marks":2
+    },{
+        "question": "What is the definition of a reuse?",
+        "answer": "Application system reuse.","marks":2
+    },{
+        "question": "What is the best way to reuse a program?",
+        "answer": "Generative Programming 5.","marks":2
+    },{
+        "question": "What are the main characteristics of a pattern?",
+        "answer": "* Pattern often rely on object characteristics such as inheritance and polymorphism.","marks":2
+    },{
+        "question": "What is the purpose of reusing a system?",
+        "answer": "* To achieve better s/w, more quickly at lower cost Reuse- based Software Engineering 1.","marks":2
+    },{
+        "question": "What is the definition of a reuse?",
+        "answer": "5 Software Reuse -Anuj joshi * Systems are designed by compos,ing existing components.","marks":2
+    },{
+        "question": "What is the definition of a reuse landscape?",
+        "answer": "1 Reuse landscape * Although reuse is often simply thought of as the reuse of the reuse of system components, there are many different approaches to reuse that may be used.","marks":2
+    },{
+        "question": "What is the difference between a generator and a program generator?",
+        "answer": "Reuse through program generation 5.","marks":2
+    },{
+        "question": "What is the difference between a generator and a program generator?",
+        "answer": "* Allows for multiple presentations of an object and separate interactions with these presentations.","marks":2
+    },{
+        "question": "What are the main differences between the two approaches?",
+        "answer": "* Frameworks are moderately large entities than can be reuse.","marks":2
+    },{
+        "question": "What are the main types of program generators?",
+        "answer": "Code generators in CASE tools.","marks":2
+    },{
+        "question": "What is the difference between a generator and a program generator?",
+        "answer": "5.","marks":2
+    },{
+        "question": "What are the main components of a generator?",
+        "answer": "3 Generator- based reuse > Program generators involve the reuse of standard program and algorithms.","marks":2
+    },{
+        "question": "What are the main components of a framework?",
+        "answer": "Framework classes 1.","marks":2
+    },{
+        "question": "What are the main components of a generator?",
+        "answer": "Enterprise application * Standards and classes that support component communications and information exchange.","marks":2
+    },{
+        "question": "What is the difference between generator- based and component- based reuse?",
+        "answer": "* Generator- based reuse is very cost-effective but its applicability is limited to a Relatively small number of application domains.","marks":2
+    },{
+        "question": "What are the main components of a system?",
+        "answer": "System infrastructure framework * Support the development of system infrastructures such as communications, user interface and compilers.","marks":2
+    },{
+        "question": "What are the consequences of using a pattern?",
+        "answer": "> Consequences * The results and trade-offs of applying the pattern.","marks":2
+    },{
+        "question": "What are the benefits of a generic ERP system?",
+        "answer": "* Benefits in faster application development lower cost.","marks":2
+    },{
+        "question": "What are the advantages of a generic ERP system?",
+        "answer": "* Software product lines are related applications developed around a common core of shared functionality.","marks":2
+    },{
+        "question": "What is the most common form of software reuse?",
+        "answer": "Selecting from a library of existing components 4.","marks":2
+    },{
+        "question": "What are the advantages of a program generator?",
+        "answer": "* Program generators are also concerned with software reuse- the reusable concepts are embedded in a generator system.","marks":2
+    },{
+        "question": "What are the advantages of a generic ERP system?",
+        "answer": "g.","marks":2
+    },{
+        "question": "What are the advantages of a generic ERP system?",
+        "answer": "* Application frameworks are collections of concrete and abstract objects that are designed for reuse through specialisation.","marks":3
+    },{
+        "question": "What are the advantages of reusing an ERP system?",
+        "answer": "Fig: ERP System Organisation Key points * Advantages of reuse are lower costs, faster software development and lower risks.","marks":2
+    },{
+        "question": "What is the key point of the article?",
+        "answer": "3.","marks":1
+    },{
+        "question": "What are the advantages of reusing an ERP system?",
+        "answer": ": E- Procurement system Fig: E-Procurement System COTS product reused * On client, standard e-mail and web browsing program are used.","marks":3
+    },{
+        "question": "What is the most common form of software reuse?",
+        "answer": "Modifying components to meet new requirements E.","marks":2
+    },{
+        "question": "What is the key to a successful ERP system?",
+        "answer": "* Adaptive involves 1.","marks":2
+    },{
+        "question": "What is the most common form of software reuse?",
+        "answer": "Component and system configuration 2.","marks":2
+    },{
+        "question": "What are the advantages of a generic ERP system?",
+        "answer": "* COTS product reuse include lack of control over functionality, performance and evolution and problems with inter- operation.","marks":2
+    },{
+        "question": "What are the advantages of a reusable system?",
+        "answer": "* Design patterns are high-level abstractions that document successful design solutions.","marks":2
+    },{
+        "question": "What is the most common form of software reuse?",
+        "answer": "o This involves writing an adaptor so that they can exchange data.","marks":2
+    },{
+        "question": "What is the difference between a generic core and a generic core?",
+        "answer": "* The generic core is adapted by including modules and by incorporating knowledge of business process and rules.","marks":2
+    },{
+        "question": "What is the main advantage of a generic ERP system?",
+        "answer": "Product line development e.","marks":2
+    },{
+        "question": "What is an ERP system?",
+        "answer": "; ERP system (Enterprise Resource Planning) ERP system * An Enterprise Resource Planning (ERP) system is a generic system that supports common business processes such as ordering and invoicing, manufacturing, etc.","marks":3
+    },{
+        "question": "What is the main advantage of e-commerce plat form integration?",
+        "answer": "* On server, an e-commerce plat form has to be integration with existing ordering system.","marks":2
+    },{
+        "question": "What is the difference between an ERP system and a generic one?",
+        "answer": "* ERP systems are created by configuring a generic system with information about a customer\u2019s business.","marks":2
+    },{
+        "question": "What are the advantages of a generic ERP system?",
+        "answer": "* These are widely used in large companies- they represent probably the most common form of software reuse.","marks":2
+    },{
+        "question": "What is the difference between a generic and a generic application?",
+        "answer": "Software Product lines (Application Families) * Application with generic functionality that can be adapted and configured for use in specific content.","marks":3
+    },{
+        "question": "What is the most common form of software reuse?",
+        "answer": "Adding new components to the system.","marks":2
+    }
+]

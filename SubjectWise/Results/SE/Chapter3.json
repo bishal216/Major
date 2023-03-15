@@ -1,0 +1,236 @@
+[
+    
+    {
+        "question": "What is the definition of architectural design?",
+        "answer": "Is there generic application architecture that can act as a template for the system that is being designed?",
+        "marks":2
+        },
+        {
+        "question": "What is the difference between distributed and a single processor?",
+        "answer": "However, most large systems are now distributed systems in which the system software is distributed across many different computers.",
+        "marks":2
+        },
+        {
+        "question": "Why should the architectural style and structure that you choose for a system depend on the nonfunctional?",
+        "answer": "Because of the close relationship between nonfunctional requirements and software architecture, the particular architectural style and structure that you choose for a system should depend on the nonfunctional system requirements: 1.",
+        "marks":4
+        },
+        {
+        "question": "What is the purpose of the article?",
+        "answer": "How should the architecture of the system be documented?",
+        "marks":2
+        },
+        {
+        "question": "What is the purpose of the architectural design?",
+        "answer": "How will the architectural design be evaluated?",
+        "marks":2
+        },
+        {
+        "question": "What are the fundamental questions that system architects have to consider?",
+        "answer": "Based on their knowledge and experience, they have to consider the following fundamental questions about the system: 1.",
+        "marks":5
+        },
+        {
+        "question": "What is the definition of architectural design?",
+        "answer": "1 Architectural design decisions: Architectural design is a creative process where you design a system organization that will satisfy the functional and non-functional requirements of a system.",
+        "marks":2
+        },
+        {
+        "question": "Why is architectural design a creative process?",
+        "answer": "Because it is a creative process the activities within the process depend on the type of system being developed, the background and experience of the system architect, and the specific requirements for the system.",
+        "marks":3
+        },
+        {
+        "question": "What is the difference between a distributed architecture and an embedded system?",
+        "answer": "For embedded systems and systems designed for personal computers, there is usually only a single processor and you will not have to design a distributed architecture for the system.",
+        "marks":3
+        },
+        {
+        "question": "What is the output of the architectural design process?",
+        "answer": "The output of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components.",
+        "marks":3
+        },
+        {
+        "question": "What are the main components of the system?",
+        "answer": "During the architectural design process, system architects have to make a number of structural decisions that profoundly affect the system and its development process.",
+        "marks":5
+        },
+        {
+        "question": "What is the key decision that affects the performance and reliability of the system?",
+        "answer": "The choice of distribution architecture is a key decision that affects the performance and reliability of the system.",
+        "marks":5
+        },{
+        "question": "What is the meaning of architectural design?",
+        "answer": "It is therefore useful to think of architectural design as a series of decisions to be made rather than a sequence of activities.","marks":4
+    },{
+        "question": "What is the best architectural organization for delivering the non-functional requirement of the system?",
+        "answer": "What architectural organization is best for delivering the non-functional requirement of the system?","marks":3
+    },{
+        "question": "What is the definition of architectural design?",
+        "answer": "In the model of the software development process, architectural design is the first stage in the software design process.","marks":2
+    },{
+        "question": "What is the key link between design and requirement engineering?",
+        "answer": "It is the critical link between design and requirement engineering, as it identifies the main structural components in a system and the relationships between them.","marks":4
+    },{
+        "question": "What is the meaning of architectural design?",
+        "answer": "Chapter -3 Architectural design: -Sunil Lama Architectural design is concerned with understanding how a system should be organized and designing the overall structure of that system.","marks":3
+    },{
+        "question": "What is the definition of architecture?",
+        "answer": "Performance: If performance is a critical requirement, the architecture should be designed to localize critical operations within a small number of components, with these components all deployed on the same computer rather than distributed across the network.","marks":2
+    },{
+        "question": "What is the purpose of the architectural design?",
+        "answer": "What strategy will be used to control the operation of the components in the system?","marks":3
+    },{
+        "question": "What is the difference between the two?",
+        "answer": "Although each software system is unique, systems in the same application domain often have similar architectures that reflect the fundamental concepts of the domain.","marks":3
+    },{
+        "question": "What is the most common reason for the failure of a system?",
+        "answer": "Inevitably a compromise.","marks":3
+    },{
+        "question": "What is the most common way to share large amounts of data?",
+        "answer": "Sharing model is published as the repository schema.","marks":4
+    },{
+        "question": "What is the main idea of the repository model?",
+        "answer": "Producers of data should be separated from consumers and shared data structures should be avoided.","marks":5
+    },{
+        "question": "What are the advantages of a shared data repository?",
+        "answer": "Repository model characteristics: * Advantages: 1.","marks":3
+    },{
+        "question": "What is the cost of data evolution?",
+        "answer": "Data evolution is difficult and expensive.","marks":4
+    },{
+        "question": "What is the most common type of repository?",
+        "answer": "Efficient way to share large amount of data.","marks":2
+    },{
+        "question": "What is the scope for?",
+        "answer": "No scope for specific management policies, 4.","marks":2
+    },{
+        "question": "What is the most common way to share large amounts of data?",
+        "answer": "Each sub-system maintains its own database and passes data explicitly to other sub-systems.","marks":3
+    },{
+        "question": "What is the most important requirement for a repository?",
+        "answer": "Security: If security is critical requirement, a layered structure for the architecture should be used, with the most critical assets protected in the innermost layers, with a high level of security validation applied to these layers.","marks":5
+    },{
+        "question": "What is the most common type of repository?",
+        "answer": "An abstract machine or layered style.","marks":2
+    } ,   {
+        "question": "What is the definition of architectural design?",
+        "answer": "Is there generic application architecture that can act as a template for the system that is being designed?",
+        "marks": 2
+    },
+    {
+        "question": "What is the difference between distributed and a single processor?",
+        "answer": "However, most large systems are now distributed systems in which the system software is distributed across many different computers.",
+        "marks": 2
+    },
+    {
+        "question": "Why should the architectural style and structure that you choose for a system depend on the nonfunctional?",
+        "answer": "Because of the close relationship between nonfunctional requirements and software architecture, the particular architectural style and structure that you choose for a system should depend on the nonfunctional system requirements: 1.",
+        "marks": 4
+    },
+    {
+        "question": "What is the purpose of the article?",
+        "answer": "How should the architecture of the system be documented?",
+        "marks": 2
+    },
+    {
+        "question": "What is the purpose of the architectural design?",
+        "answer": "How will the architectural design be evaluated?",
+        "marks": 2
+    },
+    {
+        "question": "What are the fundamental questions that system architects have to consider?",
+        "answer": "Based on their knowledge and experience, they have to consider the following fundamental questions about the system: 1.",
+        "marks": 5
+    },
+    {
+        "question": "What is the definition of architectural design?",
+        "answer": "1 Architectural design decisions: Architectural design is a creative process where you design a system organization that will satisfy the functional and non-functional requirements of a system.",
+        "marks": 2
+    },
+    {
+        "question": "Why is architectural design a creative process?",
+        "answer": "Because it is a creative process the activities within the process depend on the type of system being developed, the background and experience of the system architect, and the specific requirements for the system.",
+        "marks": 3
+    },
+    {
+        "question": "What is the difference between a distributed architecture and an embedded system?",
+        "answer": "For embedded systems and systems designed for personal computers, there is usually only a single processor and you will not have to design a distributed architecture for the system.",
+        "marks": 3
+    },
+    {
+        "question": "What is the output of the architectural design process?",
+        "answer": "The output of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components.",
+        "marks": 3
+    },
+    {
+        "question": "What are the main components of the system?",
+        "answer": "During the architectural design process, system architects have to make a number of structural decisions that profoundly affect the system and its development process.",
+        "marks": 5
+    },{
+        "question": "What is the difference between a system organization and a module?",
+        "answer": "Applicable to concurrent systems.",
+        "marks" : 4
+    },{
+        "question": "What is the definition of a reference architecture?",
+        "answer": "OSI reference model is a layered model of communication system Application Presentation Session Transport Network Data link physical Application Presentation Session Transport Network Data link Physical Communication channel Fig: OSI reference model 3.","marks":3
+    },{
+        "question": "What is the architecture of a real time system?",
+        "answer": "In this architecture, distribution of process to processor may be preordered or may be under the control of the dispatcher.","marks":3
+    },{
+        "question": "What is the architecture of a real time system?",
+        "answer": "It is Architectural model of many large real time systems.","marks":4
+    },{
+        "question": "What are other types of models?",
+        "answer": "* Other event driven models include spreadsheets and production systems.","marks":2
+    },{
+        "question": "What is the main purpose of reference architectures?",
+        "answer": "Essentially, they include everything that might be in application architecture although, in reality, it is very unlikely that any individual application would include all the features shown in a reference architecture.","marks":5
+    },{
+        "question": "What is the purpose of a reference architecture?",
+        "answer": "* It acts as a standard against which system can be evaluated.","marks":2
+    },{
+        "question": "What is the purpose of a reference architecture?",
+        "answer": ") * Reference models are derived from study of application domain rather than from existing system- maybe used as a basic system implementation or to compare different system.","marks":4
+    },{
+        "question": "What is the difference between a distributed entity and a service object?",
+        "answer": "Features: * No distinction * Each distributed entity is objects that provide service other object and receive from other objects.","marks":5
+    },{
+        "question": "What is the difference between a distributed computing and a client server?",
+        "answer": "* Newer model of distributed computing have been designed to support inter-organizational computing where different node server are located at different organization.","marks":5
+    },{
+        "question": "What is the purpose of the data management layer?",
+        "answer": "* Data management layer concerned with managing the system.","marks":2
+    },{
+        "question": "What is the difference between a client and a server?",
+        "answer": "* However, more complexes to design the client server architecture.","marks":3
+    },{
+        "question": "What is the difference between a distributed object and a client server?",
+        "answer": "* System is flexible and scalable." ,"marks":4
+    },{
+        "question": "What is the purpose of distributed computing?",
+        "answer": "9 Inter-organizational distributed computing Features: * Used for security and interoperability reason.","marks":5
+    },{
+        "question": "What is the purpose of the application layer?",
+        "answer": "* Application layer is concerned with providing application specific functionality.","marks":3
+    },{
+        "question": "What are the advantages of inter-organizational distributed computing?",
+        "answer": "* Local standards management and operational processes apply for such inter-organizational distributed computing.","marks":4
+    },{
+        "question": "What are the advantages of a distributed object architecture?",
+        "answer": "Advantages: * It allows system designer to delay decision on where and how services should be provided.","marks":3
+    },{
+        "question": "What is the difference between a middleware system and a software bus?",
+        "answer": "* Object communication is through middleware system called an object request booker or software bus.","marks":4
+    },{
+        "question": "What is the definition of distributed object architecture?",
+        "answer": "8 Distributed object architecture: O1 S(01) O2 S(o2) O3 S(o3) O5 S(o5) O4 S(04) Fig: Distributed object architecture.","marks":4
+    },{
+        "question": "What is the difference between a distributed object and a client server?",
+        "answer": "* It is very open system architecture that allows to new resources to be as required.","marks":4
+    },{
+        "question": "What is the purpose of the presentation layer?",
+        "answer": "* Presentation layer is concerned with presenting the result of a computation to system users and with collecting user inputs.","marks":3
+    }
+
+]
